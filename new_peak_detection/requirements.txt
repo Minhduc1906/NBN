@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+scipy
+scikit-learn
+psutil
+matplotlib
+seaborn
+shap
+torch
+torchvision
+kaleido

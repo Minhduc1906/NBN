@@ -1,0 +1,72 @@
+;
+; BIND data file for local loopback interface
+;
+$TTL	604800
+@	IN	SOA	localhost. root.localhost. (
+		     2024083001		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@	IN	NS	localhost.
+
+; Management network (including DNS for our convenience)
+$ORIGIN mgmt.net.
+
+client1-mgmt	A	10.10.10.21
+client2-mgmt	A	10.10.10.22
+client3-mgmt	A	10.10.10.23
+client4-mgmt	A	10.10.10.24
+client5-mgmt	A	10.10.10.25
+client6-mgmt	A	10.10.10.26
+client7-mgmt	A	10.10.10.27
+client8-mgmt	A	10.10.10.28
+client9-mgmt	A	10.10.10.29
+client10-mgmt	A	10.10.10.30
+client11-mgmt	A	10.10.10.31
+client12-mgmt	A	10.10.10.32
+client13-mgmt	A	10.10.10.33
+client14-mgmt	A	10.10.10.34
+client15-mgmt	A	10.10.10.35
+client16-mgmt	A	10.10.10.36
+client17-mgmt	A	10.10.10.37
+client18-mgmt	A	10.10.10.38
+client19-mgmt	A	10.10.10.39
+client20-mgmt	A	10.10.10.40
+
+cust-gw-mgmt	A	10.10.10.1
+r1-mgmt		CNAME	cust-gw-mgmt
+rsp-gw-mgmt	A	10.10.10.2
+r2-mgmt		CNAME	rsp-gw-mgmt
+cdn-gw-mgmt	A	10.10.10.3
+r3-mgmt		CNAME	cdn-gw-mgmt
+
+s1-mgmt		A	10.10.10.11
+s2-mgmt		A	10.10.10.12
+s3-mgmt		A	10.10.10.13
+s4-mgmt		A	10.10.10.14
+
+server1-mgmt	A	10.10.10.41
+server2-mgmt	A	10.10.10.42
+server3-mgmt	A	10.10.10.43
+server4-mgmt	A	10.10.10.44
+server5-mgmt	A	10.10.10.45
+server6-mgmt	A	10.10.10.46
+server7-mgmt	A	10.10.10.47
+server8-mgmt	A	10.10.10.48
+server9-mgmt	A	10.10.10.49
+server10-mgmt	A	10.10.10.50
+server11-mgmt	A	10.10.10.51
+server12-mgmt	A	10.10.10.52
+server13-mgmt	A	10.10.10.53
+server14-mgmt	A	10.10.10.54
+server15-mgmt	A	10.10.10.55
+server16-mgmt	A	10.10.10.56
+server17-mgmt	A	10.10.10.57
+server18-mgmt	A	10.10.10.58
+server19-mgmt	A	10.10.10.59
+server20-mgmt	A	10.10.10.60
+
+dns-mgmt	A	10.10.10.254
+dns		CNAME	dns-mgmt

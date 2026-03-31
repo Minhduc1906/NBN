@@ -1,0 +1,34 @@
+$TTL	604800
+@	IN	SOA	localhost. root.localhost. (
+		     2020102101		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@	IN	NS	localhost.
+
+$ORIGIN 100.168.192.in-addr.arpa.
+
+1	PTR	client1.home.net.
+2	PTR	client2.home.net.
+3	PTR	client3.home.net.
+4	PTR	client4.home.net.
+5	PTR	client5.home.net.
+6	PTR	client6.home.net.
+7	PTR	client7.home.net.
+8	PTR	client8.home.net.
+9	PTR	client9.home.net.
+10	PTR	client10.home.net.
+11	PTR	client11.home.net.
+12	PTR	client12.home.net.
+13	PTR	client13.home.net.
+14	PTR	client14.home.net.
+15	PTR	client15.home.net.
+16	PTR	client16.home.net.
+17	PTR	client17.home.net.
+18	PTR	client18.home.net.
+19	PTR	client19.home.net.
+20	PTR	client20.home.net.
+
+254	PTR	cust-gw-int.home.net.

@@ -1,0 +1,39 @@
+;
+; BIND data file for local loopback interface
+;
+$TTL	604800
+@	IN	SOA	localhost. root.localhost. (
+		     2024083001		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@	IN	NS	localhost.
+
+; client network L3
+$ORIGIN home.net.
+
+client1		A	192.168.100.1
+client2		A	192.168.100.2
+client3		A	192.168.100.3
+client4		A	192.168.100.4
+client5		A	192.168.100.5
+client6		A	192.168.100.6
+client7		A	192.168.100.7
+client8		A	192.168.100.8
+client9		A	192.168.100.9
+client10	A	192.168.100.10
+client11	A	192.168.100.11
+client12	A	192.168.100.12
+client13	A	192.168.100.13
+client14	A	192.168.100.14
+client15	A	192.168.100.15
+client16	A	192.168.100.16
+client17	A	192.168.100.17
+client18	A	192.168.100.18
+client19	A	192.168.100.19
+client20	A	192.168.100.20
+
+; NAT gateway
+cust-gw-int	A	192.168.100.254

@@ -1,0 +1,14 @@
+[
+  {
+    "hostname": "r2-mgmt",
+    "interfaces": [
+      "r2-s2"
+    ]
+  },
+  {
+    "hostname": "s2-mgmt",
+    "interfaces": [
+      "s2-r2"
+    ]
+  }
+]

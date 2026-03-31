@@ -1,0 +1,2 @@
+Scenario,Mode,Households,Clients per household,First household start (s),Household start interval (s),TCP per household (Mb/s),UDP per household (Mb/s),Service downstream per household (Mb/s),Service upstream per household (Mb/s),Aggregation downstream (Mb/s),Aggregation upstream (Mb/s),Goal Description
+"8-household staged downstream congestion",households,8,2,5,5,75,75,150,40,500,200,"Households join every 5 seconds and each household contributes 75 Mb/s TCP plus 75 Mb/s UDP downstream to expose congestion on the shared r2-s2 bottleneck."

@@ -1,0 +1,64 @@
+$TTL	604800
+@	IN	SOA	localhost. root.localhost. (
+		     2020102101		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@	IN	NS	localhost.
+
+$ORIGIN 10.10.10.in-addr.arpa.
+
+1	PTR	r1-mgmt.mgmt.net.
+2	PTR	r2-mgmt.mgmt.net.
+3	PTR	r3-mgmt.mgmt.net.
+
+11	PTR	s1-mgmt.mgmt.net.
+12	PTR	s2-mgmt.mgmt.net.
+13	PTR	s3-mgmt.mgmt.net.
+14	PTR	s4-mgmt.mgmt.net.
+
+21	PTR	client1-mgmt.mgmt.net.
+22	PTR	client2-mgmt.mgmt.net.
+23	PTR	client3-mgmt.mgmt.net.
+24	PTR	client4-mgmt.mgmt.net.
+25	PTR	client5-mgmt.mgmt.net.
+26	PTR	client6-mgmt.mgmt.net.
+27	PTR	client7-mgmt.mgmt.net.
+28	PTR	client8-mgmt.mgmt.net.
+29	PTR	client9-mgmt.mgmt.net.
+30	PTR	client10-mgmt.mgmt.net.
+31	PTR	client11-mgmt.mgmt.net.
+32	PTR	client12-mgmt.mgmt.net.
+33	PTR	client13-mgmt.mgmt.net.
+34	PTR	client14-mgmt.mgmt.net.
+35	PTR	client15-mgmt.mgmt.net.
+36	PTR	client16-mgmt.mgmt.net.
+37	PTR	client17-mgmt.mgmt.net.
+38	PTR	client18-mgmt.mgmt.net.
+39	PTR	client19-mgmt.mgmt.net.
+40	PTR	client20-mgmt.mgmt.net.
+
+41	PTR	server1-mgmt.mgmt.net.
+42	PTR	server2-mgmt.mgmt.net.
+43	PTR	server3-mgmt.mgmt.net.
+44	PTR	server4-mgmt.mgmt.net.
+45	PTR	server5-mgmt.mgmt.net.
+46	PTR	server6-mgmt.mgmt.net.
+47	PTR	server7-mgmt.mgmt.net.
+48	PTR	server8-mgmt.mgmt.net.
+49	PTR	server9-mgmt.mgmt.net.
+50	PTR	server10-mgmt.mgmt.net.
+51	PTR	server11-mgmt.mgmt.net.
+52	PTR	server12-mgmt.mgmt.net.
+53	PTR	server13-mgmt.mgmt.net.
+54	PTR	server14-mgmt.mgmt.net.
+55	PTR	server15-mgmt.mgmt.net.
+56	PTR	server16-mgmt.mgmt.net.
+57	PTR	server17-mgmt.mgmt.net.
+58	PTR	server18-mgmt.mgmt.net.
+59	PTR	server19-mgmt.mgmt.net.
+60	PTR	server20-mgmt.mgmt.net.
+
+254	PTR	dns-mgmt.mgmt.net.

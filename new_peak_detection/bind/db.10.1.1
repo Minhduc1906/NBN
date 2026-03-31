@@ -1,0 +1,14 @@
+$TTL	604800
+@	IN	SOA	localhost. root.localhost. (
+		     2020102101		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@	IN	NS	localhost.
+
+$ORIGIN 1.1.10.in-addr.arpa.
+
+1	PTR	cust-rsp.nbn.net.
+2	PTR	rsp-cust.nbn.net.
