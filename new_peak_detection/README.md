@@ -2,7 +2,7 @@
 
 This repository contains a Mininet implementation of a simplified model of a broadband service delivered via by a retail service provider over Australia's National Broadband Network.
 
-![NBN service model](docs/NBN_testbed_V2.png){width=100%}
+![NBN service model](docs/NBN_testbed_v2.png){width=100%}
 
 ## Network Overview
 
