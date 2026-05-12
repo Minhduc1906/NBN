@@ -1,1 +1,2 @@
 
+sudo ./nbn_testbed.py --houses 8 --clients-per-house 2 --servers 16 --traffic-mode fixed-stagger --house-stagger 5 --aggregation-downstream 300 --aggregation-upstream 200 --household-downstream 100 --household-upstream 40 --capture-houses 1,5,8
