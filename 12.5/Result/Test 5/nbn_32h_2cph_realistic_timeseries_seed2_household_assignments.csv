@@ -1,0 +1,33 @@
+household,profile_id,planned_start_time,traffic_mode,client_scenarios,client_1_index,client_1_mgmt_ip,client_1_data_ip,client_1_scenario,client_2_index,client_2_mgmt_ip,client_2_data_ip,client_2_scenario
+1,profile_040,158,realistic-timeseries,Media enthusiast | Home security + streaming,1,10.10.30.1,192.168.101.1,Media enthusiast,2,10.10.30.2,192.168.101.2,Home security + streaming
+2,profile_010,46,realistic-timeseries,Dual game sessions | Family streaming,3,10.10.30.3,192.168.102.1,Dual game sessions,4,10.10.30.4,192.168.102.2,Family streaming
+3,profile_023,156,realistic-timeseries,Family streaming | Remote education,5,10.10.30.5,192.168.103.1,Family streaming,6,10.10.30.6,192.168.103.2,Remote education
+4,profile_034,159,realistic-timeseries,Evening entertainment | Remote education,7,10.10.30.7,192.168.104.1,Evening entertainment,8,10.10.30.8,192.168.104.2,Remote education
+5,profile_007,154,realistic-timeseries,HD streaming + download | Home security + streaming,9,10.10.30.9,192.168.105.1,HD streaming + download,10,10.10.30.10,192.168.105.2,Home security + streaming
+6,profile_016,87,realistic-timeseries,Dual game sessions | Remote education,11,10.10.30.11,192.168.106.1,Dual game sessions,12,10.10.30.12,192.168.106.2,Remote education
+7,profile_005,126,realistic-timeseries,HD streaming + download | Small business usage,13,10.10.30.13,192.168.107.1,HD streaming + download,14,10.10.30.14,192.168.107.2,Small business usage
+8,profile_032,151,realistic-timeseries,Evening entertainment | Media enthusiast,15,10.10.30.15,192.168.108.1,Evening entertainment,16,10.10.30.16,192.168.108.2,Media enthusiast
+9,profile_027,160,realistic-timeseries,Work-from-home setup | Media enthusiast,17,10.10.30.17,192.168.109.1,Work-from-home setup,18,10.10.30.18,192.168.109.2,Media enthusiast
+10,profile_022,160,realistic-timeseries,Family streaming | Home security + streaming,19,10.10.30.19,192.168.110.1,Family streaming,20,10.10.30.20,192.168.110.2,Home security + streaming
+11,profile_021,114,realistic-timeseries,Family streaming | Media enthusiast,21,10.10.30.21,192.168.111.1,Family streaming,22,10.10.30.22,192.168.111.2,Media enthusiast
+12,profile_019,159,realistic-timeseries,Family streaming | Evening entertainment,23,10.10.30.23,192.168.112.1,Family streaming,24,10.10.30.24,192.168.112.2,Evening entertainment
+13,profile_037,145,realistic-timeseries,Small business usage | Home security + streaming,25,10.10.30.25,192.168.113.1,Small business usage,26,10.10.30.26,192.168.113.2,Home security + streaming
+14,profile_025,159,realistic-timeseries,Work-from-home setup | Evening entertainment,27,10.10.30.27,192.168.114.1,Work-from-home setup,28,10.10.30.28,192.168.114.2,Evening entertainment
+15,profile_045,160,realistic-timeseries,Remote education | Weekend usage,29,10.10.30.29,192.168.115.1,Remote education,30,10.10.30.30,192.168.115.2,Weekend usage
+16,profile_008,118,realistic-timeseries,HD streaming + download | Remote education,31,10.10.30.31,192.168.116.1,HD streaming + download,32,10.10.30.32,192.168.116.2,Remote education
+17,profile_031,113,realistic-timeseries,Evening entertainment | Small business usage,33,10.10.30.33,192.168.117.1,Evening entertainment,34,10.10.30.34,192.168.117.2,Small business usage
+18,profile_043,118,realistic-timeseries,Home security + streaming | Remote education,35,10.10.30.35,192.168.118.1,Home security + streaming,36,10.10.30.36,192.168.118.2,Remote education
+19,profile_035,65,realistic-timeseries,Evening entertainment | Weekend usage,37,10.10.30.37,192.168.119.1,Evening entertainment,38,10.10.30.38,192.168.119.2,Weekend usage
+20,profile_038,129,realistic-timeseries,Small business usage | Remote education,39,10.10.30.39,192.168.120.1,Small business usage,40,10.10.30.40,192.168.120.2,Remote education
+21,profile_013,140,realistic-timeseries,Dual game sessions | Small business usage,41,10.10.30.41,192.168.121.1,Dual game sessions,42,10.10.30.42,192.168.121.2,Small business usage
+22,profile_036,159,realistic-timeseries,Small business usage | Media enthusiast,43,10.10.30.43,192.168.122.1,Small business usage,44,10.10.30.44,192.168.122.2,Media enthusiast
+23,profile_029,151,realistic-timeseries,Work-from-home setup | Remote education,45,10.10.30.45,192.168.123.1,Work-from-home setup,46,10.10.30.46,192.168.123.2,Remote education
+24,profile_012,159,realistic-timeseries,Dual game sessions | Evening entertainment,47,10.10.30.47,192.168.124.1,Dual game sessions,48,10.10.30.48,192.168.124.2,Evening entertainment
+25,profile_001,146,realistic-timeseries,HD streaming + download | Dual game sessions,49,10.10.30.49,192.168.125.1,HD streaming + download,50,10.10.30.50,192.168.125.2,Dual game sessions
+26,profile_002,127,realistic-timeseries,HD streaming + download | Family streaming,51,10.10.30.51,192.168.126.1,HD streaming + download,52,10.10.30.52,192.168.126.2,Family streaming
+27,profile_009,125,realistic-timeseries,HD streaming + download | Weekend usage,53,10.10.30.53,192.168.127.1,HD streaming + download,54,10.10.30.54,192.168.127.2,Weekend usage
+28,profile_039,149,realistic-timeseries,Small business usage | Weekend usage,55,10.10.30.55,192.168.128.1,Small business usage,56,10.10.30.56,192.168.128.2,Weekend usage
+29,profile_015,142,realistic-timeseries,Dual game sessions | Home security + streaming,57,10.10.30.57,192.168.129.1,Dual game sessions,58,10.10.30.58,192.168.129.2,Home security + streaming
+30,profile_030,150,realistic-timeseries,Work-from-home setup | Weekend usage,59,10.10.30.59,192.168.130.1,Work-from-home setup,60,10.10.30.60,192.168.130.2,Weekend usage
+31,profile_018,146,realistic-timeseries,Family streaming | Work-from-home setup,61,10.10.30.61,192.168.131.1,Family streaming,62,10.10.30.62,192.168.131.2,Work-from-home setup
+32,profile_042,149,realistic-timeseries,Media enthusiast | Weekend usage,63,10.10.30.63,192.168.132.1,Media enthusiast,64,10.10.30.64,192.168.132.2,Weekend usage
