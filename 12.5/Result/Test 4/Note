@@ -1,0 +1,1 @@
+sudo ./nbn_testbed.py --houses 8 --clients-per-house 2 --servers 16 --traffic-mode realistic-timeseries --aggregation-downstream 300 --aggregation-upstream 100 --household-downstream 100 --household-upstream 40 --seed 1 --peak-start 7:00 --peak-end 10:00 --capture-houses 1,5,8
