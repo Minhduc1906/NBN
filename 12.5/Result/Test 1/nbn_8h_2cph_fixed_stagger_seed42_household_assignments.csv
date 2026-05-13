@@ -1,0 +1,9 @@
+household,profile_id,planned_start_time,traffic_mode,client_scenarios,client_1_index,client_1_mgmt_ip,client_1_data_ip,client_1_scenario,client_2_index,client_2_mgmt_ip,client_2_data_ip,client_2_scenario
+1,profile_019,5,fixed-stagger,Family streaming | Evening entertainment,1,10.10.30.1,192.168.101.1,Family streaming,2,10.10.30.2,192.168.101.2,Evening entertainment
+2,profile_022,10,fixed-stagger,Family streaming | Home security + streaming,3,10.10.30.3,192.168.102.1,Family streaming,4,10.10.30.4,192.168.102.2,Home security + streaming
+3,profile_037,15,fixed-stagger,Small business usage | Home security + streaming,5,10.10.30.5,192.168.103.1,Small business usage,6,10.10.30.6,192.168.103.2,Home security + streaming
+4,profile_011,20,fixed-stagger,Dual game sessions | Work-from-home setup,7,10.10.30.7,192.168.104.1,Dual game sessions,8,10.10.30.8,192.168.104.2,Work-from-home setup
+5,profile_024,25,fixed-stagger,Family streaming | Weekend usage,9,10.10.30.9,192.168.105.1,Family streaming,10,10.10.30.10,192.168.105.2,Weekend usage
+6,profile_010,30,fixed-stagger,Dual game sessions | Family streaming,11,10.10.30.11,192.168.106.1,Dual game sessions,12,10.10.30.12,192.168.106.2,Family streaming
+7,profile_029,35,fixed-stagger,Work-from-home setup | Remote education,13,10.10.30.13,192.168.107.1,Work-from-home setup,14,10.10.30.14,192.168.107.2,Remote education
+8,profile_033,40,fixed-stagger,Evening entertainment | Home security + streaming,15,10.10.30.15,192.168.108.1,Evening entertainment,16,10.10.30.16,192.168.108.2,Home security + streaming
