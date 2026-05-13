@@ -1,0 +1,9 @@
+household,profile_id,planned_start_time,traffic_mode,client_scenarios,client_1_index,client_1_mgmt_ip,client_1_data_ip,client_1_scenario,client_2_index,client_2_mgmt_ip,client_2_data_ip,client_2_scenario
+1,profile_003,27,realistic-timeseries,HD streaming + download | Work-from-home setup,1,10.10.30.1,192.168.101.1,HD streaming + download,2,10.10.30.2,192.168.101.2,Work-from-home setup
+2,profile_010,54,realistic-timeseries,Dual game sessions | Family streaming,3,10.10.30.3,192.168.102.1,Dual game sessions,4,10.10.30.4,192.168.102.2,Family streaming
+3,profile_043,45,realistic-timeseries,Home security + streaming | Remote education,5,10.10.30.5,192.168.103.1,Home security + streaming,6,10.10.30.6,192.168.103.2,Remote education
+4,profile_033,67,realistic-timeseries,Evening entertainment | Home security + streaming,7,10.10.30.7,192.168.104.1,Evening entertainment,8,10.10.30.8,192.168.104.2,Home security + streaming
+5,profile_006,58,realistic-timeseries,HD streaming + download | Media enthusiast,9,10.10.30.9,192.168.105.1,HD streaming + download,10,10.10.30.10,192.168.105.2,Media enthusiast
+6,profile_026,0,realistic-timeseries,Work-from-home setup | Small business usage,11,10.10.30.11,192.168.106.1,Work-from-home setup,12,10.10.30.12,192.168.106.2,Small business usage
+7,profile_013,125,realistic-timeseries,Dual game sessions | Small business usage,13,10.10.30.13,192.168.107.1,Dual game sessions,14,10.10.30.14,192.168.107.2,Small business usage
+8,profile_012,52,realistic-timeseries,Dual game sessions | Evening entertainment,15,10.10.30.15,192.168.108.1,Dual game sessions,16,10.10.30.16,192.168.108.2,Evening entertainment
