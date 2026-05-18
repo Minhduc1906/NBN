@@ -1,0 +1,1 @@
+sudo ./nbn_testbed.py --houses 32 --household-downstream 100 --aggregation-downstream 500 --traffic-mode realistic-timeseries --downstream-demand-mode multi-gaussian
