@@ -1,0 +1,1441 @@
+timestamp_s,household_id,client_id,profile_id,scenario,demand_mode,planned_downstream_mbps,household_planned_downstream_mbps,household_limit_mbps,aggregation_limit_mbps,expected_aggregate_demand_mbps,expected_congestion,capture_point,peak_count,baseline_mbps
+0,1,1,profile_010,Dual game sessions,multi-gaussian,6.044,33.534,100.0,500.0,794.84,1,r2-s2,2,3.686
+5,1,1,profile_010,Dual game sessions,multi-gaussian,5.532,37.018,100.0,500.0,826.66,1,r2-s2,2,3.686
+10,1,1,profile_010,Dual game sessions,multi-gaussian,8.069,43.869,100.0,500.0,876.584,1,r2-s2,2,3.686
+15,1,1,profile_010,Dual game sessions,multi-gaussian,13.364,50.611,100.0,500.0,937.115,1,r2-s2,2,3.686
+20,1,1,profile_010,Dual game sessions,multi-gaussian,18.277,56.012,100.0,500.0,1002.901,1,r2-s2,2,3.686
+25,1,1,profile_010,Dual game sessions,multi-gaussian,26.714,68.811,100.0,500.0,1038.799,1,r2-s2,2,3.686
+30,1,1,profile_010,Dual game sessions,multi-gaussian,32.793,72.45,100.0,500.0,1055.833,1,r2-s2,2,3.686
+35,1,1,profile_010,Dual game sessions,multi-gaussian,36.676,76.342,100.0,500.0,1122.408,1,r2-s2,2,3.686
+40,1,1,profile_010,Dual game sessions,multi-gaussian,38.307,77.167,100.0,500.0,1141.752,1,r2-s2,2,3.686
+45,1,1,profile_010,Dual game sessions,multi-gaussian,37.452,73.605,100.0,500.0,1171.352,1,r2-s2,2,3.686
+50,1,1,profile_010,Dual game sessions,multi-gaussian,33.418,70.566,100.0,500.0,1194.185,1,r2-s2,2,3.686
+55,1,1,profile_010,Dual game sessions,multi-gaussian,32.221,71.563,100.0,500.0,1172.116,1,r2-s2,2,3.686
+60,1,1,profile_010,Dual game sessions,multi-gaussian,29.842,62.605,100.0,500.0,1173.288,1,r2-s2,2,3.686
+65,1,1,profile_010,Dual game sessions,multi-gaussian,28.421,51.789,100.0,500.0,1183.252,1,r2-s2,2,3.686
+70,1,1,profile_010,Dual game sessions,multi-gaussian,26.743,46.122,100.0,500.0,1194.712,1,r2-s2,2,3.686
+75,1,1,profile_010,Dual game sessions,multi-gaussian,26.177,45.722,100.0,500.0,1242.642,1,r2-s2,2,3.686
+80,1,1,profile_010,Dual game sessions,multi-gaussian,21.832,36.874,100.0,500.0,1232.383,1,r2-s2,2,3.686
+85,1,1,profile_010,Dual game sessions,multi-gaussian,19.562,33.9,100.0,500.0,1248.602,1,r2-s2,2,3.686
+90,1,1,profile_010,Dual game sessions,multi-gaussian,17.173,28.764,100.0,500.0,1263.428,1,r2-s2,2,3.686
+95,1,1,profile_010,Dual game sessions,multi-gaussian,14.356,25.941,100.0,500.0,1299.831,1,r2-s2,2,3.686
+100,1,1,profile_010,Dual game sessions,multi-gaussian,11.307,23.121,100.0,500.0,1287.387,1,r2-s2,2,3.686
+105,1,1,profile_010,Dual game sessions,multi-gaussian,8.756,18.604,100.0,500.0,1297.986,1,r2-s2,2,3.686
+110,1,1,profile_010,Dual game sessions,multi-gaussian,8.233,15.974,100.0,500.0,1302.145,1,r2-s2,2,3.686
+115,1,1,profile_010,Dual game sessions,multi-gaussian,6.439,13.402,100.0,500.0,1315.265,1,r2-s2,2,3.686
+120,1,1,profile_010,Dual game sessions,multi-gaussian,4.004,15.88,100.0,500.0,1311.022,1,r2-s2,2,3.686
+125,1,1,profile_010,Dual game sessions,multi-gaussian,3.986,20.985,100.0,500.0,1315.55,1,r2-s2,2,3.686
+130,1,1,profile_010,Dual game sessions,multi-gaussian,4.618,17.006,100.0,500.0,1298.354,1,r2-s2,2,3.686
+135,1,1,profile_010,Dual game sessions,multi-gaussian,4.853,10.208,100.0,500.0,1298.493,1,r2-s2,2,3.686
+140,1,1,profile_010,Dual game sessions,multi-gaussian,2.71,8.039,100.0,500.0,1272.627,1,r2-s2,2,3.686
+145,1,1,profile_010,Dual game sessions,multi-gaussian,5.159,10.016,100.0,500.0,1270.558,1,r2-s2,2,3.686
+150,1,1,profile_010,Dual game sessions,multi-gaussian,2.456,8.679,100.0,500.0,1232.859,1,r2-s2,2,3.686
+155,1,1,profile_010,Dual game sessions,multi-gaussian,2.604,11.078,100.0,500.0,1195.608,1,r2-s2,2,3.686
+160,1,1,profile_010,Dual game sessions,multi-gaussian,3.027,8.058,100.0,500.0,1152.192,1,r2-s2,2,3.686
+165,1,1,profile_010,Dual game sessions,multi-gaussian,2.913,7.396,100.0,500.0,1067.611,1,r2-s2,2,3.686
+170,1,1,profile_010,Dual game sessions,multi-gaussian,4.166,11.669,100.0,500.0,1001.485,1,r2-s2,2,3.686
+175,1,1,profile_010,Dual game sessions,multi-gaussian,4.005,11.831,100.0,500.0,925.316,1,r2-s2,2,3.686
+0,1,2,profile_010,Family streaming,multi-gaussian,27.489,33.534,100.0,500.0,794.84,1,r2-s2,3,6.243
+5,1,2,profile_010,Family streaming,multi-gaussian,31.486,37.018,100.0,500.0,826.66,1,r2-s2,3,6.243
+10,1,2,profile_010,Family streaming,multi-gaussian,35.8,43.869,100.0,500.0,876.584,1,r2-s2,3,6.243
+15,1,2,profile_010,Family streaming,multi-gaussian,37.247,50.611,100.0,500.0,937.115,1,r2-s2,3,6.243
+20,1,2,profile_010,Family streaming,multi-gaussian,37.736,56.012,100.0,500.0,1002.901,1,r2-s2,3,6.243
+25,1,2,profile_010,Family streaming,multi-gaussian,42.097,68.811,100.0,500.0,1038.799,1,r2-s2,3,6.243
+30,1,2,profile_010,Family streaming,multi-gaussian,39.657,72.45,100.0,500.0,1055.833,1,r2-s2,3,6.243
+35,1,2,profile_010,Family streaming,multi-gaussian,39.666,76.342,100.0,500.0,1122.408,1,r2-s2,3,6.243
+40,1,2,profile_010,Family streaming,multi-gaussian,38.86,77.167,100.0,500.0,1141.752,1,r2-s2,3,6.243
+45,1,2,profile_010,Family streaming,multi-gaussian,36.153,73.605,100.0,500.0,1171.352,1,r2-s2,3,6.243
+50,1,2,profile_010,Family streaming,multi-gaussian,37.148,70.566,100.0,500.0,1194.185,1,r2-s2,3,6.243
+55,1,2,profile_010,Family streaming,multi-gaussian,39.342,71.563,100.0,500.0,1172.116,1,r2-s2,3,6.243
+60,1,2,profile_010,Family streaming,multi-gaussian,32.763,62.605,100.0,500.0,1173.288,1,r2-s2,3,6.243
+65,1,2,profile_010,Family streaming,multi-gaussian,23.368,51.789,100.0,500.0,1183.252,1,r2-s2,3,6.243
+70,1,2,profile_010,Family streaming,multi-gaussian,19.38,46.122,100.0,500.0,1194.712,1,r2-s2,3,6.243
+75,1,2,profile_010,Family streaming,multi-gaussian,19.545,45.722,100.0,500.0,1242.642,1,r2-s2,3,6.243
+80,1,2,profile_010,Family streaming,multi-gaussian,15.042,36.874,100.0,500.0,1232.383,1,r2-s2,3,6.243
+85,1,2,profile_010,Family streaming,multi-gaussian,14.337,33.9,100.0,500.0,1248.602,1,r2-s2,3,6.243
+90,1,2,profile_010,Family streaming,multi-gaussian,11.59,28.764,100.0,500.0,1263.428,1,r2-s2,3,6.243
+95,1,2,profile_010,Family streaming,multi-gaussian,11.586,25.941,100.0,500.0,1299.831,1,r2-s2,3,6.243
+100,1,2,profile_010,Family streaming,multi-gaussian,11.814,23.121,100.0,500.0,1287.387,1,r2-s2,3,6.243
+105,1,2,profile_010,Family streaming,multi-gaussian,9.848,18.604,100.0,500.0,1297.986,1,r2-s2,3,6.243
+110,1,2,profile_010,Family streaming,multi-gaussian,7.741,15.974,100.0,500.0,1302.145,1,r2-s2,3,6.243
+115,1,2,profile_010,Family streaming,multi-gaussian,6.962,13.402,100.0,500.0,1315.265,1,r2-s2,3,6.243
+120,1,2,profile_010,Family streaming,multi-gaussian,11.877,15.88,100.0,500.0,1311.022,1,r2-s2,3,6.243
+125,1,2,profile_010,Family streaming,multi-gaussian,16.998,20.985,100.0,500.0,1315.55,1,r2-s2,3,6.243
+130,1,2,profile_010,Family streaming,multi-gaussian,12.388,17.006,100.0,500.0,1298.354,1,r2-s2,3,6.243
+135,1,2,profile_010,Family streaming,multi-gaussian,5.355,10.208,100.0,500.0,1298.493,1,r2-s2,3,6.243
+140,1,2,profile_010,Family streaming,multi-gaussian,5.329,8.039,100.0,500.0,1272.627,1,r2-s2,3,6.243
+145,1,2,profile_010,Family streaming,multi-gaussian,4.857,10.016,100.0,500.0,1270.558,1,r2-s2,3,6.243
+150,1,2,profile_010,Family streaming,multi-gaussian,6.222,8.679,100.0,500.0,1232.859,1,r2-s2,3,6.243
+155,1,2,profile_010,Family streaming,multi-gaussian,8.474,11.078,100.0,500.0,1195.608,1,r2-s2,3,6.243
+160,1,2,profile_010,Family streaming,multi-gaussian,5.032,8.058,100.0,500.0,1152.192,1,r2-s2,3,6.243
+165,1,2,profile_010,Family streaming,multi-gaussian,4.483,7.396,100.0,500.0,1067.611,1,r2-s2,3,6.243
+170,1,2,profile_010,Family streaming,multi-gaussian,7.503,11.669,100.0,500.0,1001.485,1,r2-s2,3,6.243
+175,1,2,profile_010,Family streaming,multi-gaussian,7.826,11.831,100.0,500.0,925.316,1,r2-s2,3,6.243
+0,2,3,profile_039,Small business usage,multi-gaussian,42.538,51.904,100.0,500.0,794.84,1,r2-s2,3,5.177
+5,2,3,profile_039,Small business usage,multi-gaussian,46.845,60.416,100.0,500.0,826.66,1,r2-s2,3,5.177
+10,2,3,profile_039,Small business usage,multi-gaussian,47.713,55.467,100.0,500.0,876.584,1,r2-s2,3,5.177
+15,2,3,profile_039,Small business usage,multi-gaussian,46.935,55.03,100.0,500.0,937.115,1,r2-s2,3,5.177
+20,2,3,profile_039,Small business usage,multi-gaussian,46.873,62.736,100.0,500.0,1002.901,1,r2-s2,3,5.177
+25,2,3,profile_039,Small business usage,multi-gaussian,41.37,57.156,100.0,500.0,1038.799,1,r2-s2,3,5.177
+30,2,3,profile_039,Small business usage,multi-gaussian,40.768,59.528,100.0,500.0,1055.833,1,r2-s2,3,5.177
+35,2,3,profile_039,Small business usage,multi-gaussian,36.148,61.439,100.0,500.0,1122.408,1,r2-s2,3,5.177
+40,2,3,profile_039,Small business usage,multi-gaussian,33.064,67.189,100.0,500.0,1141.752,1,r2-s2,3,5.177
+45,2,3,profile_039,Small business usage,multi-gaussian,32.609,70.358,100.0,500.0,1171.352,1,r2-s2,3,5.177
+50,2,3,profile_039,Small business usage,multi-gaussian,34.137,79.723,100.0,500.0,1194.185,1,r2-s2,3,5.177
+55,2,3,profile_039,Small business usage,multi-gaussian,34.317,84.657,100.0,500.0,1172.116,1,r2-s2,3,5.177
+60,2,3,profile_039,Small business usage,multi-gaussian,39.182,87.065,100.0,500.0,1173.288,1,r2-s2,3,5.177
+65,2,3,profile_039,Small business usage,multi-gaussian,42.861,93.571,100.0,500.0,1183.252,1,r2-s2,3,5.177
+70,2,3,profile_039,Small business usage,multi-gaussian,47.513,100.0,100.0,500.0,1194.712,1,r2-s2,3,5.177
+75,2,3,profile_039,Small business usage,multi-gaussian,45.156,100.0,100.0,500.0,1242.642,1,r2-s2,3,5.177
+80,2,3,profile_039,Small business usage,multi-gaussian,42.396,100.0,100.0,500.0,1232.383,1,r2-s2,3,5.177
+85,2,3,profile_039,Small business usage,multi-gaussian,38.333,100.0,100.0,500.0,1248.602,1,r2-s2,3,5.177
+90,2,3,profile_039,Small business usage,multi-gaussian,37.377,100.0,100.0,500.0,1263.428,1,r2-s2,3,5.177
+95,2,3,profile_039,Small business usage,multi-gaussian,33.465,100.0,100.0,500.0,1299.831,1,r2-s2,3,5.177
+100,2,3,profile_039,Small business usage,multi-gaussian,33.978,100.0,100.0,500.0,1287.387,1,r2-s2,3,5.177
+105,2,3,profile_039,Small business usage,multi-gaussian,32.338,100.0,100.0,500.0,1297.986,1,r2-s2,3,5.177
+110,2,3,profile_039,Small business usage,multi-gaussian,32.291,100.0,100.0,500.0,1302.145,1,r2-s2,3,5.177
+115,2,3,profile_039,Small business usage,multi-gaussian,31.521,100.0,100.0,500.0,1315.265,1,r2-s2,3,5.177
+120,2,3,profile_039,Small business usage,multi-gaussian,34.2,100.0,100.0,500.0,1311.022,1,r2-s2,3,5.177
+125,2,3,profile_039,Small business usage,multi-gaussian,37.563,100.0,100.0,500.0,1315.55,1,r2-s2,3,5.177
+130,2,3,profile_039,Small business usage,multi-gaussian,41.856,100.0,100.0,500.0,1298.354,1,r2-s2,3,5.177
+135,2,3,profile_039,Small business usage,multi-gaussian,46.631,100.0,100.0,500.0,1298.493,1,r2-s2,3,5.177
+140,2,3,profile_039,Small business usage,multi-gaussian,45.189,100.0,100.0,500.0,1272.627,1,r2-s2,3,5.177
+145,2,3,profile_039,Small business usage,multi-gaussian,44.145,100.0,100.0,500.0,1270.558,1,r2-s2,3,5.177
+150,2,3,profile_039,Small business usage,multi-gaussian,44.546,100.0,100.0,500.0,1232.859,1,r2-s2,3,5.177
+155,2,3,profile_039,Small business usage,multi-gaussian,44.729,100.0,100.0,500.0,1195.608,1,r2-s2,3,5.177
+160,2,3,profile_039,Small business usage,multi-gaussian,40.999,95.255,100.0,500.0,1152.192,1,r2-s2,3,5.177
+165,2,3,profile_039,Small business usage,multi-gaussian,34.495,85.605,100.0,500.0,1067.611,1,r2-s2,3,5.177
+170,2,3,profile_039,Small business usage,multi-gaussian,26.439,69.154,100.0,500.0,1001.485,1,r2-s2,3,5.177
+175,2,3,profile_039,Small business usage,multi-gaussian,22.279,63.616,100.0,500.0,925.316,1,r2-s2,3,5.177
+0,2,4,profile_039,Weekend usage,multi-gaussian,9.366,51.904,100.0,500.0,794.84,1,r2-s2,4,9.756
+5,2,4,profile_039,Weekend usage,multi-gaussian,13.571,60.416,100.0,500.0,826.66,1,r2-s2,4,9.756
+10,2,4,profile_039,Weekend usage,multi-gaussian,7.754,55.467,100.0,500.0,876.584,1,r2-s2,4,9.756
+15,2,4,profile_039,Weekend usage,multi-gaussian,8.095,55.03,100.0,500.0,937.115,1,r2-s2,4,9.756
+20,2,4,profile_039,Weekend usage,multi-gaussian,15.864,62.736,100.0,500.0,1002.901,1,r2-s2,4,9.756
+25,2,4,profile_039,Weekend usage,multi-gaussian,15.787,57.156,100.0,500.0,1038.799,1,r2-s2,4,9.756
+30,2,4,profile_039,Weekend usage,multi-gaussian,18.759,59.528,100.0,500.0,1055.833,1,r2-s2,4,9.756
+35,2,4,profile_039,Weekend usage,multi-gaussian,25.291,61.439,100.0,500.0,1122.408,1,r2-s2,4,9.756
+40,2,4,profile_039,Weekend usage,multi-gaussian,34.126,67.189,100.0,500.0,1141.752,1,r2-s2,4,9.756
+45,2,4,profile_039,Weekend usage,multi-gaussian,37.75,70.358,100.0,500.0,1171.352,1,r2-s2,4,9.756
+50,2,4,profile_039,Weekend usage,multi-gaussian,45.586,79.723,100.0,500.0,1194.185,1,r2-s2,4,9.756
+55,2,4,profile_039,Weekend usage,multi-gaussian,50.34,84.657,100.0,500.0,1172.116,1,r2-s2,4,9.756
+60,2,4,profile_039,Weekend usage,multi-gaussian,47.883,87.065,100.0,500.0,1173.288,1,r2-s2,4,9.756
+65,2,4,profile_039,Weekend usage,multi-gaussian,50.71,93.571,100.0,500.0,1183.252,1,r2-s2,4,9.756
+70,2,4,profile_039,Weekend usage,multi-gaussian,52.487,100.0,100.0,500.0,1194.712,1,r2-s2,4,9.756
+75,2,4,profile_039,Weekend usage,multi-gaussian,54.844,100.0,100.0,500.0,1242.642,1,r2-s2,4,9.756
+80,2,4,profile_039,Weekend usage,multi-gaussian,57.604,100.0,100.0,500.0,1232.383,1,r2-s2,4,9.756
+85,2,4,profile_039,Weekend usage,multi-gaussian,61.667,100.0,100.0,500.0,1248.602,1,r2-s2,4,9.756
+90,2,4,profile_039,Weekend usage,multi-gaussian,62.623,100.0,100.0,500.0,1263.428,1,r2-s2,4,9.756
+95,2,4,profile_039,Weekend usage,multi-gaussian,66.535,100.0,100.0,500.0,1299.831,1,r2-s2,4,9.756
+100,2,4,profile_039,Weekend usage,multi-gaussian,66.022,100.0,100.0,500.0,1287.387,1,r2-s2,4,9.756
+105,2,4,profile_039,Weekend usage,multi-gaussian,67.662,100.0,100.0,500.0,1297.986,1,r2-s2,4,9.756
+110,2,4,profile_039,Weekend usage,multi-gaussian,67.709,100.0,100.0,500.0,1302.145,1,r2-s2,4,9.756
+115,2,4,profile_039,Weekend usage,multi-gaussian,68.479,100.0,100.0,500.0,1315.265,1,r2-s2,4,9.756
+120,2,4,profile_039,Weekend usage,multi-gaussian,65.8,100.0,100.0,500.0,1311.022,1,r2-s2,4,9.756
+125,2,4,profile_039,Weekend usage,multi-gaussian,62.437,100.0,100.0,500.0,1315.55,1,r2-s2,4,9.756
+130,2,4,profile_039,Weekend usage,multi-gaussian,58.144,100.0,100.0,500.0,1298.354,1,r2-s2,4,9.756
+135,2,4,profile_039,Weekend usage,multi-gaussian,53.369,100.0,100.0,500.0,1298.493,1,r2-s2,4,9.756
+140,2,4,profile_039,Weekend usage,multi-gaussian,54.811,100.0,100.0,500.0,1272.627,1,r2-s2,4,9.756
+145,2,4,profile_039,Weekend usage,multi-gaussian,55.855,100.0,100.0,500.0,1270.558,1,r2-s2,4,9.756
+150,2,4,profile_039,Weekend usage,multi-gaussian,55.454,100.0,100.0,500.0,1232.859,1,r2-s2,4,9.756
+155,2,4,profile_039,Weekend usage,multi-gaussian,55.271,100.0,100.0,500.0,1195.608,1,r2-s2,4,9.756
+160,2,4,profile_039,Weekend usage,multi-gaussian,54.256,95.255,100.0,500.0,1152.192,1,r2-s2,4,9.756
+165,2,4,profile_039,Weekend usage,multi-gaussian,51.11,85.605,100.0,500.0,1067.611,1,r2-s2,4,9.756
+170,2,4,profile_039,Weekend usage,multi-gaussian,42.715,69.154,100.0,500.0,1001.485,1,r2-s2,4,9.756
+175,2,4,profile_039,Weekend usage,multi-gaussian,41.337,63.616,100.0,500.0,925.316,1,r2-s2,4,9.756
+0,3,5,profile_027,Work-from-home setup,multi-gaussian,6.18,16.832,100.0,500.0,794.84,1,r2-s2,1,4.527
+5,3,5,profile_027,Work-from-home setup,multi-gaussian,4.486,11.897,100.0,500.0,826.66,1,r2-s2,1,4.527
+10,3,5,profile_027,Work-from-home setup,multi-gaussian,8.094,16.368,100.0,500.0,876.584,1,r2-s2,1,4.527
+15,3,5,profile_027,Work-from-home setup,multi-gaussian,8.002,18.751,100.0,500.0,937.115,1,r2-s2,1,4.527
+20,3,5,profile_027,Work-from-home setup,multi-gaussian,8.71,20.731,100.0,500.0,1002.901,1,r2-s2,1,4.527
+25,3,5,profile_027,Work-from-home setup,multi-gaussian,10.6,21.515,100.0,500.0,1038.799,1,r2-s2,1,4.527
+30,3,5,profile_027,Work-from-home setup,multi-gaussian,13.058,25.474,100.0,500.0,1055.833,1,r2-s2,1,4.527
+35,3,5,profile_027,Work-from-home setup,multi-gaussian,16.961,32.988,100.0,500.0,1122.408,1,r2-s2,1,4.527
+40,3,5,profile_027,Work-from-home setup,multi-gaussian,20.227,41.218,100.0,500.0,1141.752,1,r2-s2,1,4.527
+45,3,5,profile_027,Work-from-home setup,multi-gaussian,25.521,47.562,100.0,500.0,1171.352,1,r2-s2,1,4.527
+50,3,5,profile_027,Work-from-home setup,multi-gaussian,28.9,52.896,100.0,500.0,1194.185,1,r2-s2,1,4.527
+55,3,5,profile_027,Work-from-home setup,multi-gaussian,30.223,56.231,100.0,500.0,1172.116,1,r2-s2,1,4.527
+60,3,5,profile_027,Work-from-home setup,multi-gaussian,36.721,66.462,100.0,500.0,1173.288,1,r2-s2,1,4.527
+65,3,5,profile_027,Work-from-home setup,multi-gaussian,36.329,67.353,100.0,500.0,1183.252,1,r2-s2,1,4.527
+70,3,5,profile_027,Work-from-home setup,multi-gaussian,31.867,68.109,100.0,500.0,1194.712,1,r2-s2,1,4.527
+75,3,5,profile_027,Work-from-home setup,multi-gaussian,32.606,74.96,100.0,500.0,1242.642,1,r2-s2,1,4.527
+80,3,5,profile_027,Work-from-home setup,multi-gaussian,30.302,70.253,100.0,500.0,1232.383,1,r2-s2,1,4.527
+85,3,5,profile_027,Work-from-home setup,multi-gaussian,27.293,70.013,100.0,500.0,1248.602,1,r2-s2,1,4.527
+90,3,5,profile_027,Work-from-home setup,multi-gaussian,24.722,74.378,100.0,500.0,1263.428,1,r2-s2,1,4.527
+95,3,5,profile_027,Work-from-home setup,multi-gaussian,20.306,71.959,100.0,500.0,1299.831,1,r2-s2,1,4.527
+100,3,5,profile_027,Work-from-home setup,multi-gaussian,15.995,71.486,100.0,500.0,1287.387,1,r2-s2,1,4.527
+105,3,5,profile_027,Work-from-home setup,multi-gaussian,11.906,63.717,100.0,500.0,1297.986,1,r2-s2,1,4.527
+110,3,5,profile_027,Work-from-home setup,multi-gaussian,11.361,69.503,100.0,500.0,1302.145,1,r2-s2,1,4.527
+115,3,5,profile_027,Work-from-home setup,multi-gaussian,7.887,66.623,100.0,500.0,1315.265,1,r2-s2,1,4.527
+120,3,5,profile_027,Work-from-home setup,multi-gaussian,7.606,66.132,100.0,500.0,1311.022,1,r2-s2,1,4.527
+125,3,5,profile_027,Work-from-home setup,multi-gaussian,6.45,61.234,100.0,500.0,1315.55,1,r2-s2,1,4.527
+130,3,5,profile_027,Work-from-home setup,multi-gaussian,4.382,61.167,100.0,500.0,1298.354,1,r2-s2,1,4.527
+135,3,5,profile_027,Work-from-home setup,multi-gaussian,5.909,65.539,100.0,500.0,1298.493,1,r2-s2,1,4.527
+140,3,5,profile_027,Work-from-home setup,multi-gaussian,3.619,56.621,100.0,500.0,1272.627,1,r2-s2,1,4.527
+145,3,5,profile_027,Work-from-home setup,multi-gaussian,5.242,59.631,100.0,500.0,1270.558,1,r2-s2,1,4.527
+150,3,5,profile_027,Work-from-home setup,multi-gaussian,3.346,56.213,100.0,500.0,1232.859,1,r2-s2,1,4.527
+155,3,5,profile_027,Work-from-home setup,multi-gaussian,3.385,54.733,100.0,500.0,1195.608,1,r2-s2,1,4.527
+160,3,5,profile_027,Work-from-home setup,multi-gaussian,4.774,51.847,100.0,500.0,1152.192,1,r2-s2,1,4.527
+165,3,5,profile_027,Work-from-home setup,multi-gaussian,5.431,52.435,100.0,500.0,1067.611,1,r2-s2,1,4.527
+170,3,5,profile_027,Work-from-home setup,multi-gaussian,6.283,51.688,100.0,500.0,1001.485,1,r2-s2,1,4.527
+175,3,5,profile_027,Work-from-home setup,multi-gaussian,5.061,49.645,100.0,500.0,925.316,1,r2-s2,1,4.527
+0,3,6,profile_027,Media enthusiast,multi-gaussian,10.652,16.832,100.0,500.0,794.84,1,r2-s2,3,7.431
+5,3,6,profile_027,Media enthusiast,multi-gaussian,7.411,11.897,100.0,500.0,826.66,1,r2-s2,3,7.431
+10,3,6,profile_027,Media enthusiast,multi-gaussian,8.273,16.368,100.0,500.0,876.584,1,r2-s2,3,7.431
+15,3,6,profile_027,Media enthusiast,multi-gaussian,10.75,18.751,100.0,500.0,937.115,1,r2-s2,3,7.431
+20,3,6,profile_027,Media enthusiast,multi-gaussian,12.021,20.731,100.0,500.0,1002.901,1,r2-s2,3,7.431
+25,3,6,profile_027,Media enthusiast,multi-gaussian,10.915,21.515,100.0,500.0,1038.799,1,r2-s2,3,7.431
+30,3,6,profile_027,Media enthusiast,multi-gaussian,12.417,25.474,100.0,500.0,1055.833,1,r2-s2,3,7.431
+35,3,6,profile_027,Media enthusiast,multi-gaussian,16.027,32.988,100.0,500.0,1122.408,1,r2-s2,3,7.431
+40,3,6,profile_027,Media enthusiast,multi-gaussian,20.991,41.218,100.0,500.0,1141.752,1,r2-s2,3,7.431
+45,3,6,profile_027,Media enthusiast,multi-gaussian,22.042,47.562,100.0,500.0,1171.352,1,r2-s2,3,7.431
+50,3,6,profile_027,Media enthusiast,multi-gaussian,23.995,52.896,100.0,500.0,1194.185,1,r2-s2,3,7.431
+55,3,6,profile_027,Media enthusiast,multi-gaussian,26.008,56.231,100.0,500.0,1172.116,1,r2-s2,3,7.431
+60,3,6,profile_027,Media enthusiast,multi-gaussian,29.741,66.462,100.0,500.0,1173.288,1,r2-s2,3,7.431
+65,3,6,profile_027,Media enthusiast,multi-gaussian,31.024,67.353,100.0,500.0,1183.252,1,r2-s2,3,7.431
+70,3,6,profile_027,Media enthusiast,multi-gaussian,36.242,68.109,100.0,500.0,1194.712,1,r2-s2,3,7.431
+75,3,6,profile_027,Media enthusiast,multi-gaussian,42.354,74.96,100.0,500.0,1242.642,1,r2-s2,3,7.431
+80,3,6,profile_027,Media enthusiast,multi-gaussian,39.951,70.253,100.0,500.0,1232.383,1,r2-s2,3,7.431
+85,3,6,profile_027,Media enthusiast,multi-gaussian,42.719,70.013,100.0,500.0,1248.602,1,r2-s2,3,7.431
+90,3,6,profile_027,Media enthusiast,multi-gaussian,49.656,74.378,100.0,500.0,1263.428,1,r2-s2,3,7.431
+95,3,6,profile_027,Media enthusiast,multi-gaussian,51.653,71.959,100.0,500.0,1299.831,1,r2-s2,3,7.431
+100,3,6,profile_027,Media enthusiast,multi-gaussian,55.491,71.486,100.0,500.0,1287.387,1,r2-s2,3,7.431
+105,3,6,profile_027,Media enthusiast,multi-gaussian,51.811,63.717,100.0,500.0,1297.986,1,r2-s2,3,7.431
+110,3,6,profile_027,Media enthusiast,multi-gaussian,58.142,69.503,100.0,500.0,1302.145,1,r2-s2,3,7.431
+115,3,6,profile_027,Media enthusiast,multi-gaussian,58.736,66.623,100.0,500.0,1315.265,1,r2-s2,3,7.431
+120,3,6,profile_027,Media enthusiast,multi-gaussian,58.526,66.132,100.0,500.0,1311.022,1,r2-s2,3,7.431
+125,3,6,profile_027,Media enthusiast,multi-gaussian,54.785,61.234,100.0,500.0,1315.55,1,r2-s2,3,7.431
+130,3,6,profile_027,Media enthusiast,multi-gaussian,56.785,61.167,100.0,500.0,1298.354,1,r2-s2,3,7.431
+135,3,6,profile_027,Media enthusiast,multi-gaussian,59.63,65.539,100.0,500.0,1298.493,1,r2-s2,3,7.431
+140,3,6,profile_027,Media enthusiast,multi-gaussian,53.002,56.621,100.0,500.0,1272.627,1,r2-s2,3,7.431
+145,3,6,profile_027,Media enthusiast,multi-gaussian,54.389,59.631,100.0,500.0,1270.558,1,r2-s2,3,7.431
+150,3,6,profile_027,Media enthusiast,multi-gaussian,52.867,56.213,100.0,500.0,1232.859,1,r2-s2,3,7.431
+155,3,6,profile_027,Media enthusiast,multi-gaussian,51.348,54.733,100.0,500.0,1195.608,1,r2-s2,3,7.431
+160,3,6,profile_027,Media enthusiast,multi-gaussian,47.073,51.847,100.0,500.0,1152.192,1,r2-s2,3,7.431
+165,3,6,profile_027,Media enthusiast,multi-gaussian,47.004,52.435,100.0,500.0,1067.611,1,r2-s2,3,7.431
+170,3,6,profile_027,Media enthusiast,multi-gaussian,45.404,51.688,100.0,500.0,1001.485,1,r2-s2,3,7.431
+175,3,6,profile_027,Media enthusiast,multi-gaussian,44.583,49.645,100.0,500.0,925.316,1,r2-s2,3,7.431
+0,4,7,profile_024,Family streaming,multi-gaussian,31.942,65.026,100.0,500.0,794.84,1,r2-s2,3,7.054
+5,4,7,profile_024,Family streaming,multi-gaussian,35.726,71.803,100.0,500.0,826.66,1,r2-s2,3,7.054
+10,4,7,profile_024,Family streaming,multi-gaussian,39.1,82.939,100.0,500.0,876.584,1,r2-s2,3,7.054
+15,4,7,profile_024,Family streaming,multi-gaussian,40.701,90.805,100.0,500.0,937.115,1,r2-s2,3,7.054
+20,4,7,profile_024,Family streaming,multi-gaussian,45.623,96.612,100.0,500.0,1002.901,1,r2-s2,3,7.054
+25,4,7,profile_024,Family streaming,multi-gaussian,46.132,97.372,100.0,500.0,1038.799,1,r2-s2,3,7.054
+30,4,7,profile_024,Family streaming,multi-gaussian,42.781,93.961,100.0,500.0,1055.833,1,r2-s2,3,7.054
+35,4,7,profile_024,Family streaming,multi-gaussian,40.621,92.73,100.0,500.0,1122.408,1,r2-s2,3,7.054
+40,4,7,profile_024,Family streaming,multi-gaussian,38.63,83.867,100.0,500.0,1141.752,1,r2-s2,3,7.054
+45,4,7,profile_024,Family streaming,multi-gaussian,39.622,82.017,100.0,500.0,1171.352,1,r2-s2,3,7.054
+50,4,7,profile_024,Family streaming,multi-gaussian,35.278,74.809,100.0,500.0,1194.185,1,r2-s2,3,7.054
+55,4,7,profile_024,Family streaming,multi-gaussian,30.967,68.758,100.0,500.0,1172.116,1,r2-s2,3,7.054
+60,4,7,profile_024,Family streaming,multi-gaussian,31.607,71.594,100.0,500.0,1173.288,1,r2-s2,3,7.054
+65,4,7,profile_024,Family streaming,multi-gaussian,30.028,68.208,100.0,500.0,1183.252,1,r2-s2,3,7.054
+70,4,7,profile_024,Family streaming,multi-gaussian,31.442,67.391,100.0,500.0,1194.712,1,r2-s2,3,7.054
+75,4,7,profile_024,Family streaming,multi-gaussian,30.974,72.559,100.0,500.0,1242.642,1,r2-s2,3,7.054
+80,4,7,profile_024,Family streaming,multi-gaussian,34.165,80.89,100.0,500.0,1232.383,1,r2-s2,3,7.054
+85,4,7,profile_024,Family streaming,multi-gaussian,35.595,84.087,100.0,500.0,1248.602,1,r2-s2,3,7.054
+90,4,7,profile_024,Family streaming,multi-gaussian,39.681,99.1,100.0,500.0,1263.428,1,r2-s2,3,7.054
+95,4,7,profile_024,Family streaming,multi-gaussian,38.872,100.0,100.0,500.0,1299.831,1,r2-s2,3,7.054
+100,4,7,profile_024,Family streaming,multi-gaussian,40.619,100.0,100.0,500.0,1287.387,1,r2-s2,3,7.054
+105,4,7,profile_024,Family streaming,multi-gaussian,40.822,100.0,100.0,500.0,1297.986,1,r2-s2,3,7.054
+110,4,7,profile_024,Family streaming,multi-gaussian,43.307,100.0,100.0,500.0,1302.145,1,r2-s2,3,7.054
+115,4,7,profile_024,Family streaming,multi-gaussian,45.993,100.0,100.0,500.0,1315.265,1,r2-s2,3,7.054
+120,4,7,profile_024,Family streaming,multi-gaussian,46.518,100.0,100.0,500.0,1311.022,1,r2-s2,3,7.054
+125,4,7,profile_024,Family streaming,multi-gaussian,47.874,100.0,100.0,500.0,1315.55,1,r2-s2,3,7.054
+130,4,7,profile_024,Family streaming,multi-gaussian,49.228,100.0,100.0,500.0,1298.354,1,r2-s2,3,7.054
+135,4,7,profile_024,Family streaming,multi-gaussian,52.226,100.0,100.0,500.0,1298.493,1,r2-s2,3,7.054
+140,4,7,profile_024,Family streaming,multi-gaussian,51.738,100.0,100.0,500.0,1272.627,1,r2-s2,3,7.054
+145,4,7,profile_024,Family streaming,multi-gaussian,52.421,100.0,100.0,500.0,1270.558,1,r2-s2,3,7.054
+150,4,7,profile_024,Family streaming,multi-gaussian,52.983,100.0,100.0,500.0,1232.859,1,r2-s2,3,7.054
+155,4,7,profile_024,Family streaming,multi-gaussian,53.724,98.653,100.0,500.0,1195.608,1,r2-s2,3,7.054
+160,4,7,profile_024,Family streaming,multi-gaussian,51.763,100.0,100.0,500.0,1152.192,1,r2-s2,3,7.054
+165,4,7,profile_024,Family streaming,multi-gaussian,51.713,99.795,100.0,500.0,1067.611,1,r2-s2,3,7.054
+170,4,7,profile_024,Family streaming,multi-gaussian,51.57,96.527,100.0,500.0,1001.485,1,r2-s2,3,7.054
+175,4,7,profile_024,Family streaming,multi-gaussian,50.005,92.611,100.0,500.0,925.316,1,r2-s2,3,7.054
+0,4,8,profile_024,Weekend usage,multi-gaussian,33.084,65.026,100.0,500.0,794.84,1,r2-s2,4,9.179
+5,4,8,profile_024,Weekend usage,multi-gaussian,36.077,71.803,100.0,500.0,826.66,1,r2-s2,4,9.179
+10,4,8,profile_024,Weekend usage,multi-gaussian,43.839,82.939,100.0,500.0,876.584,1,r2-s2,4,9.179
+15,4,8,profile_024,Weekend usage,multi-gaussian,50.104,90.805,100.0,500.0,937.115,1,r2-s2,4,9.179
+20,4,8,profile_024,Weekend usage,multi-gaussian,50.989,96.612,100.0,500.0,1002.901,1,r2-s2,4,9.179
+25,4,8,profile_024,Weekend usage,multi-gaussian,51.239,97.372,100.0,500.0,1038.799,1,r2-s2,4,9.179
+30,4,8,profile_024,Weekend usage,multi-gaussian,51.18,93.961,100.0,500.0,1055.833,1,r2-s2,4,9.179
+35,4,8,profile_024,Weekend usage,multi-gaussian,52.109,92.73,100.0,500.0,1122.408,1,r2-s2,4,9.179
+40,4,8,profile_024,Weekend usage,multi-gaussian,45.237,83.867,100.0,500.0,1141.752,1,r2-s2,4,9.179
+45,4,8,profile_024,Weekend usage,multi-gaussian,42.395,82.017,100.0,500.0,1171.352,1,r2-s2,4,9.179
+50,4,8,profile_024,Weekend usage,multi-gaussian,39.531,74.809,100.0,500.0,1194.185,1,r2-s2,4,9.179
+55,4,8,profile_024,Weekend usage,multi-gaussian,37.79,68.758,100.0,500.0,1172.116,1,r2-s2,4,9.179
+60,4,8,profile_024,Weekend usage,multi-gaussian,39.987,71.594,100.0,500.0,1173.288,1,r2-s2,4,9.179
+65,4,8,profile_024,Weekend usage,multi-gaussian,38.18,68.208,100.0,500.0,1183.252,1,r2-s2,4,9.179
+70,4,8,profile_024,Weekend usage,multi-gaussian,35.95,67.391,100.0,500.0,1194.712,1,r2-s2,4,9.179
+75,4,8,profile_024,Weekend usage,multi-gaussian,41.585,72.559,100.0,500.0,1242.642,1,r2-s2,4,9.179
+80,4,8,profile_024,Weekend usage,multi-gaussian,46.724,80.89,100.0,500.0,1232.383,1,r2-s2,4,9.179
+85,4,8,profile_024,Weekend usage,multi-gaussian,48.491,84.087,100.0,500.0,1248.602,1,r2-s2,4,9.179
+90,4,8,profile_024,Weekend usage,multi-gaussian,59.419,99.1,100.0,500.0,1263.428,1,r2-s2,4,9.179
+95,4,8,profile_024,Weekend usage,multi-gaussian,61.128,100.0,100.0,500.0,1299.831,1,r2-s2,4,9.179
+100,4,8,profile_024,Weekend usage,multi-gaussian,59.381,100.0,100.0,500.0,1287.387,1,r2-s2,4,9.179
+105,4,8,profile_024,Weekend usage,multi-gaussian,59.178,100.0,100.0,500.0,1297.986,1,r2-s2,4,9.179
+110,4,8,profile_024,Weekend usage,multi-gaussian,56.693,100.0,100.0,500.0,1302.145,1,r2-s2,4,9.179
+115,4,8,profile_024,Weekend usage,multi-gaussian,54.007,100.0,100.0,500.0,1315.265,1,r2-s2,4,9.179
+120,4,8,profile_024,Weekend usage,multi-gaussian,53.482,100.0,100.0,500.0,1311.022,1,r2-s2,4,9.179
+125,4,8,profile_024,Weekend usage,multi-gaussian,52.126,100.0,100.0,500.0,1315.55,1,r2-s2,4,9.179
+130,4,8,profile_024,Weekend usage,multi-gaussian,50.772,100.0,100.0,500.0,1298.354,1,r2-s2,4,9.179
+135,4,8,profile_024,Weekend usage,multi-gaussian,47.774,100.0,100.0,500.0,1298.493,1,r2-s2,4,9.179
+140,4,8,profile_024,Weekend usage,multi-gaussian,48.262,100.0,100.0,500.0,1272.627,1,r2-s2,4,9.179
+145,4,8,profile_024,Weekend usage,multi-gaussian,47.579,100.0,100.0,500.0,1270.558,1,r2-s2,4,9.179
+150,4,8,profile_024,Weekend usage,multi-gaussian,47.017,100.0,100.0,500.0,1232.859,1,r2-s2,4,9.179
+155,4,8,profile_024,Weekend usage,multi-gaussian,44.929,98.653,100.0,500.0,1195.608,1,r2-s2,4,9.179
+160,4,8,profile_024,Weekend usage,multi-gaussian,48.237,100.0,100.0,500.0,1152.192,1,r2-s2,4,9.179
+165,4,8,profile_024,Weekend usage,multi-gaussian,48.082,99.795,100.0,500.0,1067.611,1,r2-s2,4,9.179
+170,4,8,profile_024,Weekend usage,multi-gaussian,44.957,96.527,100.0,500.0,1001.485,1,r2-s2,4,9.179
+175,4,8,profile_024,Weekend usage,multi-gaussian,42.606,92.611,100.0,500.0,925.316,1,r2-s2,4,9.179
+0,5,9,profile_031,Evening entertainment,multi-gaussian,16.813,46.593,100.0,500.0,794.84,1,r2-s2,3,7.971
+5,5,9,profile_031,Evening entertainment,multi-gaussian,14.775,46.254,100.0,500.0,826.66,1,r2-s2,3,7.971
+10,5,9,profile_031,Evening entertainment,multi-gaussian,18.629,50.105,100.0,500.0,876.584,1,r2-s2,3,7.971
+15,5,9,profile_031,Evening entertainment,multi-gaussian,20.246,55.29,100.0,500.0,937.115,1,r2-s2,3,7.971
+20,5,9,profile_031,Evening entertainment,multi-gaussian,28.582,65.184,100.0,500.0,1002.901,1,r2-s2,3,7.971
+25,5,9,profile_031,Evening entertainment,multi-gaussian,32.141,67.968,100.0,500.0,1038.799,1,r2-s2,3,7.971
+30,5,9,profile_031,Evening entertainment,multi-gaussian,36.669,69.656,100.0,500.0,1055.833,1,r2-s2,3,7.971
+35,5,9,profile_031,Evening entertainment,multi-gaussian,38.058,72.951,100.0,500.0,1122.408,1,r2-s2,3,7.971
+40,5,9,profile_031,Evening entertainment,multi-gaussian,46.245,76.957,100.0,500.0,1141.752,1,r2-s2,3,7.971
+45,5,9,profile_031,Evening entertainment,multi-gaussian,44.848,71.655,100.0,500.0,1171.352,1,r2-s2,3,7.971
+50,5,9,profile_031,Evening entertainment,multi-gaussian,53.813,80.067,100.0,500.0,1194.185,1,r2-s2,3,7.971
+55,5,9,profile_031,Evening entertainment,multi-gaussian,53.302,77.189,100.0,500.0,1172.116,1,r2-s2,3,7.971
+60,5,9,profile_031,Evening entertainment,multi-gaussian,56.497,77.259,100.0,500.0,1173.288,1,r2-s2,3,7.971
+65,5,9,profile_031,Evening entertainment,multi-gaussian,56.336,75.066,100.0,500.0,1183.252,1,r2-s2,3,7.971
+70,5,9,profile_031,Evening entertainment,multi-gaussian,61.745,76.039,100.0,500.0,1194.712,1,r2-s2,3,7.971
+75,5,9,profile_031,Evening entertainment,multi-gaussian,61.484,75.221,100.0,500.0,1242.642,1,r2-s2,3,7.971
+80,5,9,profile_031,Evening entertainment,multi-gaussian,62.804,75.934,100.0,500.0,1232.383,1,r2-s2,3,7.971
+85,5,9,profile_031,Evening entertainment,multi-gaussian,61.172,75.536,100.0,500.0,1248.602,1,r2-s2,3,7.971
+90,5,9,profile_031,Evening entertainment,multi-gaussian,66.212,81.66,100.0,500.0,1263.428,1,r2-s2,3,7.971
+95,5,9,profile_031,Evening entertainment,multi-gaussian,64.589,83.024,100.0,500.0,1299.831,1,r2-s2,3,7.971
+100,5,9,profile_031,Evening entertainment,multi-gaussian,61.587,87.046,100.0,500.0,1287.387,1,r2-s2,3,7.971
+105,5,9,profile_031,Evening entertainment,multi-gaussian,65.02,94.295,100.0,500.0,1297.986,1,r2-s2,3,7.971
+110,5,9,profile_031,Evening entertainment,multi-gaussian,64.2,98.325,100.0,500.0,1302.145,1,r2-s2,3,7.971
+115,5,9,profile_031,Evening entertainment,multi-gaussian,59.672,100.0,100.0,500.0,1315.265,1,r2-s2,3,7.971
+120,5,9,profile_031,Evening entertainment,multi-gaussian,57.392,100.0,100.0,500.0,1311.022,1,r2-s2,3,7.971
+125,5,9,profile_031,Evening entertainment,multi-gaussian,55.826,100.0,100.0,500.0,1315.55,1,r2-s2,3,7.971
+130,5,9,profile_031,Evening entertainment,multi-gaussian,54.686,100.0,100.0,500.0,1298.354,1,r2-s2,3,7.971
+135,5,9,profile_031,Evening entertainment,multi-gaussian,51.756,100.0,100.0,500.0,1298.493,1,r2-s2,3,7.971
+140,5,9,profile_031,Evening entertainment,multi-gaussian,55.61,100.0,100.0,500.0,1272.627,1,r2-s2,3,7.971
+145,5,9,profile_031,Evening entertainment,multi-gaussian,54.15,95.356,100.0,500.0,1270.558,1,r2-s2,3,7.971
+150,5,9,profile_031,Evening entertainment,multi-gaussian,54.581,92.534,100.0,500.0,1232.859,1,r2-s2,3,7.971
+155,5,9,profile_031,Evening entertainment,multi-gaussian,53.171,82.751,100.0,500.0,1195.608,1,r2-s2,3,7.971
+160,5,9,profile_031,Evening entertainment,multi-gaussian,47.433,71.962,100.0,500.0,1152.192,1,r2-s2,3,7.971
+165,5,9,profile_031,Evening entertainment,multi-gaussian,42.486,58.693,100.0,500.0,1067.611,1,r2-s2,3,7.971
+170,5,9,profile_031,Evening entertainment,multi-gaussian,41.268,54.907,100.0,500.0,1001.485,1,r2-s2,3,7.971
+175,5,9,profile_031,Evening entertainment,multi-gaussian,38.868,51.033,100.0,500.0,925.316,1,r2-s2,3,7.971
+0,5,10,profile_031,Small business usage,multi-gaussian,29.78,46.593,100.0,500.0,794.84,1,r2-s2,2,5.486
+5,5,10,profile_031,Small business usage,multi-gaussian,31.479,46.254,100.0,500.0,826.66,1,r2-s2,2,5.486
+10,5,10,profile_031,Small business usage,multi-gaussian,31.476,50.105,100.0,500.0,876.584,1,r2-s2,2,5.486
+15,5,10,profile_031,Small business usage,multi-gaussian,35.044,55.29,100.0,500.0,937.115,1,r2-s2,2,5.486
+20,5,10,profile_031,Small business usage,multi-gaussian,36.602,65.184,100.0,500.0,1002.901,1,r2-s2,2,5.486
+25,5,10,profile_031,Small business usage,multi-gaussian,35.828,67.968,100.0,500.0,1038.799,1,r2-s2,2,5.486
+30,5,10,profile_031,Small business usage,multi-gaussian,32.987,69.656,100.0,500.0,1055.833,1,r2-s2,2,5.486
+35,5,10,profile_031,Small business usage,multi-gaussian,34.893,72.951,100.0,500.0,1122.408,1,r2-s2,2,5.486
+40,5,10,profile_031,Small business usage,multi-gaussian,30.712,76.957,100.0,500.0,1141.752,1,r2-s2,2,5.486
+45,5,10,profile_031,Small business usage,multi-gaussian,26.807,71.655,100.0,500.0,1171.352,1,r2-s2,2,5.486
+50,5,10,profile_031,Small business usage,multi-gaussian,26.255,80.067,100.0,500.0,1194.185,1,r2-s2,2,5.486
+55,5,10,profile_031,Small business usage,multi-gaussian,23.888,77.189,100.0,500.0,1172.116,1,r2-s2,2,5.486
+60,5,10,profile_031,Small business usage,multi-gaussian,20.762,77.259,100.0,500.0,1173.288,1,r2-s2,2,5.486
+65,5,10,profile_031,Small business usage,multi-gaussian,18.73,75.066,100.0,500.0,1183.252,1,r2-s2,2,5.486
+70,5,10,profile_031,Small business usage,multi-gaussian,14.294,76.039,100.0,500.0,1194.712,1,r2-s2,2,5.486
+75,5,10,profile_031,Small business usage,multi-gaussian,13.737,75.221,100.0,500.0,1242.642,1,r2-s2,2,5.486
+80,5,10,profile_031,Small business usage,multi-gaussian,13.13,75.934,100.0,500.0,1232.383,1,r2-s2,2,5.486
+85,5,10,profile_031,Small business usage,multi-gaussian,14.364,75.536,100.0,500.0,1248.602,1,r2-s2,2,5.486
+90,5,10,profile_031,Small business usage,multi-gaussian,15.448,81.66,100.0,500.0,1263.428,1,r2-s2,2,5.486
+95,5,10,profile_031,Small business usage,multi-gaussian,18.435,83.024,100.0,500.0,1299.831,1,r2-s2,2,5.486
+100,5,10,profile_031,Small business usage,multi-gaussian,25.46,87.046,100.0,500.0,1287.387,1,r2-s2,2,5.486
+105,5,10,profile_031,Small business usage,multi-gaussian,29.275,94.295,100.0,500.0,1297.986,1,r2-s2,2,5.486
+110,5,10,profile_031,Small business usage,multi-gaussian,34.124,98.325,100.0,500.0,1302.145,1,r2-s2,2,5.486
+115,5,10,profile_031,Small business usage,multi-gaussian,40.328,100.0,100.0,500.0,1315.265,1,r2-s2,2,5.486
+120,5,10,profile_031,Small business usage,multi-gaussian,42.608,100.0,100.0,500.0,1311.022,1,r2-s2,2,5.486
+125,5,10,profile_031,Small business usage,multi-gaussian,44.174,100.0,100.0,500.0,1315.55,1,r2-s2,2,5.486
+130,5,10,profile_031,Small business usage,multi-gaussian,45.314,100.0,100.0,500.0,1298.354,1,r2-s2,2,5.486
+135,5,10,profile_031,Small business usage,multi-gaussian,48.244,100.0,100.0,500.0,1298.493,1,r2-s2,2,5.486
+140,5,10,profile_031,Small business usage,multi-gaussian,44.39,100.0,100.0,500.0,1272.627,1,r2-s2,2,5.486
+145,5,10,profile_031,Small business usage,multi-gaussian,41.206,95.356,100.0,500.0,1270.558,1,r2-s2,2,5.486
+150,5,10,profile_031,Small business usage,multi-gaussian,37.953,92.534,100.0,500.0,1232.859,1,r2-s2,2,5.486
+155,5,10,profile_031,Small business usage,multi-gaussian,29.58,82.751,100.0,500.0,1195.608,1,r2-s2,2,5.486
+160,5,10,profile_031,Small business usage,multi-gaussian,24.529,71.962,100.0,500.0,1152.192,1,r2-s2,2,5.486
+165,5,10,profile_031,Small business usage,multi-gaussian,16.207,58.693,100.0,500.0,1067.611,1,r2-s2,2,5.486
+170,5,10,profile_031,Small business usage,multi-gaussian,13.639,54.907,100.0,500.0,1001.485,1,r2-s2,2,5.486
+175,5,10,profile_031,Small business usage,multi-gaussian,12.165,51.033,100.0,500.0,925.316,1,r2-s2,2,5.486
+0,6,11,profile_008,HD streaming + download,multi-gaussian,8.671,57.176,100.0,500.0,794.84,1,r2-s2,2,6.478
+5,6,11,profile_008,HD streaming + download,multi-gaussian,7.032,55.932,100.0,500.0,826.66,1,r2-s2,2,6.478
+10,6,11,profile_008,HD streaming + download,multi-gaussian,8.264,54.807,100.0,500.0,876.584,1,r2-s2,2,6.478
+15,6,11,profile_008,HD streaming + download,multi-gaussian,7.788,52.094,100.0,500.0,937.115,1,r2-s2,2,6.478
+20,6,11,profile_008,HD streaming + download,multi-gaussian,10.901,52.664,100.0,500.0,1002.901,1,r2-s2,2,6.478
+25,6,11,profile_008,HD streaming + download,multi-gaussian,14.247,51.819,100.0,500.0,1038.799,1,r2-s2,2,6.478
+30,6,11,profile_008,HD streaming + download,multi-gaussian,19.631,51.096,100.0,500.0,1055.833,1,r2-s2,2,6.478
+35,6,11,profile_008,HD streaming + download,multi-gaussian,24.501,55.304,100.0,500.0,1122.408,1,r2-s2,2,6.478
+40,6,11,profile_008,HD streaming + download,multi-gaussian,29.587,55.737,100.0,500.0,1141.752,1,r2-s2,2,6.478
+45,6,11,profile_008,HD streaming + download,multi-gaussian,37.702,57.601,100.0,500.0,1171.352,1,r2-s2,2,6.478
+50,6,11,profile_008,HD streaming + download,multi-gaussian,40.367,60.534,100.0,500.0,1194.185,1,r2-s2,2,6.478
+55,6,11,profile_008,HD streaming + download,multi-gaussian,43.515,60.605,100.0,500.0,1172.116,1,r2-s2,2,6.478
+60,6,11,profile_008,HD streaming + download,multi-gaussian,46.447,60.372,100.0,500.0,1173.288,1,r2-s2,2,6.478
+65,6,11,profile_008,HD streaming + download,multi-gaussian,47.084,58.177,100.0,500.0,1183.252,1,r2-s2,2,6.478
+70,6,11,profile_008,HD streaming + download,multi-gaussian,46.595,57.505,100.0,500.0,1194.712,1,r2-s2,2,6.478
+75,6,11,profile_008,HD streaming + download,multi-gaussian,45.521,55.325,100.0,500.0,1242.642,1,r2-s2,2,6.478
+80,6,11,profile_008,HD streaming + download,multi-gaussian,44.436,52.435,100.0,500.0,1232.383,1,r2-s2,2,6.478
+85,6,11,profile_008,HD streaming + download,multi-gaussian,40.994,50.197,100.0,500.0,1248.602,1,r2-s2,2,6.478
+90,6,11,profile_008,HD streaming + download,multi-gaussian,39.113,45.012,100.0,500.0,1263.428,1,r2-s2,2,6.478
+95,6,11,profile_008,HD streaming + download,multi-gaussian,39.495,46.32,100.0,500.0,1299.831,1,r2-s2,2,6.478
+100,6,11,profile_008,HD streaming + download,multi-gaussian,38.992,46.718,100.0,500.0,1287.387,1,r2-s2,2,6.478
+105,6,11,profile_008,HD streaming + download,multi-gaussian,40.193,45.543,100.0,500.0,1297.986,1,r2-s2,2,6.478
+110,6,11,profile_008,HD streaming + download,multi-gaussian,37.325,43.985,100.0,500.0,1302.145,1,r2-s2,2,6.478
+115,6,11,profile_008,HD streaming + download,multi-gaussian,32.769,37.845,100.0,500.0,1315.265,1,r2-s2,2,6.478
+120,6,11,profile_008,HD streaming + download,multi-gaussian,29.474,34.525,100.0,500.0,1311.022,1,r2-s2,2,6.478
+125,6,11,profile_008,HD streaming + download,multi-gaussian,28.861,34.266,100.0,500.0,1315.55,1,r2-s2,2,6.478
+130,6,11,profile_008,HD streaming + download,multi-gaussian,21.82,27.012,100.0,500.0,1298.354,1,r2-s2,2,6.478
+135,6,11,profile_008,HD streaming + download,multi-gaussian,15.042,21.403,100.0,500.0,1298.493,1,r2-s2,2,6.478
+140,6,11,profile_008,HD streaming + download,multi-gaussian,11.054,16.723,100.0,500.0,1272.627,1,r2-s2,2,6.478
+145,6,11,profile_008,HD streaming + download,multi-gaussian,8.655,16.532,100.0,500.0,1270.558,1,r2-s2,2,6.478
+150,6,11,profile_008,HD streaming + download,multi-gaussian,7.765,12.607,100.0,500.0,1232.859,1,r2-s2,2,6.478
+155,6,11,profile_008,HD streaming + download,multi-gaussian,8.179,12.945,100.0,500.0,1195.608,1,r2-s2,2,6.478
+160,6,11,profile_008,HD streaming + download,multi-gaussian,6.662,13.107,100.0,500.0,1152.192,1,r2-s2,2,6.478
+165,6,11,profile_008,HD streaming + download,multi-gaussian,7.001,12.453,100.0,500.0,1067.611,1,r2-s2,2,6.478
+170,6,11,profile_008,HD streaming + download,multi-gaussian,4.628,11.62,100.0,500.0,1001.485,1,r2-s2,2,6.478
+175,6,11,profile_008,HD streaming + download,multi-gaussian,7.938,12.695,100.0,500.0,925.316,1,r2-s2,2,6.478
+0,6,12,profile_008,Remote education,multi-gaussian,48.504,57.176,100.0,500.0,794.84,1,r2-s2,1,6.486
+5,6,12,profile_008,Remote education,multi-gaussian,48.901,55.932,100.0,500.0,826.66,1,r2-s2,1,6.486
+10,6,12,profile_008,Remote education,multi-gaussian,46.543,54.807,100.0,500.0,876.584,1,r2-s2,1,6.486
+15,6,12,profile_008,Remote education,multi-gaussian,44.306,52.094,100.0,500.0,937.115,1,r2-s2,1,6.486
+20,6,12,profile_008,Remote education,multi-gaussian,41.764,52.664,100.0,500.0,1002.901,1,r2-s2,1,6.486
+25,6,12,profile_008,Remote education,multi-gaussian,37.572,51.819,100.0,500.0,1038.799,1,r2-s2,1,6.486
+30,6,12,profile_008,Remote education,multi-gaussian,31.464,51.096,100.0,500.0,1055.833,1,r2-s2,1,6.486
+35,6,12,profile_008,Remote education,multi-gaussian,30.803,55.304,100.0,500.0,1122.408,1,r2-s2,1,6.486
+40,6,12,profile_008,Remote education,multi-gaussian,26.15,55.737,100.0,500.0,1141.752,1,r2-s2,1,6.486
+45,6,12,profile_008,Remote education,multi-gaussian,19.899,57.601,100.0,500.0,1171.352,1,r2-s2,1,6.486
+50,6,12,profile_008,Remote education,multi-gaussian,20.167,60.534,100.0,500.0,1194.185,1,r2-s2,1,6.486
+55,6,12,profile_008,Remote education,multi-gaussian,17.09,60.605,100.0,500.0,1172.116,1,r2-s2,1,6.486
+60,6,12,profile_008,Remote education,multi-gaussian,13.925,60.372,100.0,500.0,1173.288,1,r2-s2,1,6.486
+65,6,12,profile_008,Remote education,multi-gaussian,11.093,58.177,100.0,500.0,1183.252,1,r2-s2,1,6.486
+70,6,12,profile_008,Remote education,multi-gaussian,10.91,57.505,100.0,500.0,1194.712,1,r2-s2,1,6.486
+75,6,12,profile_008,Remote education,multi-gaussian,9.804,55.325,100.0,500.0,1242.642,1,r2-s2,1,6.486
+80,6,12,profile_008,Remote education,multi-gaussian,7.998,52.435,100.0,500.0,1232.383,1,r2-s2,1,6.486
+85,6,12,profile_008,Remote education,multi-gaussian,9.204,50.197,100.0,500.0,1248.602,1,r2-s2,1,6.486
+90,6,12,profile_008,Remote education,multi-gaussian,5.899,45.012,100.0,500.0,1263.428,1,r2-s2,1,6.486
+95,6,12,profile_008,Remote education,multi-gaussian,6.826,46.32,100.0,500.0,1299.831,1,r2-s2,1,6.486
+100,6,12,profile_008,Remote education,multi-gaussian,7.726,46.718,100.0,500.0,1287.387,1,r2-s2,1,6.486
+105,6,12,profile_008,Remote education,multi-gaussian,5.35,45.543,100.0,500.0,1297.986,1,r2-s2,1,6.486
+110,6,12,profile_008,Remote education,multi-gaussian,6.66,43.985,100.0,500.0,1302.145,1,r2-s2,1,6.486
+115,6,12,profile_008,Remote education,multi-gaussian,5.076,37.845,100.0,500.0,1315.265,1,r2-s2,1,6.486
+120,6,12,profile_008,Remote education,multi-gaussian,5.051,34.525,100.0,500.0,1311.022,1,r2-s2,1,6.486
+125,6,12,profile_008,Remote education,multi-gaussian,5.405,34.266,100.0,500.0,1315.55,1,r2-s2,1,6.486
+130,6,12,profile_008,Remote education,multi-gaussian,5.192,27.012,100.0,500.0,1298.354,1,r2-s2,1,6.486
+135,6,12,profile_008,Remote education,multi-gaussian,6.36,21.403,100.0,500.0,1298.493,1,r2-s2,1,6.486
+140,6,12,profile_008,Remote education,multi-gaussian,5.669,16.723,100.0,500.0,1272.627,1,r2-s2,1,6.486
+145,6,12,profile_008,Remote education,multi-gaussian,7.877,16.532,100.0,500.0,1270.558,1,r2-s2,1,6.486
+150,6,12,profile_008,Remote education,multi-gaussian,4.843,12.607,100.0,500.0,1232.859,1,r2-s2,1,6.486
+155,6,12,profile_008,Remote education,multi-gaussian,4.765,12.945,100.0,500.0,1195.608,1,r2-s2,1,6.486
+160,6,12,profile_008,Remote education,multi-gaussian,6.444,13.107,100.0,500.0,1152.192,1,r2-s2,1,6.486
+165,6,12,profile_008,Remote education,multi-gaussian,5.452,12.453,100.0,500.0,1067.611,1,r2-s2,1,6.486
+170,6,12,profile_008,Remote education,multi-gaussian,6.992,11.62,100.0,500.0,1001.485,1,r2-s2,1,6.486
+175,6,12,profile_008,Remote education,multi-gaussian,4.757,12.695,100.0,500.0,925.316,1,r2-s2,1,6.486
+0,7,13,profile_026,Work-from-home setup,multi-gaussian,7.425,14.719,100.0,500.0,794.84,1,r2-s2,1,5.671
+5,7,13,profile_026,Work-from-home setup,multi-gaussian,5.548,14.577,100.0,500.0,826.66,1,r2-s2,1,5.671
+10,7,13,profile_026,Work-from-home setup,multi-gaussian,5.711,16.91,100.0,500.0,876.584,1,r2-s2,1,5.671
+15,7,13,profile_026,Work-from-home setup,multi-gaussian,5.53,22.421,100.0,500.0,937.115,1,r2-s2,1,5.671
+20,7,13,profile_026,Work-from-home setup,multi-gaussian,5.191,26.042,100.0,500.0,1002.901,1,r2-s2,1,5.671
+25,7,13,profile_026,Work-from-home setup,multi-gaussian,6.214,30.664,100.0,500.0,1038.799,1,r2-s2,1,5.671
+30,7,13,profile_026,Work-from-home setup,multi-gaussian,6.335,31.126,100.0,500.0,1055.833,1,r2-s2,1,5.671
+35,7,13,profile_026,Work-from-home setup,multi-gaussian,4.124,32.682,100.0,500.0,1122.408,1,r2-s2,1,5.671
+40,7,13,profile_026,Work-from-home setup,multi-gaussian,6.847,34.063,100.0,500.0,1141.752,1,r2-s2,1,5.671
+45,7,13,profile_026,Work-from-home setup,multi-gaussian,12.702,39.43,100.0,500.0,1171.352,1,r2-s2,1,5.671
+50,7,13,profile_026,Work-from-home setup,multi-gaussian,10.549,30.946,100.0,500.0,1194.185,1,r2-s2,1,5.671
+55,7,13,profile_026,Work-from-home setup,multi-gaussian,7.455,27.279,100.0,500.0,1172.116,1,r2-s2,1,5.671
+60,7,13,profile_026,Work-from-home setup,multi-gaussian,5.888,22.104,100.0,500.0,1173.288,1,r2-s2,1,5.671
+65,7,13,profile_026,Work-from-home setup,multi-gaussian,6.825,16.343,100.0,500.0,1183.252,1,r2-s2,1,5.671
+70,7,13,profile_026,Work-from-home setup,multi-gaussian,10.524,18.134,100.0,500.0,1194.712,1,r2-s2,1,5.671
+75,7,13,profile_026,Work-from-home setup,multi-gaussian,12.517,20.053,100.0,500.0,1242.642,1,r2-s2,1,5.671
+80,7,13,profile_026,Work-from-home setup,multi-gaussian,14.424,22.225,100.0,500.0,1232.383,1,r2-s2,1,5.671
+85,7,13,profile_026,Work-from-home setup,multi-gaussian,18.713,27.596,100.0,500.0,1248.602,1,r2-s2,1,5.671
+90,7,13,profile_026,Work-from-home setup,multi-gaussian,22.608,30.323,100.0,500.0,1263.428,1,r2-s2,1,5.671
+95,7,13,profile_026,Work-from-home setup,multi-gaussian,32.453,39.54,100.0,500.0,1299.831,1,r2-s2,1,5.671
+100,7,13,profile_026,Work-from-home setup,multi-gaussian,36.486,41.863,100.0,500.0,1287.387,1,r2-s2,1,5.671
+105,7,13,profile_026,Work-from-home setup,multi-gaussian,38.393,44.789,100.0,500.0,1297.986,1,r2-s2,1,5.671
+110,7,13,profile_026,Work-from-home setup,multi-gaussian,44.357,54.212,100.0,500.0,1302.145,1,r2-s2,1,5.671
+115,7,13,profile_026,Work-from-home setup,multi-gaussian,48.014,59.143,100.0,500.0,1315.265,1,r2-s2,1,5.671
+120,7,13,profile_026,Work-from-home setup,multi-gaussian,53.036,64.304,100.0,500.0,1311.022,1,r2-s2,1,5.671
+125,7,13,profile_026,Work-from-home setup,multi-gaussian,52.333,66.622,100.0,500.0,1315.55,1,r2-s2,1,5.671
+130,7,13,profile_026,Work-from-home setup,multi-gaussian,53.995,71.531,100.0,500.0,1298.354,1,r2-s2,1,5.671
+135,7,13,profile_026,Work-from-home setup,multi-gaussian,50.711,72.005,100.0,500.0,1298.493,1,r2-s2,1,5.671
+140,7,13,profile_026,Work-from-home setup,multi-gaussian,46.446,72.763,100.0,500.0,1272.627,1,r2-s2,1,5.671
+145,7,13,profile_026,Work-from-home setup,multi-gaussian,42.97,71.759,100.0,500.0,1270.558,1,r2-s2,1,5.671
+150,7,13,profile_026,Work-from-home setup,multi-gaussian,35.77,69.121,100.0,500.0,1232.859,1,r2-s2,1,5.671
+155,7,13,profile_026,Work-from-home setup,multi-gaussian,29.955,66.726,100.0,500.0,1195.608,1,r2-s2,1,5.671
+160,7,13,profile_026,Work-from-home setup,multi-gaussian,22.452,62.704,100.0,500.0,1152.192,1,r2-s2,1,5.671
+165,7,13,profile_026,Work-from-home setup,multi-gaussian,20.535,58.841,100.0,500.0,1067.611,1,r2-s2,1,5.671
+170,7,13,profile_026,Work-from-home setup,multi-gaussian,15.176,55.843,100.0,500.0,1001.485,1,r2-s2,1,5.671
+175,7,13,profile_026,Work-from-home setup,multi-gaussian,10.604,47.052,100.0,500.0,925.316,1,r2-s2,1,5.671
+0,7,14,profile_026,Small business usage,multi-gaussian,7.293,14.719,100.0,500.0,794.84,1,r2-s2,2,6.352
+5,7,14,profile_026,Small business usage,multi-gaussian,9.029,14.577,100.0,500.0,826.66,1,r2-s2,2,6.352
+10,7,14,profile_026,Small business usage,multi-gaussian,11.199,16.91,100.0,500.0,876.584,1,r2-s2,2,6.352
+15,7,14,profile_026,Small business usage,multi-gaussian,16.891,22.421,100.0,500.0,937.115,1,r2-s2,2,6.352
+20,7,14,profile_026,Small business usage,multi-gaussian,20.851,26.042,100.0,500.0,1002.901,1,r2-s2,2,6.352
+25,7,14,profile_026,Small business usage,multi-gaussian,24.45,30.664,100.0,500.0,1038.799,1,r2-s2,2,6.352
+30,7,14,profile_026,Small business usage,multi-gaussian,24.79,31.126,100.0,500.0,1055.833,1,r2-s2,2,6.352
+35,7,14,profile_026,Small business usage,multi-gaussian,28.557,32.682,100.0,500.0,1122.408,1,r2-s2,2,6.352
+40,7,14,profile_026,Small business usage,multi-gaussian,27.216,34.063,100.0,500.0,1141.752,1,r2-s2,2,6.352
+45,7,14,profile_026,Small business usage,multi-gaussian,26.727,39.43,100.0,500.0,1171.352,1,r2-s2,2,6.352
+50,7,14,profile_026,Small business usage,multi-gaussian,20.397,30.946,100.0,500.0,1194.185,1,r2-s2,2,6.352
+55,7,14,profile_026,Small business usage,multi-gaussian,19.824,27.279,100.0,500.0,1172.116,1,r2-s2,2,6.352
+60,7,14,profile_026,Small business usage,multi-gaussian,16.216,22.104,100.0,500.0,1173.288,1,r2-s2,2,6.352
+65,7,14,profile_026,Small business usage,multi-gaussian,9.518,16.343,100.0,500.0,1183.252,1,r2-s2,2,6.352
+70,7,14,profile_026,Small business usage,multi-gaussian,7.61,18.134,100.0,500.0,1194.712,1,r2-s2,2,6.352
+75,7,14,profile_026,Small business usage,multi-gaussian,7.536,20.053,100.0,500.0,1242.642,1,r2-s2,2,6.352
+80,7,14,profile_026,Small business usage,multi-gaussian,7.801,22.225,100.0,500.0,1232.383,1,r2-s2,2,6.352
+85,7,14,profile_026,Small business usage,multi-gaussian,8.882,27.596,100.0,500.0,1248.602,1,r2-s2,2,6.352
+90,7,14,profile_026,Small business usage,multi-gaussian,7.715,30.323,100.0,500.0,1263.428,1,r2-s2,2,6.352
+95,7,14,profile_026,Small business usage,multi-gaussian,7.088,39.54,100.0,500.0,1299.831,1,r2-s2,2,6.352
+100,7,14,profile_026,Small business usage,multi-gaussian,5.377,41.863,100.0,500.0,1287.387,1,r2-s2,2,6.352
+105,7,14,profile_026,Small business usage,multi-gaussian,6.396,44.789,100.0,500.0,1297.986,1,r2-s2,2,6.352
+110,7,14,profile_026,Small business usage,multi-gaussian,9.855,54.212,100.0,500.0,1302.145,1,r2-s2,2,6.352
+115,7,14,profile_026,Small business usage,multi-gaussian,11.129,59.143,100.0,500.0,1315.265,1,r2-s2,2,6.352
+120,7,14,profile_026,Small business usage,multi-gaussian,11.268,64.304,100.0,500.0,1311.022,1,r2-s2,2,6.352
+125,7,14,profile_026,Small business usage,multi-gaussian,14.289,66.622,100.0,500.0,1315.55,1,r2-s2,2,6.352
+130,7,14,profile_026,Small business usage,multi-gaussian,17.536,71.531,100.0,500.0,1298.354,1,r2-s2,2,6.352
+135,7,14,profile_026,Small business usage,multi-gaussian,21.294,72.005,100.0,500.0,1298.493,1,r2-s2,2,6.352
+140,7,14,profile_026,Small business usage,multi-gaussian,26.317,72.763,100.0,500.0,1272.627,1,r2-s2,2,6.352
+145,7,14,profile_026,Small business usage,multi-gaussian,28.789,71.759,100.0,500.0,1270.558,1,r2-s2,2,6.352
+150,7,14,profile_026,Small business usage,multi-gaussian,33.351,69.121,100.0,500.0,1232.859,1,r2-s2,2,6.352
+155,7,14,profile_026,Small business usage,multi-gaussian,36.771,66.726,100.0,500.0,1195.608,1,r2-s2,2,6.352
+160,7,14,profile_026,Small business usage,multi-gaussian,40.252,62.704,100.0,500.0,1152.192,1,r2-s2,2,6.352
+165,7,14,profile_026,Small business usage,multi-gaussian,38.306,58.841,100.0,500.0,1067.611,1,r2-s2,2,6.352
+170,7,14,profile_026,Small business usage,multi-gaussian,40.667,55.843,100.0,500.0,1001.485,1,r2-s2,2,6.352
+175,7,14,profile_026,Small business usage,multi-gaussian,36.448,47.052,100.0,500.0,925.316,1,r2-s2,2,6.352
+0,8,15,profile_040,Media enthusiast,multi-gaussian,7.886,16.945,100.0,500.0,794.84,1,r2-s2,2,8.439
+5,8,15,profile_040,Media enthusiast,multi-gaussian,7.8,17.229,100.0,500.0,826.66,1,r2-s2,2,8.439
+10,8,15,profile_040,Media enthusiast,multi-gaussian,6.188,16.08,100.0,500.0,876.584,1,r2-s2,2,8.439
+15,8,15,profile_040,Media enthusiast,multi-gaussian,10.404,20.649,100.0,500.0,937.115,1,r2-s2,2,8.439
+20,8,15,profile_040,Media enthusiast,multi-gaussian,10.386,25.188,100.0,500.0,1002.901,1,r2-s2,2,8.439
+25,8,15,profile_040,Media enthusiast,multi-gaussian,8.651,23.851,100.0,500.0,1038.799,1,r2-s2,2,8.439
+30,8,15,profile_040,Media enthusiast,multi-gaussian,9.312,26.597,100.0,500.0,1055.833,1,r2-s2,2,8.439
+35,8,15,profile_040,Media enthusiast,multi-gaussian,13.102,34.904,100.0,500.0,1122.408,1,r2-s2,2,8.439
+40,8,15,profile_040,Media enthusiast,multi-gaussian,11.343,33.647,100.0,500.0,1141.752,1,r2-s2,2,8.439
+45,8,15,profile_040,Media enthusiast,multi-gaussian,12.011,39.642,100.0,500.0,1171.352,1,r2-s2,2,8.439
+50,8,15,profile_040,Media enthusiast,multi-gaussian,14.074,46.638,100.0,500.0,1194.185,1,r2-s2,2,8.439
+55,8,15,profile_040,Media enthusiast,multi-gaussian,20.1,56.194,100.0,500.0,1172.116,1,r2-s2,2,8.439
+60,8,15,profile_040,Media enthusiast,multi-gaussian,21.113,56.163,100.0,500.0,1173.288,1,r2-s2,2,8.439
+65,8,15,profile_040,Media enthusiast,multi-gaussian,21.568,59.149,100.0,500.0,1183.252,1,r2-s2,2,8.439
+70,8,15,profile_040,Media enthusiast,multi-gaussian,24.374,66.57,100.0,500.0,1194.712,1,r2-s2,2,8.439
+75,8,15,profile_040,Media enthusiast,multi-gaussian,28.025,71.546,100.0,500.0,1242.642,1,r2-s2,2,8.439
+80,8,15,profile_040,Media enthusiast,multi-gaussian,32.571,73.877,100.0,500.0,1232.383,1,r2-s2,2,8.439
+85,8,15,profile_040,Media enthusiast,multi-gaussian,38.949,77.916,100.0,500.0,1248.602,1,r2-s2,2,8.439
+90,8,15,profile_040,Media enthusiast,multi-gaussian,40.858,84.417,100.0,500.0,1263.428,1,r2-s2,2,8.439
+95,8,15,profile_040,Media enthusiast,multi-gaussian,45.023,83.47,100.0,500.0,1299.831,1,r2-s2,2,8.439
+100,8,15,profile_040,Media enthusiast,multi-gaussian,49.463,82.375,100.0,500.0,1287.387,1,r2-s2,2,8.439
+105,8,15,profile_040,Media enthusiast,multi-gaussian,54.999,83.063,100.0,500.0,1297.986,1,r2-s2,2,8.439
+110,8,15,profile_040,Media enthusiast,multi-gaussian,54.507,82.257,100.0,500.0,1302.145,1,r2-s2,2,8.439
+115,8,15,profile_040,Media enthusiast,multi-gaussian,57.318,81.262,100.0,500.0,1315.265,1,r2-s2,2,8.439
+120,8,15,profile_040,Media enthusiast,multi-gaussian,62.112,79.07,100.0,500.0,1311.022,1,r2-s2,2,8.439
+125,8,15,profile_040,Media enthusiast,multi-gaussian,59.157,77.03,100.0,500.0,1315.55,1,r2-s2,2,8.439
+130,8,15,profile_040,Media enthusiast,multi-gaussian,63.25,76.199,100.0,500.0,1298.354,1,r2-s2,2,8.439
+135,8,15,profile_040,Media enthusiast,multi-gaussian,60.512,74.123,100.0,500.0,1298.493,1,r2-s2,2,8.439
+140,8,15,profile_040,Media enthusiast,multi-gaussian,63.392,74.874,100.0,500.0,1272.627,1,r2-s2,2,8.439
+145,8,15,profile_040,Media enthusiast,multi-gaussian,61.306,71.857,100.0,500.0,1270.558,1,r2-s2,2,8.439
+150,8,15,profile_040,Media enthusiast,multi-gaussian,60.3,67.13,100.0,500.0,1232.859,1,r2-s2,2,8.439
+155,8,15,profile_040,Media enthusiast,multi-gaussian,53.882,62.565,100.0,500.0,1195.608,1,r2-s2,2,8.439
+160,8,15,profile_040,Media enthusiast,multi-gaussian,53.907,62.502,100.0,500.0,1152.192,1,r2-s2,2,8.439
+165,8,15,profile_040,Media enthusiast,multi-gaussian,49.516,55.22,100.0,500.0,1067.611,1,r2-s2,2,8.439
+170,8,15,profile_040,Media enthusiast,multi-gaussian,47.092,54.22,100.0,500.0,1001.485,1,r2-s2,2,8.439
+175,8,15,profile_040,Media enthusiast,multi-gaussian,41.764,46.756,100.0,500.0,925.316,1,r2-s2,2,8.439
+0,8,16,profile_040,Home security + streaming,multi-gaussian,9.059,16.945,100.0,500.0,794.84,1,r2-s2,1,6.415
+5,8,16,profile_040,Home security + streaming,multi-gaussian,9.429,17.229,100.0,500.0,826.66,1,r2-s2,1,6.415
+10,8,16,profile_040,Home security + streaming,multi-gaussian,9.892,16.08,100.0,500.0,876.584,1,r2-s2,1,6.415
+15,8,16,profile_040,Home security + streaming,multi-gaussian,10.246,20.649,100.0,500.0,937.115,1,r2-s2,1,6.415
+20,8,16,profile_040,Home security + streaming,multi-gaussian,14.802,25.188,100.0,500.0,1002.901,1,r2-s2,1,6.415
+25,8,16,profile_040,Home security + streaming,multi-gaussian,15.199,23.851,100.0,500.0,1038.799,1,r2-s2,1,6.415
+30,8,16,profile_040,Home security + streaming,multi-gaussian,17.285,26.597,100.0,500.0,1055.833,1,r2-s2,1,6.415
+35,8,16,profile_040,Home security + streaming,multi-gaussian,21.801,34.904,100.0,500.0,1122.408,1,r2-s2,1,6.415
+40,8,16,profile_040,Home security + streaming,multi-gaussian,22.304,33.647,100.0,500.0,1141.752,1,r2-s2,1,6.415
+45,8,16,profile_040,Home security + streaming,multi-gaussian,27.631,39.642,100.0,500.0,1171.352,1,r2-s2,1,6.415
+50,8,16,profile_040,Home security + streaming,multi-gaussian,32.564,46.638,100.0,500.0,1194.185,1,r2-s2,1,6.415
+55,8,16,profile_040,Home security + streaming,multi-gaussian,36.094,56.194,100.0,500.0,1172.116,1,r2-s2,1,6.415
+60,8,16,profile_040,Home security + streaming,multi-gaussian,35.05,56.163,100.0,500.0,1173.288,1,r2-s2,1,6.415
+65,8,16,profile_040,Home security + streaming,multi-gaussian,37.581,59.149,100.0,500.0,1183.252,1,r2-s2,1,6.415
+70,8,16,profile_040,Home security + streaming,multi-gaussian,42.196,66.57,100.0,500.0,1194.712,1,r2-s2,1,6.415
+75,8,16,profile_040,Home security + streaming,multi-gaussian,43.52,71.546,100.0,500.0,1242.642,1,r2-s2,1,6.415
+80,8,16,profile_040,Home security + streaming,multi-gaussian,41.306,73.877,100.0,500.0,1232.383,1,r2-s2,1,6.415
+85,8,16,profile_040,Home security + streaming,multi-gaussian,38.967,77.916,100.0,500.0,1248.602,1,r2-s2,1,6.415
+90,8,16,profile_040,Home security + streaming,multi-gaussian,43.558,84.417,100.0,500.0,1263.428,1,r2-s2,1,6.415
+95,8,16,profile_040,Home security + streaming,multi-gaussian,38.447,83.47,100.0,500.0,1299.831,1,r2-s2,1,6.415
+100,8,16,profile_040,Home security + streaming,multi-gaussian,32.912,82.375,100.0,500.0,1287.387,1,r2-s2,1,6.415
+105,8,16,profile_040,Home security + streaming,multi-gaussian,28.064,83.063,100.0,500.0,1297.986,1,r2-s2,1,6.415
+110,8,16,profile_040,Home security + streaming,multi-gaussian,27.749,82.257,100.0,500.0,1302.145,1,r2-s2,1,6.415
+115,8,16,profile_040,Home security + streaming,multi-gaussian,23.944,81.262,100.0,500.0,1315.265,1,r2-s2,1,6.415
+120,8,16,profile_040,Home security + streaming,multi-gaussian,16.958,79.07,100.0,500.0,1311.022,1,r2-s2,1,6.415
+125,8,16,profile_040,Home security + streaming,multi-gaussian,17.873,77.03,100.0,500.0,1315.55,1,r2-s2,1,6.415
+130,8,16,profile_040,Home security + streaming,multi-gaussian,12.949,76.199,100.0,500.0,1298.354,1,r2-s2,1,6.415
+135,8,16,profile_040,Home security + streaming,multi-gaussian,13.611,74.123,100.0,500.0,1298.493,1,r2-s2,1,6.415
+140,8,16,profile_040,Home security + streaming,multi-gaussian,11.482,74.874,100.0,500.0,1272.627,1,r2-s2,1,6.415
+145,8,16,profile_040,Home security + streaming,multi-gaussian,10.551,71.857,100.0,500.0,1270.558,1,r2-s2,1,6.415
+150,8,16,profile_040,Home security + streaming,multi-gaussian,6.83,67.13,100.0,500.0,1232.859,1,r2-s2,1,6.415
+155,8,16,profile_040,Home security + streaming,multi-gaussian,8.683,62.565,100.0,500.0,1195.608,1,r2-s2,1,6.415
+160,8,16,profile_040,Home security + streaming,multi-gaussian,8.595,62.502,100.0,500.0,1152.192,1,r2-s2,1,6.415
+165,8,16,profile_040,Home security + streaming,multi-gaussian,5.704,55.22,100.0,500.0,1067.611,1,r2-s2,1,6.415
+170,8,16,profile_040,Home security + streaming,multi-gaussian,7.128,54.22,100.0,500.0,1001.485,1,r2-s2,1,6.415
+175,8,16,profile_040,Home security + streaming,multi-gaussian,4.992,46.756,100.0,500.0,925.316,1,r2-s2,1,6.415
+0,9,17,profile_042,Media enthusiast,multi-gaussian,40.58,81.452,100.0,500.0,794.84,1,r2-s2,3,8.083
+5,9,17,profile_042,Media enthusiast,multi-gaussian,38.581,79.321,100.0,500.0,826.66,1,r2-s2,3,8.083
+10,9,17,profile_042,Media enthusiast,multi-gaussian,42.485,76.649,100.0,500.0,876.584,1,r2-s2,3,8.083
+15,9,17,profile_042,Media enthusiast,multi-gaussian,40.689,73.822,100.0,500.0,937.115,1,r2-s2,3,8.083
+20,9,17,profile_042,Media enthusiast,multi-gaussian,40.222,70.053,100.0,500.0,1002.901,1,r2-s2,3,8.083
+25,9,17,profile_042,Media enthusiast,multi-gaussian,35.106,65.902,100.0,500.0,1038.799,1,r2-s2,3,8.083
+30,9,17,profile_042,Media enthusiast,multi-gaussian,33.134,60.765,100.0,500.0,1055.833,1,r2-s2,3,8.083
+35,9,17,profile_042,Media enthusiast,multi-gaussian,33.618,63.267,100.0,500.0,1122.408,1,r2-s2,3,8.083
+40,9,17,profile_042,Media enthusiast,multi-gaussian,36.481,60.984,100.0,500.0,1141.752,1,r2-s2,3,8.083
+45,9,17,profile_042,Media enthusiast,multi-gaussian,40.16,65.111,100.0,500.0,1171.352,1,r2-s2,3,8.083
+50,9,17,profile_042,Media enthusiast,multi-gaussian,42.251,63.095,100.0,500.0,1194.185,1,r2-s2,3,8.083
+55,9,17,profile_042,Media enthusiast,multi-gaussian,41.738,64.746,100.0,500.0,1172.116,1,r2-s2,3,8.083
+60,9,17,profile_042,Media enthusiast,multi-gaussian,42.923,68.482,100.0,500.0,1173.288,1,r2-s2,3,8.083
+65,9,17,profile_042,Media enthusiast,multi-gaussian,47.628,75.808,100.0,500.0,1183.252,1,r2-s2,3,8.083
+70,9,17,profile_042,Media enthusiast,multi-gaussian,46.508,77.968,100.0,500.0,1194.712,1,r2-s2,3,8.083
+75,9,17,profile_042,Media enthusiast,multi-gaussian,51.979,83.115,100.0,500.0,1242.642,1,r2-s2,3,8.083
+80,9,17,profile_042,Media enthusiast,multi-gaussian,54.784,90.478,100.0,500.0,1232.383,1,r2-s2,3,8.083
+85,9,17,profile_042,Media enthusiast,multi-gaussian,53.264,100.0,100.0,500.0,1248.602,1,r2-s2,3,8.083
+90,9,17,profile_042,Media enthusiast,multi-gaussian,40.706,100.0,100.0,500.0,1263.428,1,r2-s2,3,8.083
+95,9,17,profile_042,Media enthusiast,multi-gaussian,44.244,100.0,100.0,500.0,1299.831,1,r2-s2,3,8.083
+100,9,17,profile_042,Media enthusiast,multi-gaussian,50.649,96.102,100.0,500.0,1287.387,1,r2-s2,3,8.083
+105,9,17,profile_042,Media enthusiast,multi-gaussian,47.116,99.223,100.0,500.0,1297.986,1,r2-s2,3,8.083
+110,9,17,profile_042,Media enthusiast,multi-gaussian,42.592,100.0,100.0,500.0,1302.145,1,r2-s2,3,8.083
+115,9,17,profile_042,Media enthusiast,multi-gaussian,40.58,100.0,100.0,500.0,1315.265,1,r2-s2,3,8.083
+120,9,17,profile_042,Media enthusiast,multi-gaussian,38.848,100.0,100.0,500.0,1311.022,1,r2-s2,3,8.083
+125,9,17,profile_042,Media enthusiast,multi-gaussian,37.317,91.743,100.0,500.0,1315.55,1,r2-s2,3,8.083
+130,9,17,profile_042,Media enthusiast,multi-gaussian,32.982,88.745,100.0,500.0,1298.354,1,r2-s2,3,8.083
+135,9,17,profile_042,Media enthusiast,multi-gaussian,30.077,90.155,100.0,500.0,1298.493,1,r2-s2,3,8.083
+140,9,17,profile_042,Media enthusiast,multi-gaussian,27.406,81.589,100.0,500.0,1272.627,1,r2-s2,3,8.083
+145,9,17,profile_042,Media enthusiast,multi-gaussian,27.343,81.825,100.0,500.0,1270.558,1,r2-s2,3,8.083
+150,9,17,profile_042,Media enthusiast,multi-gaussian,23.422,75.357,100.0,500.0,1232.859,1,r2-s2,3,8.083
+155,9,17,profile_042,Media enthusiast,multi-gaussian,20.345,65.319,100.0,500.0,1195.608,1,r2-s2,3,8.083
+160,9,17,profile_042,Media enthusiast,multi-gaussian,20.025,64.896,100.0,500.0,1152.192,1,r2-s2,3,8.083
+165,9,17,profile_042,Media enthusiast,multi-gaussian,18.605,67.029,100.0,500.0,1067.611,1,r2-s2,3,8.083
+170,9,17,profile_042,Media enthusiast,multi-gaussian,15.779,60.616,100.0,500.0,1001.485,1,r2-s2,3,8.083
+175,9,17,profile_042,Media enthusiast,multi-gaussian,15.32,41.616,100.0,500.0,925.316,1,r2-s2,3,8.083
+0,9,18,profile_042,Weekend usage,multi-gaussian,40.873,81.452,100.0,500.0,794.84,1,r2-s2,3,8.332
+5,9,18,profile_042,Weekend usage,multi-gaussian,40.74,79.321,100.0,500.0,826.66,1,r2-s2,3,8.332
+10,9,18,profile_042,Weekend usage,multi-gaussian,34.164,76.649,100.0,500.0,876.584,1,r2-s2,3,8.332
+15,9,18,profile_042,Weekend usage,multi-gaussian,33.132,73.822,100.0,500.0,937.115,1,r2-s2,3,8.332
+20,9,18,profile_042,Weekend usage,multi-gaussian,29.831,70.053,100.0,500.0,1002.901,1,r2-s2,3,8.332
+25,9,18,profile_042,Weekend usage,multi-gaussian,30.796,65.902,100.0,500.0,1038.799,1,r2-s2,3,8.332
+30,9,18,profile_042,Weekend usage,multi-gaussian,27.631,60.765,100.0,500.0,1055.833,1,r2-s2,3,8.332
+35,9,18,profile_042,Weekend usage,multi-gaussian,29.648,63.267,100.0,500.0,1122.408,1,r2-s2,3,8.332
+40,9,18,profile_042,Weekend usage,multi-gaussian,24.503,60.984,100.0,500.0,1141.752,1,r2-s2,3,8.332
+45,9,18,profile_042,Weekend usage,multi-gaussian,24.951,65.111,100.0,500.0,1171.352,1,r2-s2,3,8.332
+50,9,18,profile_042,Weekend usage,multi-gaussian,20.844,63.095,100.0,500.0,1194.185,1,r2-s2,3,8.332
+55,9,18,profile_042,Weekend usage,multi-gaussian,23.008,64.746,100.0,500.0,1172.116,1,r2-s2,3,8.332
+60,9,18,profile_042,Weekend usage,multi-gaussian,25.559,68.482,100.0,500.0,1173.288,1,r2-s2,3,8.332
+65,9,18,profile_042,Weekend usage,multi-gaussian,28.18,75.808,100.0,500.0,1183.252,1,r2-s2,3,8.332
+70,9,18,profile_042,Weekend usage,multi-gaussian,31.461,77.968,100.0,500.0,1194.712,1,r2-s2,3,8.332
+75,9,18,profile_042,Weekend usage,multi-gaussian,31.136,83.115,100.0,500.0,1242.642,1,r2-s2,3,8.332
+80,9,18,profile_042,Weekend usage,multi-gaussian,35.694,90.478,100.0,500.0,1232.383,1,r2-s2,3,8.332
+85,9,18,profile_042,Weekend usage,multi-gaussian,46.736,100.0,100.0,500.0,1248.602,1,r2-s2,3,8.332
+90,9,18,profile_042,Weekend usage,multi-gaussian,59.294,100.0,100.0,500.0,1263.428,1,r2-s2,3,8.332
+95,9,18,profile_042,Weekend usage,multi-gaussian,55.756,100.0,100.0,500.0,1299.831,1,r2-s2,3,8.332
+100,9,18,profile_042,Weekend usage,multi-gaussian,45.452,96.102,100.0,500.0,1287.387,1,r2-s2,3,8.332
+105,9,18,profile_042,Weekend usage,multi-gaussian,52.107,99.223,100.0,500.0,1297.986,1,r2-s2,3,8.332
+110,9,18,profile_042,Weekend usage,multi-gaussian,57.408,100.0,100.0,500.0,1302.145,1,r2-s2,3,8.332
+115,9,18,profile_042,Weekend usage,multi-gaussian,59.42,100.0,100.0,500.0,1315.265,1,r2-s2,3,8.332
+120,9,18,profile_042,Weekend usage,multi-gaussian,61.152,100.0,100.0,500.0,1311.022,1,r2-s2,3,8.332
+125,9,18,profile_042,Weekend usage,multi-gaussian,54.426,91.743,100.0,500.0,1315.55,1,r2-s2,3,8.332
+130,9,18,profile_042,Weekend usage,multi-gaussian,55.762,88.745,100.0,500.0,1298.354,1,r2-s2,3,8.332
+135,9,18,profile_042,Weekend usage,multi-gaussian,60.078,90.155,100.0,500.0,1298.493,1,r2-s2,3,8.332
+140,9,18,profile_042,Weekend usage,multi-gaussian,54.184,81.589,100.0,500.0,1272.627,1,r2-s2,3,8.332
+145,9,18,profile_042,Weekend usage,multi-gaussian,54.482,81.825,100.0,500.0,1270.558,1,r2-s2,3,8.332
+150,9,18,profile_042,Weekend usage,multi-gaussian,51.936,75.357,100.0,500.0,1232.859,1,r2-s2,3,8.332
+155,9,18,profile_042,Weekend usage,multi-gaussian,44.974,65.319,100.0,500.0,1195.608,1,r2-s2,3,8.332
+160,9,18,profile_042,Weekend usage,multi-gaussian,44.871,64.896,100.0,500.0,1152.192,1,r2-s2,3,8.332
+165,9,18,profile_042,Weekend usage,multi-gaussian,48.424,67.029,100.0,500.0,1067.611,1,r2-s2,3,8.332
+170,9,18,profile_042,Weekend usage,multi-gaussian,44.837,60.616,100.0,500.0,1001.485,1,r2-s2,3,8.332
+175,9,18,profile_042,Weekend usage,multi-gaussian,26.296,41.616,100.0,500.0,925.316,1,r2-s2,3,8.332
+0,10,19,profile_041,Media enthusiast,multi-gaussian,16.841,23.664,100.0,500.0,794.84,1,r2-s2,3,8.361
+5,10,19,profile_041,Media enthusiast,multi-gaussian,16.262,23.048,100.0,500.0,826.66,1,r2-s2,3,8.361
+10,10,19,profile_041,Media enthusiast,multi-gaussian,17.447,23.569,100.0,500.0,876.584,1,r2-s2,3,8.361
+15,10,19,profile_041,Media enthusiast,multi-gaussian,21.964,30.396,100.0,500.0,937.115,1,r2-s2,3,8.361
+20,10,19,profile_041,Media enthusiast,multi-gaussian,28.491,38.589,100.0,500.0,1002.901,1,r2-s2,3,8.361
+25,10,19,profile_041,Media enthusiast,multi-gaussian,29.195,43.867,100.0,500.0,1038.799,1,r2-s2,3,8.361
+30,10,19,profile_041,Media enthusiast,multi-gaussian,30.863,46.389,100.0,500.0,1055.833,1,r2-s2,3,8.361
+35,10,19,profile_041,Media enthusiast,multi-gaussian,34.695,55.023,100.0,500.0,1122.408,1,r2-s2,3,8.361
+40,10,19,profile_041,Media enthusiast,multi-gaussian,38.361,64.849,100.0,500.0,1141.752,1,r2-s2,3,8.361
+45,10,19,profile_041,Media enthusiast,multi-gaussian,37.913,67.245,100.0,500.0,1171.352,1,r2-s2,3,8.361
+50,10,19,profile_041,Media enthusiast,multi-gaussian,42.361,73.94,100.0,500.0,1194.185,1,r2-s2,3,8.361
+55,10,19,profile_041,Media enthusiast,multi-gaussian,40.461,76.076,100.0,500.0,1172.116,1,r2-s2,3,8.361
+60,10,19,profile_041,Media enthusiast,multi-gaussian,41.619,79.165,100.0,500.0,1173.288,1,r2-s2,3,8.361
+65,10,19,profile_041,Media enthusiast,multi-gaussian,40.662,78.373,100.0,500.0,1183.252,1,r2-s2,3,8.361
+70,10,19,profile_041,Media enthusiast,multi-gaussian,43.149,77.353,100.0,500.0,1194.712,1,r2-s2,3,8.361
+75,10,19,profile_041,Media enthusiast,multi-gaussian,44.147,77.313,100.0,500.0,1242.642,1,r2-s2,3,8.361
+80,10,19,profile_041,Media enthusiast,multi-gaussian,44.015,72.494,100.0,500.0,1232.383,1,r2-s2,3,8.361
+85,10,19,profile_041,Media enthusiast,multi-gaussian,44.646,69.6,100.0,500.0,1248.602,1,r2-s2,3,8.361
+90,10,19,profile_041,Media enthusiast,multi-gaussian,44.806,64.838,100.0,500.0,1263.428,1,r2-s2,3,8.361
+95,10,19,profile_041,Media enthusiast,multi-gaussian,48.215,63.298,100.0,500.0,1299.831,1,r2-s2,3,8.361
+100,10,19,profile_041,Media enthusiast,multi-gaussian,45.789,59.902,100.0,500.0,1287.387,1,r2-s2,3,8.361
+105,10,19,profile_041,Media enthusiast,multi-gaussian,41.312,54.909,100.0,500.0,1297.986,1,r2-s2,3,8.361
+110,10,19,profile_041,Media enthusiast,multi-gaussian,35.729,46.03,100.0,500.0,1302.145,1,r2-s2,3,8.361
+115,10,19,profile_041,Media enthusiast,multi-gaussian,34.081,52.128,100.0,500.0,1315.265,1,r2-s2,3,8.361
+120,10,19,profile_041,Media enthusiast,multi-gaussian,28.327,47.01,100.0,500.0,1311.022,1,r2-s2,3,8.361
+125,10,19,profile_041,Media enthusiast,multi-gaussian,25.865,40.135,100.0,500.0,1315.55,1,r2-s2,3,8.361
+130,10,19,profile_041,Media enthusiast,multi-gaussian,22.424,37.743,100.0,500.0,1298.354,1,r2-s2,3,8.361
+135,10,19,profile_041,Media enthusiast,multi-gaussian,18.934,38.719,100.0,500.0,1298.493,1,r2-s2,3,8.361
+140,10,19,profile_041,Media enthusiast,multi-gaussian,17.642,39.029,100.0,500.0,1272.627,1,r2-s2,3,8.361
+145,10,19,profile_041,Media enthusiast,multi-gaussian,12.486,39.153,100.0,500.0,1270.558,1,r2-s2,3,8.361
+150,10,19,profile_041,Media enthusiast,multi-gaussian,13.12,43.734,100.0,500.0,1232.859,1,r2-s2,3,8.361
+155,10,19,profile_041,Media enthusiast,multi-gaussian,10.683,41.707,100.0,500.0,1195.608,1,r2-s2,3,8.361
+160,10,19,profile_041,Media enthusiast,multi-gaussian,9.183,43.277,100.0,500.0,1152.192,1,r2-s2,3,8.361
+165,10,19,profile_041,Media enthusiast,multi-gaussian,9.174,43.337,100.0,500.0,1067.611,1,r2-s2,3,8.361
+170,10,19,profile_041,Media enthusiast,multi-gaussian,11.543,44.58,100.0,500.0,1001.485,1,r2-s2,3,8.361
+175,10,19,profile_041,Media enthusiast,multi-gaussian,9.853,41.445,100.0,500.0,925.316,1,r2-s2,3,8.361
+0,10,20,profile_041,Remote education,multi-gaussian,6.823,23.664,100.0,500.0,794.84,1,r2-s2,2,5.748
+5,10,20,profile_041,Remote education,multi-gaussian,6.786,23.048,100.0,500.0,826.66,1,r2-s2,2,5.748
+10,10,20,profile_041,Remote education,multi-gaussian,6.122,23.569,100.0,500.0,876.584,1,r2-s2,2,5.748
+15,10,20,profile_041,Remote education,multi-gaussian,8.432,30.396,100.0,500.0,937.115,1,r2-s2,2,5.748
+20,10,20,profile_041,Remote education,multi-gaussian,10.097,38.589,100.0,500.0,1002.901,1,r2-s2,2,5.748
+25,10,20,profile_041,Remote education,multi-gaussian,14.671,43.867,100.0,500.0,1038.799,1,r2-s2,2,5.748
+30,10,20,profile_041,Remote education,multi-gaussian,15.526,46.389,100.0,500.0,1055.833,1,r2-s2,2,5.748
+35,10,20,profile_041,Remote education,multi-gaussian,20.327,55.023,100.0,500.0,1122.408,1,r2-s2,2,5.748
+40,10,20,profile_041,Remote education,multi-gaussian,26.488,64.849,100.0,500.0,1141.752,1,r2-s2,2,5.748
+45,10,20,profile_041,Remote education,multi-gaussian,29.333,67.245,100.0,500.0,1171.352,1,r2-s2,2,5.748
+50,10,20,profile_041,Remote education,multi-gaussian,31.579,73.94,100.0,500.0,1194.185,1,r2-s2,2,5.748
+55,10,20,profile_041,Remote education,multi-gaussian,35.615,76.076,100.0,500.0,1172.116,1,r2-s2,2,5.748
+60,10,20,profile_041,Remote education,multi-gaussian,37.546,79.165,100.0,500.0,1173.288,1,r2-s2,2,5.748
+65,10,20,profile_041,Remote education,multi-gaussian,37.711,78.373,100.0,500.0,1183.252,1,r2-s2,2,5.748
+70,10,20,profile_041,Remote education,multi-gaussian,34.203,77.353,100.0,500.0,1194.712,1,r2-s2,2,5.748
+75,10,20,profile_041,Remote education,multi-gaussian,33.166,77.313,100.0,500.0,1242.642,1,r2-s2,2,5.748
+80,10,20,profile_041,Remote education,multi-gaussian,28.479,72.494,100.0,500.0,1232.383,1,r2-s2,2,5.748
+85,10,20,profile_041,Remote education,multi-gaussian,24.954,69.6,100.0,500.0,1248.602,1,r2-s2,2,5.748
+90,10,20,profile_041,Remote education,multi-gaussian,20.032,64.838,100.0,500.0,1263.428,1,r2-s2,2,5.748
+95,10,20,profile_041,Remote education,multi-gaussian,15.082,63.298,100.0,500.0,1299.831,1,r2-s2,2,5.748
+100,10,20,profile_041,Remote education,multi-gaussian,14.113,59.902,100.0,500.0,1287.387,1,r2-s2,2,5.748
+105,10,20,profile_041,Remote education,multi-gaussian,13.596,54.909,100.0,500.0,1297.986,1,r2-s2,2,5.748
+110,10,20,profile_041,Remote education,multi-gaussian,10.301,46.03,100.0,500.0,1302.145,1,r2-s2,2,5.748
+115,10,20,profile_041,Remote education,multi-gaussian,18.047,52.128,100.0,500.0,1315.265,1,r2-s2,2,5.748
+120,10,20,profile_041,Remote education,multi-gaussian,18.682,47.01,100.0,500.0,1311.022,1,r2-s2,2,5.748
+125,10,20,profile_041,Remote education,multi-gaussian,14.27,40.135,100.0,500.0,1315.55,1,r2-s2,2,5.748
+130,10,20,profile_041,Remote education,multi-gaussian,15.319,37.743,100.0,500.0,1298.354,1,r2-s2,2,5.748
+135,10,20,profile_041,Remote education,multi-gaussian,19.785,38.719,100.0,500.0,1298.493,1,r2-s2,2,5.748
+140,10,20,profile_041,Remote education,multi-gaussian,21.387,39.029,100.0,500.0,1272.627,1,r2-s2,2,5.748
+145,10,20,profile_041,Remote education,multi-gaussian,26.667,39.153,100.0,500.0,1270.558,1,r2-s2,2,5.748
+150,10,20,profile_041,Remote education,multi-gaussian,30.614,43.734,100.0,500.0,1232.859,1,r2-s2,2,5.748
+155,10,20,profile_041,Remote education,multi-gaussian,31.023,41.707,100.0,500.0,1195.608,1,r2-s2,2,5.748
+160,10,20,profile_041,Remote education,multi-gaussian,34.093,43.277,100.0,500.0,1152.192,1,r2-s2,2,5.748
+165,10,20,profile_041,Remote education,multi-gaussian,34.163,43.337,100.0,500.0,1067.611,1,r2-s2,2,5.748
+170,10,20,profile_041,Remote education,multi-gaussian,33.036,44.58,100.0,500.0,1001.485,1,r2-s2,2,5.748
+175,10,20,profile_041,Remote education,multi-gaussian,31.592,41.445,100.0,500.0,925.316,1,r2-s2,2,5.748
+0,11,21,profile_013,Dual game sessions,multi-gaussian,16.428,35.891,100.0,500.0,794.84,1,r2-s2,2,3.85
+5,11,21,profile_013,Dual game sessions,multi-gaussian,22.517,45.893,100.0,500.0,826.66,1,r2-s2,2,3.85
+10,11,21,profile_013,Dual game sessions,multi-gaussian,26.869,57.886,100.0,500.0,876.584,1,r2-s2,2,3.85
+15,11,21,profile_013,Dual game sessions,multi-gaussian,31.686,63.439,100.0,500.0,937.115,1,r2-s2,2,3.85
+20,11,21,profile_013,Dual game sessions,multi-gaussian,36.886,72.318,100.0,500.0,1002.901,1,r2-s2,2,3.85
+25,11,21,profile_013,Dual game sessions,multi-gaussian,36.879,75.403,100.0,500.0,1038.799,1,r2-s2,2,3.85
+30,11,21,profile_013,Dual game sessions,multi-gaussian,36.444,71.443,100.0,500.0,1055.833,1,r2-s2,2,3.85
+35,11,21,profile_013,Dual game sessions,multi-gaussian,33.821,67.582,100.0,500.0,1122.408,1,r2-s2,2,3.85
+40,11,21,profile_013,Dual game sessions,multi-gaussian,27.433,57.597,100.0,500.0,1141.752,1,r2-s2,2,3.85
+45,11,21,profile_013,Dual game sessions,multi-gaussian,23.095,50.431,100.0,500.0,1171.352,1,r2-s2,2,3.85
+50,11,21,profile_013,Dual game sessions,multi-gaussian,18.018,40.956,100.0,500.0,1194.185,1,r2-s2,2,3.85
+55,11,21,profile_013,Dual game sessions,multi-gaussian,11.488,32.382,100.0,500.0,1172.116,1,r2-s2,2,3.85
+60,11,21,profile_013,Dual game sessions,multi-gaussian,9.604,28.591,100.0,500.0,1173.288,1,r2-s2,2,3.85
+65,11,21,profile_013,Dual game sessions,multi-gaussian,5.948,28.962,100.0,500.0,1183.252,1,r2-s2,2,3.85
+70,11,21,profile_013,Dual game sessions,multi-gaussian,5.821,31.081,100.0,500.0,1194.712,1,r2-s2,2,3.85
+75,11,21,profile_013,Dual game sessions,multi-gaussian,4.955,35.123,100.0,500.0,1242.642,1,r2-s2,2,3.85
+80,11,21,profile_013,Dual game sessions,multi-gaussian,4.115,37.48,100.0,500.0,1232.383,1,r2-s2,2,3.85
+85,11,21,profile_013,Dual game sessions,multi-gaussian,5.495,42.697,100.0,500.0,1248.602,1,r2-s2,2,3.85
+90,11,21,profile_013,Dual game sessions,multi-gaussian,3.226,43.281,100.0,500.0,1263.428,1,r2-s2,2,3.85
+95,11,21,profile_013,Dual game sessions,multi-gaussian,5.017,49.344,100.0,500.0,1299.831,1,r2-s2,2,3.85
+100,11,21,profile_013,Dual game sessions,multi-gaussian,4.912,51.977,100.0,500.0,1287.387,1,r2-s2,2,3.85
+105,11,21,profile_013,Dual game sessions,multi-gaussian,4.139,48.652,100.0,500.0,1297.986,1,r2-s2,2,3.85
+110,11,21,profile_013,Dual game sessions,multi-gaussian,6.11,46.077,100.0,500.0,1302.145,1,r2-s2,2,3.85
+115,11,21,profile_013,Dual game sessions,multi-gaussian,9.395,50.659,100.0,500.0,1315.265,1,r2-s2,2,3.85
+120,11,21,profile_013,Dual game sessions,multi-gaussian,9.782,47.442,100.0,500.0,1311.022,1,r2-s2,2,3.85
+125,11,21,profile_013,Dual game sessions,multi-gaussian,16.285,48.1,100.0,500.0,1315.55,1,r2-s2,2,3.85
+130,11,21,profile_013,Dual game sessions,multi-gaussian,18.084,49.042,100.0,500.0,1298.354,1,r2-s2,2,3.85
+135,11,21,profile_013,Dual game sessions,multi-gaussian,23.377,51.754,100.0,500.0,1298.493,1,r2-s2,2,3.85
+140,11,21,profile_013,Dual game sessions,multi-gaussian,29.107,51.761,100.0,500.0,1272.627,1,r2-s2,2,3.85
+145,11,21,profile_013,Dual game sessions,multi-gaussian,34.342,52.617,100.0,500.0,1270.558,1,r2-s2,2,3.85
+150,11,21,profile_013,Dual game sessions,multi-gaussian,36.051,53.928,100.0,500.0,1232.859,1,r2-s2,2,3.85
+155,11,21,profile_013,Dual game sessions,multi-gaussian,38.117,51.431,100.0,500.0,1195.608,1,r2-s2,2,3.85
+160,11,21,profile_013,Dual game sessions,multi-gaussian,36.092,49.271,100.0,500.0,1152.192,1,r2-s2,2,3.85
+165,11,21,profile_013,Dual game sessions,multi-gaussian,32.231,44.613,100.0,500.0,1067.611,1,r2-s2,2,3.85
+170,11,21,profile_013,Dual game sessions,multi-gaussian,29.037,38.311,100.0,500.0,1001.485,1,r2-s2,2,3.85
+175,11,21,profile_013,Dual game sessions,multi-gaussian,24.038,33.319,100.0,500.0,925.316,1,r2-s2,2,3.85
+0,11,22,profile_013,Small business usage,multi-gaussian,19.463,35.891,100.0,500.0,794.84,1,r2-s2,3,5.944
+5,11,22,profile_013,Small business usage,multi-gaussian,23.376,45.893,100.0,500.0,826.66,1,r2-s2,3,5.944
+10,11,22,profile_013,Small business usage,multi-gaussian,31.016,57.886,100.0,500.0,876.584,1,r2-s2,3,5.944
+15,11,22,profile_013,Small business usage,multi-gaussian,31.753,63.439,100.0,500.0,937.115,1,r2-s2,3,5.944
+20,11,22,profile_013,Small business usage,multi-gaussian,35.433,72.318,100.0,500.0,1002.901,1,r2-s2,3,5.944
+25,11,22,profile_013,Small business usage,multi-gaussian,38.524,75.403,100.0,500.0,1038.799,1,r2-s2,3,5.944
+30,11,22,profile_013,Small business usage,multi-gaussian,34.999,71.443,100.0,500.0,1055.833,1,r2-s2,3,5.944
+35,11,22,profile_013,Small business usage,multi-gaussian,33.761,67.582,100.0,500.0,1122.408,1,r2-s2,3,5.944
+40,11,22,profile_013,Small business usage,multi-gaussian,30.163,57.597,100.0,500.0,1141.752,1,r2-s2,3,5.944
+45,11,22,profile_013,Small business usage,multi-gaussian,27.336,50.431,100.0,500.0,1171.352,1,r2-s2,3,5.944
+50,11,22,profile_013,Small business usage,multi-gaussian,22.938,40.956,100.0,500.0,1194.185,1,r2-s2,3,5.944
+55,11,22,profile_013,Small business usage,multi-gaussian,20.894,32.382,100.0,500.0,1172.116,1,r2-s2,3,5.944
+60,11,22,profile_013,Small business usage,multi-gaussian,18.987,28.591,100.0,500.0,1173.288,1,r2-s2,3,5.944
+65,11,22,profile_013,Small business usage,multi-gaussian,23.014,28.962,100.0,500.0,1183.252,1,r2-s2,3,5.944
+70,11,22,profile_013,Small business usage,multi-gaussian,25.261,31.081,100.0,500.0,1194.712,1,r2-s2,3,5.944
+75,11,22,profile_013,Small business usage,multi-gaussian,30.167,35.123,100.0,500.0,1242.642,1,r2-s2,3,5.944
+80,11,22,profile_013,Small business usage,multi-gaussian,33.366,37.48,100.0,500.0,1232.383,1,r2-s2,3,5.944
+85,11,22,profile_013,Small business usage,multi-gaussian,37.202,42.697,100.0,500.0,1248.602,1,r2-s2,3,5.944
+90,11,22,profile_013,Small business usage,multi-gaussian,40.056,43.281,100.0,500.0,1263.428,1,r2-s2,3,5.944
+95,11,22,profile_013,Small business usage,multi-gaussian,44.327,49.344,100.0,500.0,1299.831,1,r2-s2,3,5.944
+100,11,22,profile_013,Small business usage,multi-gaussian,47.066,51.977,100.0,500.0,1287.387,1,r2-s2,3,5.944
+105,11,22,profile_013,Small business usage,multi-gaussian,44.513,48.652,100.0,500.0,1297.986,1,r2-s2,3,5.944
+110,11,22,profile_013,Small business usage,multi-gaussian,39.967,46.077,100.0,500.0,1302.145,1,r2-s2,3,5.944
+115,11,22,profile_013,Small business usage,multi-gaussian,41.264,50.659,100.0,500.0,1315.265,1,r2-s2,3,5.944
+120,11,22,profile_013,Small business usage,multi-gaussian,37.66,47.442,100.0,500.0,1311.022,1,r2-s2,3,5.944
+125,11,22,profile_013,Small business usage,multi-gaussian,31.816,48.1,100.0,500.0,1315.55,1,r2-s2,3,5.944
+130,11,22,profile_013,Small business usage,multi-gaussian,30.958,49.042,100.0,500.0,1298.354,1,r2-s2,3,5.944
+135,11,22,profile_013,Small business usage,multi-gaussian,28.377,51.754,100.0,500.0,1298.493,1,r2-s2,3,5.944
+140,11,22,profile_013,Small business usage,multi-gaussian,22.653,51.761,100.0,500.0,1272.627,1,r2-s2,3,5.944
+145,11,22,profile_013,Small business usage,multi-gaussian,18.276,52.617,100.0,500.0,1270.558,1,r2-s2,3,5.944
+150,11,22,profile_013,Small business usage,multi-gaussian,17.877,53.928,100.0,500.0,1232.859,1,r2-s2,3,5.944
+155,11,22,profile_013,Small business usage,multi-gaussian,13.314,51.431,100.0,500.0,1195.608,1,r2-s2,3,5.944
+160,11,22,profile_013,Small business usage,multi-gaussian,13.179,49.271,100.0,500.0,1152.192,1,r2-s2,3,5.944
+165,11,22,profile_013,Small business usage,multi-gaussian,12.381,44.613,100.0,500.0,1067.611,1,r2-s2,3,5.944
+170,11,22,profile_013,Small business usage,multi-gaussian,9.274,38.311,100.0,500.0,1001.485,1,r2-s2,3,5.944
+175,11,22,profile_013,Small business usage,multi-gaussian,9.282,33.319,100.0,500.0,925.316,1,r2-s2,3,5.944
+0,12,23,profile_012,Dual game sessions,multi-gaussian,37.628,52.16,100.0,500.0,794.84,1,r2-s2,2,3.893
+5,12,23,profile_012,Dual game sessions,multi-gaussian,35.719,51.632,100.0,500.0,826.66,1,r2-s2,2,3.893
+10,12,23,profile_012,Dual game sessions,multi-gaussian,34.198,51.129,100.0,500.0,876.584,1,r2-s2,2,3.893
+15,12,23,profile_012,Dual game sessions,multi-gaussian,31.445,51.07,100.0,500.0,937.115,1,r2-s2,2,3.893
+20,12,23,profile_012,Dual game sessions,multi-gaussian,29.58,56.604,100.0,500.0,1002.901,1,r2-s2,2,3.893
+25,12,23,profile_012,Dual game sessions,multi-gaussian,24.447,49.606,100.0,500.0,1038.799,1,r2-s2,2,3.893
+30,12,23,profile_012,Dual game sessions,multi-gaussian,20.49,51.627,100.0,500.0,1055.833,1,r2-s2,2,3.893
+35,12,23,profile_012,Dual game sessions,multi-gaussian,18.013,52.826,100.0,500.0,1122.408,1,r2-s2,2,3.893
+40,12,23,profile_012,Dual game sessions,multi-gaussian,13.21,50.166,100.0,500.0,1141.752,1,r2-s2,2,3.893
+45,12,23,profile_012,Dual game sessions,multi-gaussian,13.001,55.613,100.0,500.0,1171.352,1,r2-s2,2,3.893
+50,12,23,profile_012,Dual game sessions,multi-gaussian,9.618,52.969,100.0,500.0,1194.185,1,r2-s2,2,3.893
+55,12,23,profile_012,Dual game sessions,multi-gaussian,9.097,52.985,100.0,500.0,1172.116,1,r2-s2,2,3.893
+60,12,23,profile_012,Dual game sessions,multi-gaussian,7.552,59.721,100.0,500.0,1173.288,1,r2-s2,2,3.893
+65,12,23,profile_012,Dual game sessions,multi-gaussian,5.701,58.729,100.0,500.0,1183.252,1,r2-s2,2,3.893
+70,12,23,profile_012,Dual game sessions,multi-gaussian,4.958,61.242,100.0,500.0,1194.712,1,r2-s2,2,3.893
+75,12,23,profile_012,Dual game sessions,multi-gaussian,7.54,67.062,100.0,500.0,1242.642,1,r2-s2,2,3.893
+80,12,23,profile_012,Dual game sessions,multi-gaussian,7.108,62.353,100.0,500.0,1232.383,1,r2-s2,2,3.893
+85,12,23,profile_012,Dual game sessions,multi-gaussian,9.596,69.178,100.0,500.0,1248.602,1,r2-s2,2,3.893
+90,12,23,profile_012,Dual game sessions,multi-gaussian,15.264,69.862,100.0,500.0,1263.428,1,r2-s2,2,3.893
+95,12,23,profile_012,Dual game sessions,multi-gaussian,19.006,70.983,100.0,500.0,1299.831,1,r2-s2,2,3.893
+100,12,23,profile_012,Dual game sessions,multi-gaussian,24.372,75.959,100.0,500.0,1287.387,1,r2-s2,2,3.893
+105,12,23,profile_012,Dual game sessions,multi-gaussian,32.907,81.169,100.0,500.0,1297.986,1,r2-s2,2,3.893
+110,12,23,profile_012,Dual game sessions,multi-gaussian,37.365,78.435,100.0,500.0,1302.145,1,r2-s2,2,3.893
+115,12,23,profile_012,Dual game sessions,multi-gaussian,37.735,74.769,100.0,500.0,1315.265,1,r2-s2,2,3.893
+120,12,23,profile_012,Dual game sessions,multi-gaussian,37.22,70.892,100.0,500.0,1311.022,1,r2-s2,2,3.893
+125,12,23,profile_012,Dual game sessions,multi-gaussian,32.7,67.263,100.0,500.0,1315.55,1,r2-s2,2,3.893
+130,12,23,profile_012,Dual game sessions,multi-gaussian,25.272,57.637,100.0,500.0,1298.354,1,r2-s2,2,3.893
+135,12,23,profile_012,Dual game sessions,multi-gaussian,21.412,49.921,100.0,500.0,1298.493,1,r2-s2,2,3.893
+140,12,23,profile_012,Dual game sessions,multi-gaussian,14.75,42.511,100.0,500.0,1272.627,1,r2-s2,2,3.893
+145,12,23,profile_012,Dual game sessions,multi-gaussian,10.064,38.565,100.0,500.0,1270.558,1,r2-s2,2,3.893
+150,12,23,profile_012,Dual game sessions,multi-gaussian,7.434,37.657,100.0,500.0,1232.859,1,r2-s2,2,3.893
+155,12,23,profile_012,Dual game sessions,multi-gaussian,5.987,37.31,100.0,500.0,1195.608,1,r2-s2,2,3.893
+160,12,23,profile_012,Dual game sessions,multi-gaussian,4.719,34.977,100.0,500.0,1152.192,1,r2-s2,2,3.893
+165,12,23,profile_012,Dual game sessions,multi-gaussian,4.104,33.323,100.0,500.0,1067.611,1,r2-s2,2,3.893
+170,12,23,profile_012,Dual game sessions,multi-gaussian,2.641,31.633,100.0,500.0,1001.485,1,r2-s2,2,3.893
+175,12,23,profile_012,Dual game sessions,multi-gaussian,4.888,35.153,100.0,500.0,925.316,1,r2-s2,2,3.893
+0,12,24,profile_012,Evening entertainment,multi-gaussian,14.532,52.16,100.0,500.0,794.84,1,r2-s2,3,6.743
+5,12,24,profile_012,Evening entertainment,multi-gaussian,15.912,51.632,100.0,500.0,826.66,1,r2-s2,3,6.743
+10,12,24,profile_012,Evening entertainment,multi-gaussian,16.931,51.129,100.0,500.0,876.584,1,r2-s2,3,6.743
+15,12,24,profile_012,Evening entertainment,multi-gaussian,19.625,51.07,100.0,500.0,937.115,1,r2-s2,3,6.743
+20,12,24,profile_012,Evening entertainment,multi-gaussian,27.024,56.604,100.0,500.0,1002.901,1,r2-s2,3,6.743
+25,12,24,profile_012,Evening entertainment,multi-gaussian,25.158,49.606,100.0,500.0,1038.799,1,r2-s2,3,6.743
+30,12,24,profile_012,Evening entertainment,multi-gaussian,31.136,51.627,100.0,500.0,1055.833,1,r2-s2,3,6.743
+35,12,24,profile_012,Evening entertainment,multi-gaussian,34.813,52.826,100.0,500.0,1122.408,1,r2-s2,3,6.743
+40,12,24,profile_012,Evening entertainment,multi-gaussian,36.957,50.166,100.0,500.0,1141.752,1,r2-s2,3,6.743
+45,12,24,profile_012,Evening entertainment,multi-gaussian,42.612,55.613,100.0,500.0,1171.352,1,r2-s2,3,6.743
+50,12,24,profile_012,Evening entertainment,multi-gaussian,43.351,52.969,100.0,500.0,1194.185,1,r2-s2,3,6.743
+55,12,24,profile_012,Evening entertainment,multi-gaussian,43.888,52.985,100.0,500.0,1172.116,1,r2-s2,3,6.743
+60,12,24,profile_012,Evening entertainment,multi-gaussian,52.169,59.721,100.0,500.0,1173.288,1,r2-s2,3,6.743
+65,12,24,profile_012,Evening entertainment,multi-gaussian,53.027,58.729,100.0,500.0,1183.252,1,r2-s2,3,6.743
+70,12,24,profile_012,Evening entertainment,multi-gaussian,56.284,61.242,100.0,500.0,1194.712,1,r2-s2,3,6.743
+75,12,24,profile_012,Evening entertainment,multi-gaussian,59.522,67.062,100.0,500.0,1242.642,1,r2-s2,3,6.743
+80,12,24,profile_012,Evening entertainment,multi-gaussian,55.245,62.353,100.0,500.0,1232.383,1,r2-s2,3,6.743
+85,12,24,profile_012,Evening entertainment,multi-gaussian,59.582,69.178,100.0,500.0,1248.602,1,r2-s2,3,6.743
+90,12,24,profile_012,Evening entertainment,multi-gaussian,54.598,69.862,100.0,500.0,1263.428,1,r2-s2,3,6.743
+95,12,24,profile_012,Evening entertainment,multi-gaussian,51.976,70.983,100.0,500.0,1299.831,1,r2-s2,3,6.743
+100,12,24,profile_012,Evening entertainment,multi-gaussian,51.587,75.959,100.0,500.0,1287.387,1,r2-s2,3,6.743
+105,12,24,profile_012,Evening entertainment,multi-gaussian,48.262,81.169,100.0,500.0,1297.986,1,r2-s2,3,6.743
+110,12,24,profile_012,Evening entertainment,multi-gaussian,41.07,78.435,100.0,500.0,1302.145,1,r2-s2,3,6.743
+115,12,24,profile_012,Evening entertainment,multi-gaussian,37.034,74.769,100.0,500.0,1315.265,1,r2-s2,3,6.743
+120,12,24,profile_012,Evening entertainment,multi-gaussian,33.672,70.892,100.0,500.0,1311.022,1,r2-s2,3,6.743
+125,12,24,profile_012,Evening entertainment,multi-gaussian,34.562,67.263,100.0,500.0,1315.55,1,r2-s2,3,6.743
+130,12,24,profile_012,Evening entertainment,multi-gaussian,32.365,57.637,100.0,500.0,1298.354,1,r2-s2,3,6.743
+135,12,24,profile_012,Evening entertainment,multi-gaussian,28.509,49.921,100.0,500.0,1298.493,1,r2-s2,3,6.743
+140,12,24,profile_012,Evening entertainment,multi-gaussian,27.76,42.511,100.0,500.0,1272.627,1,r2-s2,3,6.743
+145,12,24,profile_012,Evening entertainment,multi-gaussian,28.5,38.565,100.0,500.0,1270.558,1,r2-s2,3,6.743
+150,12,24,profile_012,Evening entertainment,multi-gaussian,30.223,37.657,100.0,500.0,1232.859,1,r2-s2,3,6.743
+155,12,24,profile_012,Evening entertainment,multi-gaussian,31.323,37.31,100.0,500.0,1195.608,1,r2-s2,3,6.743
+160,12,24,profile_012,Evening entertainment,multi-gaussian,30.258,34.977,100.0,500.0,1152.192,1,r2-s2,3,6.743
+165,12,24,profile_012,Evening entertainment,multi-gaussian,29.219,33.323,100.0,500.0,1067.611,1,r2-s2,3,6.743
+170,12,24,profile_012,Evening entertainment,multi-gaussian,28.992,31.633,100.0,500.0,1001.485,1,r2-s2,3,6.743
+175,12,24,profile_012,Evening entertainment,multi-gaussian,30.265,35.153,100.0,500.0,925.316,1,r2-s2,3,6.743
+0,13,25,profile_025,Work-from-home setup,multi-gaussian,6.29,50.588,100.0,500.0,794.84,1,r2-s2,2,5.117
+5,13,25,profile_025,Work-from-home setup,multi-gaussian,4.747,47.611,100.0,500.0,826.66,1,r2-s2,2,5.117
+10,13,25,profile_025,Work-from-home setup,multi-gaussian,5.142,46.561,100.0,500.0,876.584,1,r2-s2,2,5.117
+15,13,25,profile_025,Work-from-home setup,multi-gaussian,6.395,47.473,100.0,500.0,937.115,1,r2-s2,2,5.117
+20,13,25,profile_025,Work-from-home setup,multi-gaussian,6.993,40.593,100.0,500.0,1002.901,1,r2-s2,2,5.117
+25,13,25,profile_025,Work-from-home setup,multi-gaussian,6.39,37.663,100.0,500.0,1038.799,1,r2-s2,2,5.117
+30,13,25,profile_025,Work-from-home setup,multi-gaussian,5.091,31.914,100.0,500.0,1055.833,1,r2-s2,2,5.117
+35,13,25,profile_025,Work-from-home setup,multi-gaussian,5.578,29.671,100.0,500.0,1122.408,1,r2-s2,2,5.117
+40,13,25,profile_025,Work-from-home setup,multi-gaussian,5.298,25.35,100.0,500.0,1141.752,1,r2-s2,2,5.117
+45,13,25,profile_025,Work-from-home setup,multi-gaussian,4.494,18.801,100.0,500.0,1171.352,1,r2-s2,2,5.117
+50,13,25,profile_025,Work-from-home setup,multi-gaussian,6.562,19.375,100.0,500.0,1194.185,1,r2-s2,2,5.117
+55,13,25,profile_025,Work-from-home setup,multi-gaussian,6.261,16.256,100.0,500.0,1172.116,1,r2-s2,2,5.117
+60,13,25,profile_025,Work-from-home setup,multi-gaussian,5.874,14.562,100.0,500.0,1173.288,1,r2-s2,2,5.117
+65,13,25,profile_025,Work-from-home setup,multi-gaussian,8.226,17.718,100.0,500.0,1183.252,1,r2-s2,2,5.117
+70,13,25,profile_025,Work-from-home setup,multi-gaussian,8.439,15.711,100.0,500.0,1194.712,1,r2-s2,2,5.117
+75,13,25,profile_025,Work-from-home setup,multi-gaussian,8.85,18.984,100.0,500.0,1242.642,1,r2-s2,2,5.117
+80,13,25,profile_025,Work-from-home setup,multi-gaussian,11.578,25.311,100.0,500.0,1232.383,1,r2-s2,2,5.117
+85,13,25,profile_025,Work-from-home setup,multi-gaussian,12.9,25.741,100.0,500.0,1248.602,1,r2-s2,2,5.117
+90,13,25,profile_025,Work-from-home setup,multi-gaussian,15.565,31.572,100.0,500.0,1263.428,1,r2-s2,2,5.117
+95,13,25,profile_025,Work-from-home setup,multi-gaussian,17.432,36.041,100.0,500.0,1299.831,1,r2-s2,2,5.117
+100,13,25,profile_025,Work-from-home setup,multi-gaussian,22.202,43.054,100.0,500.0,1287.387,1,r2-s2,2,5.117
+105,13,25,profile_025,Work-from-home setup,multi-gaussian,25.151,52.923,100.0,500.0,1297.986,1,r2-s2,2,5.117
+110,13,25,profile_025,Work-from-home setup,multi-gaussian,27.011,56.095,100.0,500.0,1302.145,1,r2-s2,2,5.117
+115,13,25,profile_025,Work-from-home setup,multi-gaussian,30.417,67.013,100.0,500.0,1315.265,1,r2-s2,2,5.117
+120,13,25,profile_025,Work-from-home setup,multi-gaussian,32.193,73.252,100.0,500.0,1311.022,1,r2-s2,2,5.117
+125,13,25,profile_025,Work-from-home setup,multi-gaussian,37.161,80.962,100.0,500.0,1315.55,1,r2-s2,2,5.117
+130,13,25,profile_025,Work-from-home setup,multi-gaussian,39.892,84.225,100.0,500.0,1298.354,1,r2-s2,2,5.117
+135,13,25,profile_025,Work-from-home setup,multi-gaussian,40.646,91.264,100.0,500.0,1298.493,1,r2-s2,2,5.117
+140,13,25,profile_025,Work-from-home setup,multi-gaussian,43.844,95.045,100.0,500.0,1272.627,1,r2-s2,2,5.117
+145,13,25,profile_025,Work-from-home setup,multi-gaussian,41.73,89.969,100.0,500.0,1270.558,1,r2-s2,2,5.117
+150,13,25,profile_025,Work-from-home setup,multi-gaussian,41.647,89.708,100.0,500.0,1232.859,1,r2-s2,2,5.117
+155,13,25,profile_025,Work-from-home setup,multi-gaussian,41.357,89.97,100.0,500.0,1195.608,1,r2-s2,2,5.117
+160,13,25,profile_025,Work-from-home setup,multi-gaussian,42.102,85.595,100.0,500.0,1152.192,1,r2-s2,2,5.117
+165,13,25,profile_025,Work-from-home setup,multi-gaussian,41.729,81.23,100.0,500.0,1067.611,1,r2-s2,2,5.117
+170,13,25,profile_025,Work-from-home setup,multi-gaussian,38.24,76.029,100.0,500.0,1001.485,1,r2-s2,2,5.117
+175,13,25,profile_025,Work-from-home setup,multi-gaussian,37.431,70.258,100.0,500.0,925.316,1,r2-s2,2,5.117
+0,13,26,profile_025,Evening entertainment,multi-gaussian,44.298,50.588,100.0,500.0,794.84,1,r2-s2,2,7.126
+5,13,26,profile_025,Evening entertainment,multi-gaussian,42.864,47.611,100.0,500.0,826.66,1,r2-s2,2,7.126
+10,13,26,profile_025,Evening entertainment,multi-gaussian,41.419,46.561,100.0,500.0,876.584,1,r2-s2,2,7.126
+15,13,26,profile_025,Evening entertainment,multi-gaussian,41.077,47.473,100.0,500.0,937.115,1,r2-s2,2,7.126
+20,13,26,profile_025,Evening entertainment,multi-gaussian,33.6,40.593,100.0,500.0,1002.901,1,r2-s2,2,7.126
+25,13,26,profile_025,Evening entertainment,multi-gaussian,31.273,37.663,100.0,500.0,1038.799,1,r2-s2,2,7.126
+30,13,26,profile_025,Evening entertainment,multi-gaussian,26.823,31.914,100.0,500.0,1055.833,1,r2-s2,2,7.126
+35,13,26,profile_025,Evening entertainment,multi-gaussian,24.093,29.671,100.0,500.0,1122.408,1,r2-s2,2,7.126
+40,13,26,profile_025,Evening entertainment,multi-gaussian,20.052,25.35,100.0,500.0,1141.752,1,r2-s2,2,7.126
+45,13,26,profile_025,Evening entertainment,multi-gaussian,14.306,18.801,100.0,500.0,1171.352,1,r2-s2,2,7.126
+50,13,26,profile_025,Evening entertainment,multi-gaussian,12.814,19.375,100.0,500.0,1194.185,1,r2-s2,2,7.126
+55,13,26,profile_025,Evening entertainment,multi-gaussian,9.995,16.256,100.0,500.0,1172.116,1,r2-s2,2,7.126
+60,13,26,profile_025,Evening entertainment,multi-gaussian,8.688,14.562,100.0,500.0,1173.288,1,r2-s2,2,7.126
+65,13,26,profile_025,Evening entertainment,multi-gaussian,9.493,17.718,100.0,500.0,1183.252,1,r2-s2,2,7.126
+70,13,26,profile_025,Evening entertainment,multi-gaussian,7.272,15.711,100.0,500.0,1194.712,1,r2-s2,2,7.126
+75,13,26,profile_025,Evening entertainment,multi-gaussian,10.134,18.984,100.0,500.0,1242.642,1,r2-s2,2,7.126
+80,13,26,profile_025,Evening entertainment,multi-gaussian,13.733,25.311,100.0,500.0,1232.383,1,r2-s2,2,7.126
+85,13,26,profile_025,Evening entertainment,multi-gaussian,12.84,25.741,100.0,500.0,1248.602,1,r2-s2,2,7.126
+90,13,26,profile_025,Evening entertainment,multi-gaussian,16.007,31.572,100.0,500.0,1263.428,1,r2-s2,2,7.126
+95,13,26,profile_025,Evening entertainment,multi-gaussian,18.609,36.041,100.0,500.0,1299.831,1,r2-s2,2,7.126
+100,13,26,profile_025,Evening entertainment,multi-gaussian,20.853,43.054,100.0,500.0,1287.387,1,r2-s2,2,7.126
+105,13,26,profile_025,Evening entertainment,multi-gaussian,27.772,52.923,100.0,500.0,1297.986,1,r2-s2,2,7.126
+110,13,26,profile_025,Evening entertainment,multi-gaussian,29.084,56.095,100.0,500.0,1302.145,1,r2-s2,2,7.126
+115,13,26,profile_025,Evening entertainment,multi-gaussian,36.596,67.013,100.0,500.0,1315.265,1,r2-s2,2,7.126
+120,13,26,profile_025,Evening entertainment,multi-gaussian,41.059,73.252,100.0,500.0,1311.022,1,r2-s2,2,7.126
+125,13,26,profile_025,Evening entertainment,multi-gaussian,43.802,80.962,100.0,500.0,1315.55,1,r2-s2,2,7.126
+130,13,26,profile_025,Evening entertainment,multi-gaussian,44.333,84.225,100.0,500.0,1298.354,1,r2-s2,2,7.126
+135,13,26,profile_025,Evening entertainment,multi-gaussian,50.618,91.264,100.0,500.0,1298.493,1,r2-s2,2,7.126
+140,13,26,profile_025,Evening entertainment,multi-gaussian,51.201,95.045,100.0,500.0,1272.627,1,r2-s2,2,7.126
+145,13,26,profile_025,Evening entertainment,multi-gaussian,48.239,89.969,100.0,500.0,1270.558,1,r2-s2,2,7.126
+150,13,26,profile_025,Evening entertainment,multi-gaussian,48.062,89.708,100.0,500.0,1232.859,1,r2-s2,2,7.126
+155,13,26,profile_025,Evening entertainment,multi-gaussian,48.613,89.97,100.0,500.0,1195.608,1,r2-s2,2,7.126
+160,13,26,profile_025,Evening entertainment,multi-gaussian,43.493,85.595,100.0,500.0,1152.192,1,r2-s2,2,7.126
+165,13,26,profile_025,Evening entertainment,multi-gaussian,39.501,81.23,100.0,500.0,1067.611,1,r2-s2,2,7.126
+170,13,26,profile_025,Evening entertainment,multi-gaussian,37.79,76.029,100.0,500.0,1001.485,1,r2-s2,2,7.126
+175,13,26,profile_025,Evening entertainment,multi-gaussian,32.826,70.258,100.0,500.0,925.316,1,r2-s2,2,7.126
+0,14,27,profile_001,HD streaming + download,multi-gaussian,12.231,37.174,100.0,500.0,794.84,1,r2-s2,1,5.27
+5,14,27,profile_001,HD streaming + download,multi-gaussian,15.033,42.312,100.0,500.0,826.66,1,r2-s2,1,5.27
+10,14,27,profile_001,HD streaming + download,multi-gaussian,18.944,48.299,100.0,500.0,876.584,1,r2-s2,1,5.27
+15,14,27,profile_001,HD streaming + download,multi-gaussian,26.012,55.571,100.0,500.0,937.115,1,r2-s2,1,5.27
+20,14,27,profile_001,HD streaming + download,multi-gaussian,27.896,55.617,100.0,500.0,1002.901,1,r2-s2,1,5.27
+25,14,27,profile_001,HD streaming + download,multi-gaussian,35.28,61.31,100.0,500.0,1038.799,1,r2-s2,1,5.27
+30,14,27,profile_001,HD streaming + download,multi-gaussian,36.266,61.276,100.0,500.0,1055.833,1,r2-s2,1,5.27
+35,14,27,profile_001,HD streaming + download,multi-gaussian,39.03,60.376,100.0,500.0,1122.408,1,r2-s2,1,5.27
+40,14,27,profile_001,HD streaming + download,multi-gaussian,42.529,60.771,100.0,500.0,1141.752,1,r2-s2,1,5.27
+45,14,27,profile_001,HD streaming + download,multi-gaussian,46.457,62.835,100.0,500.0,1171.352,1,r2-s2,1,5.27
+50,14,27,profile_001,HD streaming + download,multi-gaussian,46.096,58.131,100.0,500.0,1194.185,1,r2-s2,1,5.27
+55,14,27,profile_001,HD streaming + download,multi-gaussian,39.504,51.203,100.0,500.0,1172.116,1,r2-s2,1,5.27
+60,14,27,profile_001,HD streaming + download,multi-gaussian,33.072,41.886,100.0,500.0,1173.288,1,r2-s2,1,5.27
+65,14,27,profile_001,HD streaming + download,multi-gaussian,29.345,36.359,100.0,500.0,1183.252,1,r2-s2,1,5.27
+70,14,27,profile_001,HD streaming + download,multi-gaussian,23.182,29.62,100.0,500.0,1194.712,1,r2-s2,1,5.27
+75,14,27,profile_001,HD streaming + download,multi-gaussian,20.324,26.236,100.0,500.0,1242.642,1,r2-s2,1,5.27
+80,14,27,profile_001,HD streaming + download,multi-gaussian,14.177,18.853,100.0,500.0,1232.383,1,r2-s2,1,5.27
+85,14,27,profile_001,HD streaming + download,multi-gaussian,12.861,17.925,100.0,500.0,1248.602,1,r2-s2,1,5.27
+90,14,27,profile_001,HD streaming + download,multi-gaussian,7.516,11.343,100.0,500.0,1263.428,1,r2-s2,1,5.27
+95,14,27,profile_001,HD streaming + download,multi-gaussian,7.54,11.942,100.0,500.0,1299.831,1,r2-s2,1,5.27
+100,14,27,profile_001,HD streaming + download,multi-gaussian,5.332,9.528,100.0,500.0,1287.387,1,r2-s2,1,5.27
+105,14,27,profile_001,HD streaming + download,multi-gaussian,6.666,10.091,100.0,500.0,1297.986,1,r2-s2,1,5.27
+110,14,27,profile_001,HD streaming + download,multi-gaussian,5.334,10.351,100.0,500.0,1302.145,1,r2-s2,1,5.27
+115,14,27,profile_001,HD streaming + download,multi-gaussian,5.677,12.976,100.0,500.0,1315.265,1,r2-s2,1,5.27
+120,14,27,profile_001,HD streaming + download,multi-gaussian,3.763,15.32,100.0,500.0,1311.022,1,r2-s2,1,5.27
+125,14,27,profile_001,HD streaming + download,multi-gaussian,4.462,19.477,100.0,500.0,1315.55,1,r2-s2,1,5.27
+130,14,27,profile_001,HD streaming + download,multi-gaussian,6.254,24.366,100.0,500.0,1298.354,1,r2-s2,1,5.27
+135,14,27,profile_001,HD streaming + download,multi-gaussian,7.484,30.361,100.0,500.0,1298.493,1,r2-s2,1,5.27
+140,14,27,profile_001,HD streaming + download,multi-gaussian,5.769,32.448,100.0,500.0,1272.627,1,r2-s2,1,5.27
+145,14,27,profile_001,HD streaming + download,multi-gaussian,6.128,35.732,100.0,500.0,1270.558,1,r2-s2,1,5.27
+150,14,27,profile_001,HD streaming + download,multi-gaussian,6.059,36.546,100.0,500.0,1232.859,1,r2-s2,1,5.27
+155,14,27,profile_001,HD streaming + download,multi-gaussian,4.419,35.698,100.0,500.0,1195.608,1,r2-s2,1,5.27
+160,14,27,profile_001,HD streaming + download,multi-gaussian,3.319,31.319,100.0,500.0,1152.192,1,r2-s2,1,5.27
+165,14,27,profile_001,HD streaming + download,multi-gaussian,3.84,24.778,100.0,500.0,1067.611,1,r2-s2,1,5.27
+170,14,27,profile_001,HD streaming + download,multi-gaussian,7.417,24.013,100.0,500.0,1001.485,1,r2-s2,1,5.27
+175,14,27,profile_001,HD streaming + download,multi-gaussian,3.825,16.917,100.0,500.0,925.316,1,r2-s2,1,5.27
+0,14,28,profile_001,Dual game sessions,multi-gaussian,24.944,37.174,100.0,500.0,794.84,1,r2-s2,2,3.545
+5,14,28,profile_001,Dual game sessions,multi-gaussian,27.278,42.312,100.0,500.0,826.66,1,r2-s2,2,3.545
+10,14,28,profile_001,Dual game sessions,multi-gaussian,29.355,48.299,100.0,500.0,876.584,1,r2-s2,2,3.545
+15,14,28,profile_001,Dual game sessions,multi-gaussian,29.559,55.571,100.0,500.0,937.115,1,r2-s2,2,3.545
+20,14,28,profile_001,Dual game sessions,multi-gaussian,27.721,55.617,100.0,500.0,1002.901,1,r2-s2,2,3.545
+25,14,28,profile_001,Dual game sessions,multi-gaussian,26.03,61.31,100.0,500.0,1038.799,1,r2-s2,2,3.545
+30,14,28,profile_001,Dual game sessions,multi-gaussian,25.01,61.276,100.0,500.0,1055.833,1,r2-s2,2,3.545
+35,14,28,profile_001,Dual game sessions,multi-gaussian,21.345,60.376,100.0,500.0,1122.408,1,r2-s2,2,3.545
+40,14,28,profile_001,Dual game sessions,multi-gaussian,18.241,60.771,100.0,500.0,1141.752,1,r2-s2,2,3.545
+45,14,28,profile_001,Dual game sessions,multi-gaussian,16.378,62.835,100.0,500.0,1171.352,1,r2-s2,2,3.545
+50,14,28,profile_001,Dual game sessions,multi-gaussian,12.035,58.131,100.0,500.0,1194.185,1,r2-s2,2,3.545
+55,14,28,profile_001,Dual game sessions,multi-gaussian,11.699,51.203,100.0,500.0,1172.116,1,r2-s2,2,3.545
+60,14,28,profile_001,Dual game sessions,multi-gaussian,8.814,41.886,100.0,500.0,1173.288,1,r2-s2,2,3.545
+65,14,28,profile_001,Dual game sessions,multi-gaussian,7.014,36.359,100.0,500.0,1183.252,1,r2-s2,2,3.545
+70,14,28,profile_001,Dual game sessions,multi-gaussian,6.437,29.62,100.0,500.0,1194.712,1,r2-s2,2,3.545
+75,14,28,profile_001,Dual game sessions,multi-gaussian,5.912,26.236,100.0,500.0,1242.642,1,r2-s2,2,3.545
+80,14,28,profile_001,Dual game sessions,multi-gaussian,4.676,18.853,100.0,500.0,1232.383,1,r2-s2,2,3.545
+85,14,28,profile_001,Dual game sessions,multi-gaussian,5.064,17.925,100.0,500.0,1248.602,1,r2-s2,2,3.545
+90,14,28,profile_001,Dual game sessions,multi-gaussian,3.827,11.343,100.0,500.0,1263.428,1,r2-s2,2,3.545
+95,14,28,profile_001,Dual game sessions,multi-gaussian,4.402,11.942,100.0,500.0,1299.831,1,r2-s2,2,3.545
+100,14,28,profile_001,Dual game sessions,multi-gaussian,4.195,9.528,100.0,500.0,1287.387,1,r2-s2,2,3.545
+105,14,28,profile_001,Dual game sessions,multi-gaussian,3.425,10.091,100.0,500.0,1297.986,1,r2-s2,2,3.545
+110,14,28,profile_001,Dual game sessions,multi-gaussian,5.017,10.351,100.0,500.0,1302.145,1,r2-s2,2,3.545
+115,14,28,profile_001,Dual game sessions,multi-gaussian,7.299,12.976,100.0,500.0,1315.265,1,r2-s2,2,3.545
+120,14,28,profile_001,Dual game sessions,multi-gaussian,11.557,15.32,100.0,500.0,1311.022,1,r2-s2,2,3.545
+125,14,28,profile_001,Dual game sessions,multi-gaussian,15.015,19.477,100.0,500.0,1315.55,1,r2-s2,2,3.545
+130,14,28,profile_001,Dual game sessions,multi-gaussian,18.112,24.366,100.0,500.0,1298.354,1,r2-s2,2,3.545
+135,14,28,profile_001,Dual game sessions,multi-gaussian,22.877,30.361,100.0,500.0,1298.493,1,r2-s2,2,3.545
+140,14,28,profile_001,Dual game sessions,multi-gaussian,26.679,32.448,100.0,500.0,1272.627,1,r2-s2,2,3.545
+145,14,28,profile_001,Dual game sessions,multi-gaussian,29.603,35.732,100.0,500.0,1270.558,1,r2-s2,2,3.545
+150,14,28,profile_001,Dual game sessions,multi-gaussian,30.488,36.546,100.0,500.0,1232.859,1,r2-s2,2,3.545
+155,14,28,profile_001,Dual game sessions,multi-gaussian,31.279,35.698,100.0,500.0,1195.608,1,r2-s2,2,3.545
+160,14,28,profile_001,Dual game sessions,multi-gaussian,28.0,31.319,100.0,500.0,1152.192,1,r2-s2,2,3.545
+165,14,28,profile_001,Dual game sessions,multi-gaussian,20.939,24.778,100.0,500.0,1067.611,1,r2-s2,2,3.545
+170,14,28,profile_001,Dual game sessions,multi-gaussian,16.596,24.013,100.0,500.0,1001.485,1,r2-s2,2,3.545
+175,14,28,profile_001,Dual game sessions,multi-gaussian,13.092,16.917,100.0,500.0,925.316,1,r2-s2,2,3.545
+0,15,29,profile_045,Remote education,multi-gaussian,8.205,20.063,100.0,500.0,794.84,1,r2-s2,1,6.505
+5,15,29,profile_045,Remote education,multi-gaussian,10.314,22.435,100.0,500.0,826.66,1,r2-s2,1,6.505
+10,15,29,profile_045,Remote education,multi-gaussian,8.49,19.211,100.0,500.0,876.584,1,r2-s2,1,6.505
+15,15,29,profile_045,Remote education,multi-gaussian,11.856,19.409,100.0,500.0,937.115,1,r2-s2,1,6.505
+20,15,29,profile_045,Remote education,multi-gaussian,11.92,21.701,100.0,500.0,1002.901,1,r2-s2,1,6.505
+25,15,29,profile_045,Remote education,multi-gaussian,16.977,23.827,100.0,500.0,1038.799,1,r2-s2,1,6.505
+30,15,29,profile_045,Remote education,multi-gaussian,18.668,30.456,100.0,500.0,1055.833,1,r2-s2,1,6.505
+35,15,29,profile_045,Remote education,multi-gaussian,22.007,33.22,100.0,500.0,1122.408,1,r2-s2,1,6.505
+40,15,29,profile_045,Remote education,multi-gaussian,24.42,37.44,100.0,500.0,1141.752,1,r2-s2,1,6.505
+45,15,29,profile_045,Remote education,multi-gaussian,29.262,41.74,100.0,500.0,1171.352,1,r2-s2,1,6.505
+50,15,29,profile_045,Remote education,multi-gaussian,33.386,50.356,100.0,500.0,1194.185,1,r2-s2,1,6.505
+55,15,29,profile_045,Remote education,multi-gaussian,36.773,61.615,100.0,500.0,1172.116,1,r2-s2,1,6.505
+60,15,29,profile_045,Remote education,multi-gaussian,37.882,61.471,100.0,500.0,1173.288,1,r2-s2,1,6.505
+65,15,29,profile_045,Remote education,multi-gaussian,41.887,75.493,100.0,500.0,1183.252,1,r2-s2,1,6.505
+70,15,29,profile_045,Remote education,multi-gaussian,41.796,80.815,100.0,500.0,1194.712,1,r2-s2,1,6.505
+75,15,29,profile_045,Remote education,multi-gaussian,43.596,88.85,100.0,500.0,1242.642,1,r2-s2,1,6.505
+80,15,29,profile_045,Remote education,multi-gaussian,43.039,93.397,100.0,500.0,1232.383,1,r2-s2,1,6.505
+85,15,29,profile_045,Remote education,multi-gaussian,40.478,92.475,100.0,500.0,1248.602,1,r2-s2,1,6.505
+90,15,29,profile_045,Remote education,multi-gaussian,37.715,90.628,100.0,500.0,1263.428,1,r2-s2,1,6.505
+95,15,29,profile_045,Remote education,multi-gaussian,31.775,94.017,100.0,500.0,1299.831,1,r2-s2,1,6.505
+100,15,29,profile_045,Remote education,multi-gaussian,30.957,89.383,100.0,500.0,1287.387,1,r2-s2,1,6.505
+105,15,29,profile_045,Remote education,multi-gaussian,27.487,91.611,100.0,500.0,1297.986,1,r2-s2,1,6.505
+110,15,29,profile_045,Remote education,multi-gaussian,22.534,84.5,100.0,500.0,1302.145,1,r2-s2,1,6.505
+115,15,29,profile_045,Remote education,multi-gaussian,19.032,83.016,100.0,500.0,1315.265,1,r2-s2,1,6.505
+120,15,29,profile_045,Remote education,multi-gaussian,16.916,83.623,100.0,500.0,1311.022,1,r2-s2,1,6.505
+125,15,29,profile_045,Remote education,multi-gaussian,15.461,88.341,100.0,500.0,1315.55,1,r2-s2,1,6.505
+130,15,29,profile_045,Remote education,multi-gaussian,10.879,78.254,100.0,500.0,1298.354,1,r2-s2,1,6.505
+135,15,29,profile_045,Remote education,multi-gaussian,9.211,77.855,100.0,500.0,1298.493,1,r2-s2,1,6.505
+140,15,29,profile_045,Remote education,multi-gaussian,10.258,76.48,100.0,500.0,1272.627,1,r2-s2,1,6.505
+145,15,29,profile_045,Remote education,multi-gaussian,8.15,76.6,100.0,500.0,1270.558,1,r2-s2,1,6.505
+150,15,29,profile_045,Remote education,multi-gaussian,8.909,68.995,100.0,500.0,1232.859,1,r2-s2,1,6.505
+155,15,29,profile_045,Remote education,multi-gaussian,8.295,69.53,100.0,500.0,1195.608,1,r2-s2,1,6.505
+160,15,29,profile_045,Remote education,multi-gaussian,8.273,62.54,100.0,500.0,1152.192,1,r2-s2,1,6.505
+165,15,29,profile_045,Remote education,multi-gaussian,7.551,54.499,100.0,500.0,1067.611,1,r2-s2,1,6.505
+170,15,29,profile_045,Remote education,multi-gaussian,7.864,45.314,100.0,500.0,1001.485,1,r2-s2,1,6.505
+175,15,29,profile_045,Remote education,multi-gaussian,5.983,44.785,100.0,500.0,925.316,1,r2-s2,1,6.505
+0,15,30,profile_045,Weekend usage,multi-gaussian,11.857,20.063,100.0,500.0,794.84,1,r2-s2,3,8.521
+5,15,30,profile_045,Weekend usage,multi-gaussian,12.121,22.435,100.0,500.0,826.66,1,r2-s2,3,8.521
+10,15,30,profile_045,Weekend usage,multi-gaussian,10.721,19.211,100.0,500.0,876.584,1,r2-s2,3,8.521
+15,15,30,profile_045,Weekend usage,multi-gaussian,7.553,19.409,100.0,500.0,937.115,1,r2-s2,3,8.521
+20,15,30,profile_045,Weekend usage,multi-gaussian,9.782,21.701,100.0,500.0,1002.901,1,r2-s2,3,8.521
+25,15,30,profile_045,Weekend usage,multi-gaussian,6.85,23.827,100.0,500.0,1038.799,1,r2-s2,3,8.521
+30,15,30,profile_045,Weekend usage,multi-gaussian,11.789,30.456,100.0,500.0,1055.833,1,r2-s2,3,8.521
+35,15,30,profile_045,Weekend usage,multi-gaussian,11.213,33.22,100.0,500.0,1122.408,1,r2-s2,3,8.521
+40,15,30,profile_045,Weekend usage,multi-gaussian,13.02,37.44,100.0,500.0,1141.752,1,r2-s2,3,8.521
+45,15,30,profile_045,Weekend usage,multi-gaussian,12.478,41.74,100.0,500.0,1171.352,1,r2-s2,3,8.521
+50,15,30,profile_045,Weekend usage,multi-gaussian,16.97,50.356,100.0,500.0,1194.185,1,r2-s2,3,8.521
+55,15,30,profile_045,Weekend usage,multi-gaussian,24.843,61.615,100.0,500.0,1172.116,1,r2-s2,3,8.521
+60,15,30,profile_045,Weekend usage,multi-gaussian,23.588,61.471,100.0,500.0,1173.288,1,r2-s2,3,8.521
+65,15,30,profile_045,Weekend usage,multi-gaussian,33.606,75.493,100.0,500.0,1183.252,1,r2-s2,3,8.521
+70,15,30,profile_045,Weekend usage,multi-gaussian,39.019,80.815,100.0,500.0,1194.712,1,r2-s2,3,8.521
+75,15,30,profile_045,Weekend usage,multi-gaussian,45.254,88.85,100.0,500.0,1242.642,1,r2-s2,3,8.521
+80,15,30,profile_045,Weekend usage,multi-gaussian,50.357,93.397,100.0,500.0,1232.383,1,r2-s2,3,8.521
+85,15,30,profile_045,Weekend usage,multi-gaussian,51.997,92.475,100.0,500.0,1248.602,1,r2-s2,3,8.521
+90,15,30,profile_045,Weekend usage,multi-gaussian,52.913,90.628,100.0,500.0,1263.428,1,r2-s2,3,8.521
+95,15,30,profile_045,Weekend usage,multi-gaussian,62.241,94.017,100.0,500.0,1299.831,1,r2-s2,3,8.521
+100,15,30,profile_045,Weekend usage,multi-gaussian,58.427,89.383,100.0,500.0,1287.387,1,r2-s2,3,8.521
+105,15,30,profile_045,Weekend usage,multi-gaussian,64.123,91.611,100.0,500.0,1297.986,1,r2-s2,3,8.521
+110,15,30,profile_045,Weekend usage,multi-gaussian,61.967,84.5,100.0,500.0,1302.145,1,r2-s2,3,8.521
+115,15,30,profile_045,Weekend usage,multi-gaussian,63.984,83.016,100.0,500.0,1315.265,1,r2-s2,3,8.521
+120,15,30,profile_045,Weekend usage,multi-gaussian,66.707,83.623,100.0,500.0,1311.022,1,r2-s2,3,8.521
+125,15,30,profile_045,Weekend usage,multi-gaussian,72.88,88.341,100.0,500.0,1315.55,1,r2-s2,3,8.521
+130,15,30,profile_045,Weekend usage,multi-gaussian,67.376,78.254,100.0,500.0,1298.354,1,r2-s2,3,8.521
+135,15,30,profile_045,Weekend usage,multi-gaussian,68.644,77.855,100.0,500.0,1298.493,1,r2-s2,3,8.521
+140,15,30,profile_045,Weekend usage,multi-gaussian,66.223,76.48,100.0,500.0,1272.627,1,r2-s2,3,8.521
+145,15,30,profile_045,Weekend usage,multi-gaussian,68.45,76.6,100.0,500.0,1270.558,1,r2-s2,3,8.521
+150,15,30,profile_045,Weekend usage,multi-gaussian,60.086,68.995,100.0,500.0,1232.859,1,r2-s2,3,8.521
+155,15,30,profile_045,Weekend usage,multi-gaussian,61.234,69.53,100.0,500.0,1195.608,1,r2-s2,3,8.521
+160,15,30,profile_045,Weekend usage,multi-gaussian,54.267,62.54,100.0,500.0,1152.192,1,r2-s2,3,8.521
+165,15,30,profile_045,Weekend usage,multi-gaussian,46.948,54.499,100.0,500.0,1067.611,1,r2-s2,3,8.521
+170,15,30,profile_045,Weekend usage,multi-gaussian,37.451,45.314,100.0,500.0,1001.485,1,r2-s2,3,8.521
+175,15,30,profile_045,Weekend usage,multi-gaussian,38.802,44.785,100.0,500.0,925.316,1,r2-s2,3,8.521
+0,16,31,profile_022,Family streaming,multi-gaussian,31.418,36.507,100.0,500.0,794.84,1,r2-s2,3,7.495
+5,16,31,profile_022,Family streaming,multi-gaussian,28.587,34.815,100.0,500.0,826.66,1,r2-s2,3,7.495
+10,16,31,profile_022,Family streaming,multi-gaussian,29.235,38.196,100.0,500.0,876.584,1,r2-s2,3,7.495
+15,16,31,profile_022,Family streaming,multi-gaussian,33.469,41.368,100.0,500.0,937.115,1,r2-s2,3,7.495
+20,16,31,profile_022,Family streaming,multi-gaussian,32.609,38.263,100.0,500.0,1002.901,1,r2-s2,3,7.495
+25,16,31,profile_022,Family streaming,multi-gaussian,35.079,42.294,100.0,500.0,1038.799,1,r2-s2,3,7.495
+30,16,31,profile_022,Family streaming,multi-gaussian,33.422,39.259,100.0,500.0,1055.833,1,r2-s2,3,7.495
+35,16,31,profile_022,Family streaming,multi-gaussian,34.378,43.34,100.0,500.0,1122.408,1,r2-s2,3,7.495
+40,16,31,profile_022,Family streaming,multi-gaussian,38.575,47.072,100.0,500.0,1141.752,1,r2-s2,3,7.495
+45,16,31,profile_022,Family streaming,multi-gaussian,46.542,55.725,100.0,500.0,1171.352,1,r2-s2,3,7.495
+50,16,31,profile_022,Family streaming,multi-gaussian,46.116,57.566,100.0,500.0,1194.185,1,r2-s2,3,7.495
+55,16,31,profile_022,Family streaming,multi-gaussian,38.795,49.683,100.0,500.0,1172.116,1,r2-s2,3,7.495
+60,16,31,profile_022,Family streaming,multi-gaussian,40.607,52.274,100.0,500.0,1173.288,1,r2-s2,3,7.495
+65,16,31,profile_022,Family streaming,multi-gaussian,42.75,55.804,100.0,500.0,1183.252,1,r2-s2,3,7.495
+70,16,31,profile_022,Family streaming,multi-gaussian,43.525,59.401,100.0,500.0,1194.712,1,r2-s2,3,7.495
+75,16,31,profile_022,Family streaming,multi-gaussian,44.447,66.553,100.0,500.0,1242.642,1,r2-s2,3,7.495
+80,16,31,profile_022,Family streaming,multi-gaussian,40.316,63.948,100.0,500.0,1232.383,1,r2-s2,3,7.495
+85,16,31,profile_022,Family streaming,multi-gaussian,32.871,61.116,100.0,500.0,1248.602,1,r2-s2,3,7.495
+90,16,31,profile_022,Family streaming,multi-gaussian,29.922,58.973,100.0,500.0,1263.428,1,r2-s2,3,7.495
+95,16,31,profile_022,Family streaming,multi-gaussian,33.695,69.682,100.0,500.0,1299.831,1,r2-s2,3,7.495
+100,16,31,profile_022,Family streaming,multi-gaussian,32.055,67.453,100.0,500.0,1287.387,1,r2-s2,3,7.495
+105,16,31,profile_022,Family streaming,multi-gaussian,29.193,68.226,100.0,500.0,1297.986,1,r2-s2,3,7.495
+110,16,31,profile_022,Family streaming,multi-gaussian,21.148,63.205,100.0,500.0,1302.145,1,r2-s2,3,7.495
+115,16,31,profile_022,Family streaming,multi-gaussian,18.807,64.498,100.0,500.0,1315.265,1,r2-s2,3,7.495
+120,16,31,profile_022,Family streaming,multi-gaussian,16.91,63.88,100.0,500.0,1311.022,1,r2-s2,3,7.495
+125,16,31,profile_022,Family streaming,multi-gaussian,18.502,68.808,100.0,500.0,1315.55,1,r2-s2,3,7.495
+130,16,31,profile_022,Family streaming,multi-gaussian,18.273,67.357,100.0,500.0,1298.354,1,r2-s2,3,7.495
+135,16,31,profile_022,Family streaming,multi-gaussian,17.742,67.547,100.0,500.0,1298.493,1,r2-s2,3,7.495
+140,16,31,profile_022,Family streaming,multi-gaussian,18.619,63.122,100.0,500.0,1272.627,1,r2-s2,3,7.495
+145,16,31,profile_022,Family streaming,multi-gaussian,20.718,64.56,100.0,500.0,1270.558,1,r2-s2,3,7.495
+150,16,31,profile_022,Family streaming,multi-gaussian,24.686,67.215,100.0,500.0,1232.859,1,r2-s2,3,7.495
+155,16,31,profile_022,Family streaming,multi-gaussian,23.777,59.266,100.0,500.0,1195.608,1,r2-s2,3,7.495
+160,16,31,profile_022,Family streaming,multi-gaussian,26.707,62.173,100.0,500.0,1152.192,1,r2-s2,3,7.495
+165,16,31,profile_022,Family streaming,multi-gaussian,23.414,53.207,100.0,500.0,1067.611,1,r2-s2,3,7.495
+170,16,31,profile_022,Family streaming,multi-gaussian,23.744,49.133,100.0,500.0,1001.485,1,r2-s2,3,7.495
+175,16,31,profile_022,Family streaming,multi-gaussian,24.973,50.062,100.0,500.0,925.316,1,r2-s2,3,7.495
+0,16,32,profile_022,Home security + streaming,multi-gaussian,5.089,36.507,100.0,500.0,794.84,1,r2-s2,1,6.614
+5,16,32,profile_022,Home security + streaming,multi-gaussian,6.228,34.815,100.0,500.0,826.66,1,r2-s2,1,6.614
+10,16,32,profile_022,Home security + streaming,multi-gaussian,8.961,38.196,100.0,500.0,876.584,1,r2-s2,1,6.614
+15,16,32,profile_022,Home security + streaming,multi-gaussian,7.899,41.368,100.0,500.0,937.115,1,r2-s2,1,6.614
+20,16,32,profile_022,Home security + streaming,multi-gaussian,5.654,38.263,100.0,500.0,1002.901,1,r2-s2,1,6.614
+25,16,32,profile_022,Home security + streaming,multi-gaussian,7.216,42.294,100.0,500.0,1038.799,1,r2-s2,1,6.614
+30,16,32,profile_022,Home security + streaming,multi-gaussian,5.837,39.259,100.0,500.0,1055.833,1,r2-s2,1,6.614
+35,16,32,profile_022,Home security + streaming,multi-gaussian,8.962,43.34,100.0,500.0,1122.408,1,r2-s2,1,6.614
+40,16,32,profile_022,Home security + streaming,multi-gaussian,8.497,47.072,100.0,500.0,1141.752,1,r2-s2,1,6.614
+45,16,32,profile_022,Home security + streaming,multi-gaussian,9.183,55.725,100.0,500.0,1171.352,1,r2-s2,1,6.614
+50,16,32,profile_022,Home security + streaming,multi-gaussian,11.45,57.566,100.0,500.0,1194.185,1,r2-s2,1,6.614
+55,16,32,profile_022,Home security + streaming,multi-gaussian,10.887,49.683,100.0,500.0,1172.116,1,r2-s2,1,6.614
+60,16,32,profile_022,Home security + streaming,multi-gaussian,11.667,52.274,100.0,500.0,1173.288,1,r2-s2,1,6.614
+65,16,32,profile_022,Home security + streaming,multi-gaussian,13.054,55.804,100.0,500.0,1183.252,1,r2-s2,1,6.614
+70,16,32,profile_022,Home security + streaming,multi-gaussian,15.876,59.401,100.0,500.0,1194.712,1,r2-s2,1,6.614
+75,16,32,profile_022,Home security + streaming,multi-gaussian,22.106,66.553,100.0,500.0,1242.642,1,r2-s2,1,6.614
+80,16,32,profile_022,Home security + streaming,multi-gaussian,23.632,63.948,100.0,500.0,1232.383,1,r2-s2,1,6.614
+85,16,32,profile_022,Home security + streaming,multi-gaussian,28.245,61.116,100.0,500.0,1248.602,1,r2-s2,1,6.614
+90,16,32,profile_022,Home security + streaming,multi-gaussian,29.051,58.973,100.0,500.0,1263.428,1,r2-s2,1,6.614
+95,16,32,profile_022,Home security + streaming,multi-gaussian,35.988,69.682,100.0,500.0,1299.831,1,r2-s2,1,6.614
+100,16,32,profile_022,Home security + streaming,multi-gaussian,35.398,67.453,100.0,500.0,1287.387,1,r2-s2,1,6.614
+105,16,32,profile_022,Home security + streaming,multi-gaussian,39.033,68.226,100.0,500.0,1297.986,1,r2-s2,1,6.614
+110,16,32,profile_022,Home security + streaming,multi-gaussian,42.057,63.205,100.0,500.0,1302.145,1,r2-s2,1,6.614
+115,16,32,profile_022,Home security + streaming,multi-gaussian,45.691,64.498,100.0,500.0,1315.265,1,r2-s2,1,6.614
+120,16,32,profile_022,Home security + streaming,multi-gaussian,46.971,63.88,100.0,500.0,1311.022,1,r2-s2,1,6.614
+125,16,32,profile_022,Home security + streaming,multi-gaussian,50.306,68.808,100.0,500.0,1315.55,1,r2-s2,1,6.614
+130,16,32,profile_022,Home security + streaming,multi-gaussian,49.083,67.357,100.0,500.0,1298.354,1,r2-s2,1,6.614
+135,16,32,profile_022,Home security + streaming,multi-gaussian,49.805,67.547,100.0,500.0,1298.493,1,r2-s2,1,6.614
+140,16,32,profile_022,Home security + streaming,multi-gaussian,44.503,63.122,100.0,500.0,1272.627,1,r2-s2,1,6.614
+145,16,32,profile_022,Home security + streaming,multi-gaussian,43.843,64.56,100.0,500.0,1270.558,1,r2-s2,1,6.614
+150,16,32,profile_022,Home security + streaming,multi-gaussian,42.529,67.215,100.0,500.0,1232.859,1,r2-s2,1,6.614
+155,16,32,profile_022,Home security + streaming,multi-gaussian,35.488,59.266,100.0,500.0,1195.608,1,r2-s2,1,6.614
+160,16,32,profile_022,Home security + streaming,multi-gaussian,35.466,62.173,100.0,500.0,1152.192,1,r2-s2,1,6.614
+165,16,32,profile_022,Home security + streaming,multi-gaussian,29.793,53.207,100.0,500.0,1067.611,1,r2-s2,1,6.614
+170,16,32,profile_022,Home security + streaming,multi-gaussian,25.389,49.133,100.0,500.0,1001.485,1,r2-s2,1,6.614
+175,16,32,profile_022,Home security + streaming,multi-gaussian,25.089,50.062,100.0,500.0,925.316,1,r2-s2,1,6.614
+0,17,33,profile_036,Small business usage,multi-gaussian,20.552,65.584,100.0,500.0,794.84,1,r2-s2,2,6.804
+5,17,33,profile_036,Small business usage,multi-gaussian,23.791,65.742,100.0,500.0,826.66,1,r2-s2,2,6.804
+10,17,33,profile_036,Small business usage,multi-gaussian,28.311,76.977,100.0,500.0,876.584,1,r2-s2,2,6.804
+15,17,33,profile_036,Small business usage,multi-gaussian,29.431,74.301,100.0,500.0,937.115,1,r2-s2,2,6.804
+20,17,33,profile_036,Small business usage,multi-gaussian,36.845,83.967,100.0,500.0,1002.901,1,r2-s2,2,6.804
+25,17,33,profile_036,Small business usage,multi-gaussian,37.182,84.207,100.0,500.0,1038.799,1,r2-s2,2,6.804
+30,17,33,profile_036,Small business usage,multi-gaussian,39.942,82.487,100.0,500.0,1055.833,1,r2-s2,2,6.804
+35,17,33,profile_036,Small business usage,multi-gaussian,44.568,89.495,100.0,500.0,1122.408,1,r2-s2,2,6.804
+40,17,33,profile_036,Small business usage,multi-gaussian,42.718,85.008,100.0,500.0,1141.752,1,r2-s2,2,6.804
+45,17,33,profile_036,Small business usage,multi-gaussian,44.292,80.589,100.0,500.0,1171.352,1,r2-s2,2,6.804
+50,17,33,profile_036,Small business usage,multi-gaussian,44.1,80.83,100.0,500.0,1194.185,1,r2-s2,2,6.804
+55,17,33,profile_036,Small business usage,multi-gaussian,38.854,69.752,100.0,500.0,1172.116,1,r2-s2,2,6.804
+60,17,33,profile_036,Small business usage,multi-gaussian,37.121,63.67,100.0,500.0,1173.288,1,r2-s2,2,6.804
+65,17,33,profile_036,Small business usage,multi-gaussian,37.883,65.826,100.0,500.0,1183.252,1,r2-s2,2,6.804
+70,17,33,profile_036,Small business usage,multi-gaussian,32.297,55.158,100.0,500.0,1194.712,1,r2-s2,2,6.804
+75,17,33,profile_036,Small business usage,multi-gaussian,33.98,56.014,100.0,500.0,1242.642,1,r2-s2,2,6.804
+80,17,33,profile_036,Small business usage,multi-gaussian,31.693,54.698,100.0,500.0,1232.383,1,r2-s2,2,6.804
+85,17,33,profile_036,Small business usage,multi-gaussian,31.596,51.882,100.0,500.0,1248.602,1,r2-s2,2,6.804
+90,17,33,profile_036,Small business usage,multi-gaussian,34.758,58.194,100.0,500.0,1263.428,1,r2-s2,2,6.804
+95,17,33,profile_036,Small business usage,multi-gaussian,34.181,61.694,100.0,500.0,1299.831,1,r2-s2,2,6.804
+100,17,33,profile_036,Small business usage,multi-gaussian,35.919,66.628,100.0,500.0,1287.387,1,r2-s2,2,6.804
+105,17,33,profile_036,Small business usage,multi-gaussian,37.422,67.986,100.0,500.0,1297.986,1,r2-s2,2,6.804
+110,17,33,profile_036,Small business usage,multi-gaussian,40.146,73.008,100.0,500.0,1302.145,1,r2-s2,2,6.804
+115,17,33,profile_036,Small business usage,multi-gaussian,38.889,76.158,100.0,500.0,1315.265,1,r2-s2,2,6.804
+120,17,33,profile_036,Small business usage,multi-gaussian,42.082,88.283,100.0,500.0,1311.022,1,r2-s2,2,6.804
+125,17,33,profile_036,Small business usage,multi-gaussian,41.072,85.683,100.0,500.0,1315.55,1,r2-s2,2,6.804
+130,17,33,profile_036,Small business usage,multi-gaussian,39.043,88.859,100.0,500.0,1298.354,1,r2-s2,2,6.804
+135,17,33,profile_036,Small business usage,multi-gaussian,32.266,77.139,100.0,500.0,1298.493,1,r2-s2,2,6.804
+140,17,33,profile_036,Small business usage,multi-gaussian,30.784,77.685,100.0,500.0,1272.627,1,r2-s2,2,6.804
+145,17,33,profile_036,Small business usage,multi-gaussian,26.267,70.188,100.0,500.0,1270.558,1,r2-s2,2,6.804
+150,17,33,profile_036,Small business usage,multi-gaussian,23.245,60.185,100.0,500.0,1232.859,1,r2-s2,2,6.804
+155,17,33,profile_036,Small business usage,multi-gaussian,20.4,52.037,100.0,500.0,1195.608,1,r2-s2,2,6.804
+160,17,33,profile_036,Small business usage,multi-gaussian,15.528,43.131,100.0,500.0,1152.192,1,r2-s2,2,6.804
+165,17,33,profile_036,Small business usage,multi-gaussian,14.728,36.687,100.0,500.0,1067.611,1,r2-s2,2,6.804
+170,17,33,profile_036,Small business usage,multi-gaussian,13.868,37.097,100.0,500.0,1001.485,1,r2-s2,2,6.804
+175,17,33,profile_036,Small business usage,multi-gaussian,10.956,35.676,100.0,500.0,925.316,1,r2-s2,2,6.804
+0,17,34,profile_036,Media enthusiast,multi-gaussian,45.033,65.584,100.0,500.0,794.84,1,r2-s2,2,6.704
+5,17,34,profile_036,Media enthusiast,multi-gaussian,41.95,65.742,100.0,500.0,826.66,1,r2-s2,2,6.704
+10,17,34,profile_036,Media enthusiast,multi-gaussian,48.666,76.977,100.0,500.0,876.584,1,r2-s2,2,6.704
+15,17,34,profile_036,Media enthusiast,multi-gaussian,44.87,74.301,100.0,500.0,937.115,1,r2-s2,2,6.704
+20,17,34,profile_036,Media enthusiast,multi-gaussian,47.122,83.967,100.0,500.0,1002.901,1,r2-s2,2,6.704
+25,17,34,profile_036,Media enthusiast,multi-gaussian,47.026,84.207,100.0,500.0,1038.799,1,r2-s2,2,6.704
+30,17,34,profile_036,Media enthusiast,multi-gaussian,42.545,82.487,100.0,500.0,1055.833,1,r2-s2,2,6.704
+35,17,34,profile_036,Media enthusiast,multi-gaussian,44.927,89.495,100.0,500.0,1122.408,1,r2-s2,2,6.704
+40,17,34,profile_036,Media enthusiast,multi-gaussian,42.289,85.008,100.0,500.0,1141.752,1,r2-s2,2,6.704
+45,17,34,profile_036,Media enthusiast,multi-gaussian,36.298,80.589,100.0,500.0,1171.352,1,r2-s2,2,6.704
+50,17,34,profile_036,Media enthusiast,multi-gaussian,36.73,80.83,100.0,500.0,1194.185,1,r2-s2,2,6.704
+55,17,34,profile_036,Media enthusiast,multi-gaussian,30.898,69.752,100.0,500.0,1172.116,1,r2-s2,2,6.704
+60,17,34,profile_036,Media enthusiast,multi-gaussian,26.549,63.67,100.0,500.0,1173.288,1,r2-s2,2,6.704
+65,17,34,profile_036,Media enthusiast,multi-gaussian,27.943,65.826,100.0,500.0,1183.252,1,r2-s2,2,6.704
+70,17,34,profile_036,Media enthusiast,multi-gaussian,22.861,55.158,100.0,500.0,1194.712,1,r2-s2,2,6.704
+75,17,34,profile_036,Media enthusiast,multi-gaussian,22.034,56.014,100.0,500.0,1242.642,1,r2-s2,2,6.704
+80,17,34,profile_036,Media enthusiast,multi-gaussian,23.005,54.698,100.0,500.0,1232.383,1,r2-s2,2,6.704
+85,17,34,profile_036,Media enthusiast,multi-gaussian,20.286,51.882,100.0,500.0,1248.602,1,r2-s2,2,6.704
+90,17,34,profile_036,Media enthusiast,multi-gaussian,23.435,58.194,100.0,500.0,1263.428,1,r2-s2,2,6.704
+95,17,34,profile_036,Media enthusiast,multi-gaussian,27.513,61.694,100.0,500.0,1299.831,1,r2-s2,2,6.704
+100,17,34,profile_036,Media enthusiast,multi-gaussian,30.709,66.628,100.0,500.0,1287.387,1,r2-s2,2,6.704
+105,17,34,profile_036,Media enthusiast,multi-gaussian,30.564,67.986,100.0,500.0,1297.986,1,r2-s2,2,6.704
+110,17,34,profile_036,Media enthusiast,multi-gaussian,32.862,73.008,100.0,500.0,1302.145,1,r2-s2,2,6.704
+115,17,34,profile_036,Media enthusiast,multi-gaussian,37.269,76.158,100.0,500.0,1315.265,1,r2-s2,2,6.704
+120,17,34,profile_036,Media enthusiast,multi-gaussian,46.201,88.283,100.0,500.0,1311.022,1,r2-s2,2,6.704
+125,17,34,profile_036,Media enthusiast,multi-gaussian,44.611,85.683,100.0,500.0,1315.55,1,r2-s2,2,6.704
+130,17,34,profile_036,Media enthusiast,multi-gaussian,49.816,88.859,100.0,500.0,1298.354,1,r2-s2,2,6.704
+135,17,34,profile_036,Media enthusiast,multi-gaussian,44.873,77.139,100.0,500.0,1298.493,1,r2-s2,2,6.704
+140,17,34,profile_036,Media enthusiast,multi-gaussian,46.901,77.685,100.0,500.0,1272.627,1,r2-s2,2,6.704
+145,17,34,profile_036,Media enthusiast,multi-gaussian,43.921,70.188,100.0,500.0,1270.558,1,r2-s2,2,6.704
+150,17,34,profile_036,Media enthusiast,multi-gaussian,36.939,60.185,100.0,500.0,1232.859,1,r2-s2,2,6.704
+155,17,34,profile_036,Media enthusiast,multi-gaussian,31.638,52.037,100.0,500.0,1195.608,1,r2-s2,2,6.704
+160,17,34,profile_036,Media enthusiast,multi-gaussian,27.603,43.131,100.0,500.0,1152.192,1,r2-s2,2,6.704
+165,17,34,profile_036,Media enthusiast,multi-gaussian,21.958,36.687,100.0,500.0,1067.611,1,r2-s2,2,6.704
+170,17,34,profile_036,Media enthusiast,multi-gaussian,23.229,37.097,100.0,500.0,1001.485,1,r2-s2,2,6.704
+175,17,34,profile_036,Media enthusiast,multi-gaussian,24.72,35.676,100.0,500.0,925.316,1,r2-s2,2,6.704
+0,18,35,profile_017,Dual game sessions,multi-gaussian,16.775,29.227,100.0,500.0,794.84,1,r2-s2,2,3.487
+5,18,35,profile_017,Dual game sessions,multi-gaussian,20.811,35.351,100.0,500.0,826.66,1,r2-s2,2,3.487
+10,18,35,profile_017,Dual game sessions,multi-gaussian,26.566,40.021,100.0,500.0,876.584,1,r2-s2,2,3.487
+15,18,35,profile_017,Dual game sessions,multi-gaussian,27.534,46.856,100.0,500.0,937.115,1,r2-s2,2,3.487
+20,18,35,profile_017,Dual game sessions,multi-gaussian,30.298,53.339,100.0,500.0,1002.901,1,r2-s2,2,3.487
+25,18,35,profile_017,Dual game sessions,multi-gaussian,33.922,62.097,100.0,500.0,1038.799,1,r2-s2,2,3.487
+30,18,35,profile_017,Dual game sessions,multi-gaussian,32.843,69.148,100.0,500.0,1055.833,1,r2-s2,2,3.487
+35,18,35,profile_017,Dual game sessions,multi-gaussian,31.503,77.705,100.0,500.0,1122.408,1,r2-s2,2,3.487
+40,18,35,profile_017,Dual game sessions,multi-gaussian,30.086,79.819,100.0,500.0,1141.752,1,r2-s2,2,3.487
+45,18,35,profile_017,Dual game sessions,multi-gaussian,26.244,79.011,100.0,500.0,1171.352,1,r2-s2,2,3.487
+50,18,35,profile_017,Dual game sessions,multi-gaussian,23.208,81.487,100.0,500.0,1194.185,1,r2-s2,2,3.487
+55,18,35,profile_017,Dual game sessions,multi-gaussian,17.473,76.515,100.0,500.0,1172.116,1,r2-s2,2,3.487
+60,18,35,profile_017,Dual game sessions,multi-gaussian,14.548,76.715,100.0,500.0,1173.288,1,r2-s2,2,3.487
+65,18,35,profile_017,Dual game sessions,multi-gaussian,11.11,75.785,100.0,500.0,1183.252,1,r2-s2,2,3.487
+70,18,35,profile_017,Dual game sessions,multi-gaussian,8.614,74.035,100.0,500.0,1194.712,1,r2-s2,2,3.487
+75,18,35,profile_017,Dual game sessions,multi-gaussian,8.014,76.453,100.0,500.0,1242.642,1,r2-s2,2,3.487
+80,18,35,profile_017,Dual game sessions,multi-gaussian,5.955,66.211,100.0,500.0,1232.383,1,r2-s2,2,3.487
+85,18,35,profile_017,Dual game sessions,multi-gaussian,4.654,62.352,100.0,500.0,1248.602,1,r2-s2,2,3.487
+90,18,35,profile_017,Dual game sessions,multi-gaussian,3.731,53.502,100.0,500.0,1263.428,1,r2-s2,2,3.487
+95,18,35,profile_017,Dual game sessions,multi-gaussian,2.881,51.929,100.0,500.0,1299.831,1,r2-s2,2,3.487
+100,18,35,profile_017,Dual game sessions,multi-gaussian,3.629,42.984,100.0,500.0,1287.387,1,r2-s2,2,3.487
+105,18,35,profile_017,Dual game sessions,multi-gaussian,2.311,43.205,100.0,500.0,1297.986,1,r2-s2,2,3.487
+110,18,35,profile_017,Dual game sessions,multi-gaussian,4.749,53.43,100.0,500.0,1302.145,1,r2-s2,2,3.487
+115,18,35,profile_017,Dual game sessions,multi-gaussian,2.872,54.124,100.0,500.0,1315.265,1,r2-s2,2,3.487
+120,18,35,profile_017,Dual game sessions,multi-gaussian,3.863,38.323,100.0,500.0,1311.022,1,r2-s2,2,3.487
+125,18,35,profile_017,Dual game sessions,multi-gaussian,4.912,42.889,100.0,500.0,1315.55,1,r2-s2,2,3.487
+130,18,35,profile_017,Dual game sessions,multi-gaussian,3.835,45.903,100.0,500.0,1298.354,1,r2-s2,2,3.487
+135,18,35,profile_017,Dual game sessions,multi-gaussian,6.052,51.551,100.0,500.0,1298.493,1,r2-s2,2,3.487
+140,18,35,profile_017,Dual game sessions,multi-gaussian,9.22,60.149,100.0,500.0,1272.627,1,r2-s2,2,3.487
+145,18,35,profile_017,Dual game sessions,multi-gaussian,12.497,71.998,100.0,500.0,1270.558,1,r2-s2,2,3.487
+150,18,35,profile_017,Dual game sessions,multi-gaussian,16.661,76.504,100.0,500.0,1232.859,1,r2-s2,2,3.487
+155,18,35,profile_017,Dual game sessions,multi-gaussian,22.057,91.85,100.0,500.0,1195.608,1,r2-s2,2,3.487
+160,18,35,profile_017,Dual game sessions,multi-gaussian,27.72,100.0,100.0,500.0,1152.192,1,r2-s2,2,3.487
+165,18,35,profile_017,Dual game sessions,multi-gaussian,31.254,100.0,100.0,500.0,1067.611,1,r2-s2,2,3.487
+170,18,35,profile_017,Dual game sessions,multi-gaussian,32.402,100.0,100.0,500.0,1001.485,1,r2-s2,2,3.487
+175,18,35,profile_017,Dual game sessions,multi-gaussian,33.697,100.0,100.0,500.0,925.316,1,r2-s2,2,3.487
+0,18,36,profile_017,Weekend usage,multi-gaussian,12.452,29.227,100.0,500.0,794.84,1,r2-s2,2,8.959
+5,18,36,profile_017,Weekend usage,multi-gaussian,14.54,35.351,100.0,500.0,826.66,1,r2-s2,2,8.959
+10,18,36,profile_017,Weekend usage,multi-gaussian,13.455,40.021,100.0,500.0,876.584,1,r2-s2,2,8.959
+15,18,36,profile_017,Weekend usage,multi-gaussian,19.322,46.856,100.0,500.0,937.115,1,r2-s2,2,8.959
+20,18,36,profile_017,Weekend usage,multi-gaussian,23.041,53.339,100.0,500.0,1002.901,1,r2-s2,2,8.959
+25,18,36,profile_017,Weekend usage,multi-gaussian,28.175,62.097,100.0,500.0,1038.799,1,r2-s2,2,8.959
+30,18,36,profile_017,Weekend usage,multi-gaussian,36.305,69.148,100.0,500.0,1055.833,1,r2-s2,2,8.959
+35,18,36,profile_017,Weekend usage,multi-gaussian,46.202,77.705,100.0,500.0,1122.408,1,r2-s2,2,8.959
+40,18,36,profile_017,Weekend usage,multi-gaussian,49.733,79.819,100.0,500.0,1141.752,1,r2-s2,2,8.959
+45,18,36,profile_017,Weekend usage,multi-gaussian,52.767,79.011,100.0,500.0,1171.352,1,r2-s2,2,8.959
+50,18,36,profile_017,Weekend usage,multi-gaussian,58.279,81.487,100.0,500.0,1194.185,1,r2-s2,2,8.959
+55,18,36,profile_017,Weekend usage,multi-gaussian,59.042,76.515,100.0,500.0,1172.116,1,r2-s2,2,8.959
+60,18,36,profile_017,Weekend usage,multi-gaussian,62.167,76.715,100.0,500.0,1173.288,1,r2-s2,2,8.959
+65,18,36,profile_017,Weekend usage,multi-gaussian,64.675,75.785,100.0,500.0,1183.252,1,r2-s2,2,8.959
+70,18,36,profile_017,Weekend usage,multi-gaussian,65.421,74.035,100.0,500.0,1194.712,1,r2-s2,2,8.959
+75,18,36,profile_017,Weekend usage,multi-gaussian,68.439,76.453,100.0,500.0,1242.642,1,r2-s2,2,8.959
+80,18,36,profile_017,Weekend usage,multi-gaussian,60.257,66.211,100.0,500.0,1232.383,1,r2-s2,2,8.959
+85,18,36,profile_017,Weekend usage,multi-gaussian,57.698,62.352,100.0,500.0,1248.602,1,r2-s2,2,8.959
+90,18,36,profile_017,Weekend usage,multi-gaussian,49.77,53.502,100.0,500.0,1263.428,1,r2-s2,2,8.959
+95,18,36,profile_017,Weekend usage,multi-gaussian,49.047,51.929,100.0,500.0,1299.831,1,r2-s2,2,8.959
+100,18,36,profile_017,Weekend usage,multi-gaussian,39.355,42.984,100.0,500.0,1287.387,1,r2-s2,2,8.959
+105,18,36,profile_017,Weekend usage,multi-gaussian,40.895,43.205,100.0,500.0,1297.986,1,r2-s2,2,8.959
+110,18,36,profile_017,Weekend usage,multi-gaussian,48.681,53.43,100.0,500.0,1302.145,1,r2-s2,2,8.959
+115,18,36,profile_017,Weekend usage,multi-gaussian,51.252,54.124,100.0,500.0,1315.265,1,r2-s2,2,8.959
+120,18,36,profile_017,Weekend usage,multi-gaussian,34.46,38.323,100.0,500.0,1311.022,1,r2-s2,2,8.959
+125,18,36,profile_017,Weekend usage,multi-gaussian,37.977,42.889,100.0,500.0,1315.55,1,r2-s2,2,8.959
+130,18,36,profile_017,Weekend usage,multi-gaussian,42.068,45.903,100.0,500.0,1298.354,1,r2-s2,2,8.959
+135,18,36,profile_017,Weekend usage,multi-gaussian,45.499,51.551,100.0,500.0,1298.493,1,r2-s2,2,8.959
+140,18,36,profile_017,Weekend usage,multi-gaussian,50.928,60.149,100.0,500.0,1272.627,1,r2-s2,2,8.959
+145,18,36,profile_017,Weekend usage,multi-gaussian,59.501,71.998,100.0,500.0,1270.558,1,r2-s2,2,8.959
+150,18,36,profile_017,Weekend usage,multi-gaussian,59.843,76.504,100.0,500.0,1232.859,1,r2-s2,2,8.959
+155,18,36,profile_017,Weekend usage,multi-gaussian,69.793,91.85,100.0,500.0,1195.608,1,r2-s2,2,8.959
+160,18,36,profile_017,Weekend usage,multi-gaussian,72.28,100.0,100.0,500.0,1152.192,1,r2-s2,2,8.959
+165,18,36,profile_017,Weekend usage,multi-gaussian,68.746,100.0,100.0,500.0,1067.611,1,r2-s2,2,8.959
+170,18,36,profile_017,Weekend usage,multi-gaussian,67.598,100.0,100.0,500.0,1001.485,1,r2-s2,2,8.959
+175,18,36,profile_017,Weekend usage,multi-gaussian,66.303,100.0,100.0,500.0,925.316,1,r2-s2,2,8.959
+0,19,37,profile_005,HD streaming + download,multi-gaussian,7.416,49.971,100.0,500.0,794.84,1,r2-s2,2,6.613
+5,19,37,profile_005,HD streaming + download,multi-gaussian,7.251,51.267,100.0,500.0,826.66,1,r2-s2,2,6.613
+10,19,37,profile_005,HD streaming + download,multi-gaussian,6.026,48.839,100.0,500.0,876.584,1,r2-s2,2,6.613
+15,19,37,profile_005,HD streaming + download,multi-gaussian,5.159,50.389,100.0,500.0,937.115,1,r2-s2,2,6.613
+20,19,37,profile_005,HD streaming + download,multi-gaussian,5.127,46.245,100.0,500.0,1002.901,1,r2-s2,2,6.613
+25,19,37,profile_005,HD streaming + download,multi-gaussian,5.664,48.149,100.0,500.0,1038.799,1,r2-s2,2,6.613
+30,19,37,profile_005,HD streaming + download,multi-gaussian,8.615,49.104,100.0,500.0,1055.833,1,r2-s2,2,6.613
+35,19,37,profile_005,HD streaming + download,multi-gaussian,9.03,47.129,100.0,500.0,1122.408,1,r2-s2,2,6.613
+40,19,37,profile_005,HD streaming + download,multi-gaussian,10.999,48.945,100.0,500.0,1141.752,1,r2-s2,2,6.613
+45,19,37,profile_005,HD streaming + download,multi-gaussian,9.341,47.798,100.0,500.0,1171.352,1,r2-s2,2,6.613
+50,19,37,profile_005,HD streaming + download,multi-gaussian,15.348,48.106,100.0,500.0,1194.185,1,r2-s2,2,6.613
+55,19,37,profile_005,HD streaming + download,multi-gaussian,19.249,40.504,100.0,500.0,1172.116,1,r2-s2,2,6.613
+60,19,37,profile_005,HD streaming + download,multi-gaussian,28.204,47.92,100.0,500.0,1173.288,1,r2-s2,2,6.613
+65,19,37,profile_005,HD streaming + download,multi-gaussian,35.012,52.413,100.0,500.0,1183.252,1,r2-s2,2,6.613
+70,19,37,profile_005,HD streaming + download,multi-gaussian,43.833,62.095,100.0,500.0,1194.712,1,r2-s2,2,6.613
+75,19,37,profile_005,HD streaming + download,multi-gaussian,49.643,66.293,100.0,500.0,1242.642,1,r2-s2,2,6.613
+80,19,37,profile_005,HD streaming + download,multi-gaussian,52.126,69.019,100.0,500.0,1232.383,1,r2-s2,2,6.613
+85,19,37,profile_005,HD streaming + download,multi-gaussian,54.804,71.632,100.0,500.0,1248.602,1,r2-s2,2,6.613
+90,19,37,profile_005,HD streaming + download,multi-gaussian,56.875,74.875,100.0,500.0,1263.428,1,r2-s2,2,6.613
+95,19,37,profile_005,HD streaming + download,multi-gaussian,52.984,73.527,100.0,500.0,1299.831,1,r2-s2,2,6.613
+100,19,37,profile_005,HD streaming + download,multi-gaussian,47.308,70.982,100.0,500.0,1287.387,1,r2-s2,2,6.613
+105,19,37,profile_005,HD streaming + download,multi-gaussian,43.81,72.086,100.0,500.0,1297.986,1,r2-s2,2,6.613
+110,19,37,profile_005,HD streaming + download,multi-gaussian,36.642,67.39,100.0,500.0,1302.145,1,r2-s2,2,6.613
+115,19,37,profile_005,HD streaming + download,multi-gaussian,36.109,67.247,100.0,500.0,1315.265,1,r2-s2,2,6.613
+120,19,37,profile_005,HD streaming + download,multi-gaussian,31.844,65.484,100.0,500.0,1311.022,1,r2-s2,2,6.613
+125,19,37,profile_005,HD streaming + download,multi-gaussian,33.264,66.09,100.0,500.0,1315.55,1,r2-s2,2,6.613
+130,19,37,profile_005,HD streaming + download,multi-gaussian,32.705,65.179,100.0,500.0,1298.354,1,r2-s2,2,6.613
+135,19,37,profile_005,HD streaming + download,multi-gaussian,37.459,71.118,100.0,500.0,1298.493,1,r2-s2,2,6.613
+140,19,37,profile_005,HD streaming + download,multi-gaussian,38.639,68.886,100.0,500.0,1272.627,1,r2-s2,2,6.613
+145,19,37,profile_005,HD streaming + download,multi-gaussian,38.573,64.701,100.0,500.0,1270.558,1,r2-s2,2,6.613
+150,19,37,profile_005,HD streaming + download,multi-gaussian,39.862,64.977,100.0,500.0,1232.859,1,r2-s2,2,6.613
+155,19,37,profile_005,HD streaming + download,multi-gaussian,42.316,60.938,100.0,500.0,1195.608,1,r2-s2,2,6.613
+160,19,37,profile_005,HD streaming + download,multi-gaussian,42.21,59.868,100.0,500.0,1152.192,1,r2-s2,2,6.613
+165,19,37,profile_005,HD streaming + download,multi-gaussian,41.148,56.824,100.0,500.0,1067.611,1,r2-s2,2,6.613
+170,19,37,profile_005,HD streaming + download,multi-gaussian,40.0,53.73,100.0,500.0,1001.485,1,r2-s2,2,6.613
+175,19,37,profile_005,HD streaming + download,multi-gaussian,36.129,47.082,100.0,500.0,925.316,1,r2-s2,2,6.613
+0,19,38,profile_005,Small business usage,multi-gaussian,42.555,49.971,100.0,500.0,794.84,1,r2-s2,2,6.87
+5,19,38,profile_005,Small business usage,multi-gaussian,44.016,51.267,100.0,500.0,826.66,1,r2-s2,2,6.87
+10,19,38,profile_005,Small business usage,multi-gaussian,42.813,48.839,100.0,500.0,876.584,1,r2-s2,2,6.87
+15,19,38,profile_005,Small business usage,multi-gaussian,45.23,50.389,100.0,500.0,937.115,1,r2-s2,2,6.87
+20,19,38,profile_005,Small business usage,multi-gaussian,41.118,46.245,100.0,500.0,1002.901,1,r2-s2,2,6.87
+25,19,38,profile_005,Small business usage,multi-gaussian,42.484,48.149,100.0,500.0,1038.799,1,r2-s2,2,6.87
+30,19,38,profile_005,Small business usage,multi-gaussian,40.489,49.104,100.0,500.0,1055.833,1,r2-s2,2,6.87
+35,19,38,profile_005,Small business usage,multi-gaussian,38.099,47.129,100.0,500.0,1122.408,1,r2-s2,2,6.87
+40,19,38,profile_005,Small business usage,multi-gaussian,37.946,48.945,100.0,500.0,1141.752,1,r2-s2,2,6.87
+45,19,38,profile_005,Small business usage,multi-gaussian,38.457,47.798,100.0,500.0,1171.352,1,r2-s2,2,6.87
+50,19,38,profile_005,Small business usage,multi-gaussian,32.758,48.106,100.0,500.0,1194.185,1,r2-s2,2,6.87
+55,19,38,profile_005,Small business usage,multi-gaussian,21.256,40.504,100.0,500.0,1172.116,1,r2-s2,2,6.87
+60,19,38,profile_005,Small business usage,multi-gaussian,19.715,47.92,100.0,500.0,1173.288,1,r2-s2,2,6.87
+65,19,38,profile_005,Small business usage,multi-gaussian,17.401,52.413,100.0,500.0,1183.252,1,r2-s2,2,6.87
+70,19,38,profile_005,Small business usage,multi-gaussian,18.262,62.095,100.0,500.0,1194.712,1,r2-s2,2,6.87
+75,19,38,profile_005,Small business usage,multi-gaussian,16.65,66.293,100.0,500.0,1242.642,1,r2-s2,2,6.87
+80,19,38,profile_005,Small business usage,multi-gaussian,16.893,69.019,100.0,500.0,1232.383,1,r2-s2,2,6.87
+85,19,38,profile_005,Small business usage,multi-gaussian,16.827,71.632,100.0,500.0,1248.602,1,r2-s2,2,6.87
+90,19,38,profile_005,Small business usage,multi-gaussian,18.0,74.875,100.0,500.0,1263.428,1,r2-s2,2,6.87
+95,19,38,profile_005,Small business usage,multi-gaussian,20.543,73.527,100.0,500.0,1299.831,1,r2-s2,2,6.87
+100,19,38,profile_005,Small business usage,multi-gaussian,23.673,70.982,100.0,500.0,1287.387,1,r2-s2,2,6.87
+105,19,38,profile_005,Small business usage,multi-gaussian,28.276,72.086,100.0,500.0,1297.986,1,r2-s2,2,6.87
+110,19,38,profile_005,Small business usage,multi-gaussian,30.748,67.39,100.0,500.0,1302.145,1,r2-s2,2,6.87
+115,19,38,profile_005,Small business usage,multi-gaussian,31.139,67.247,100.0,500.0,1315.265,1,r2-s2,2,6.87
+120,19,38,profile_005,Small business usage,multi-gaussian,33.64,65.484,100.0,500.0,1311.022,1,r2-s2,2,6.87
+125,19,38,profile_005,Small business usage,multi-gaussian,32.825,66.09,100.0,500.0,1315.55,1,r2-s2,2,6.87
+130,19,38,profile_005,Small business usage,multi-gaussian,32.474,65.179,100.0,500.0,1298.354,1,r2-s2,2,6.87
+135,19,38,profile_005,Small business usage,multi-gaussian,33.659,71.118,100.0,500.0,1298.493,1,r2-s2,2,6.87
+140,19,38,profile_005,Small business usage,multi-gaussian,30.247,68.886,100.0,500.0,1272.627,1,r2-s2,2,6.87
+145,19,38,profile_005,Small business usage,multi-gaussian,26.128,64.701,100.0,500.0,1270.558,1,r2-s2,2,6.87
+150,19,38,profile_005,Small business usage,multi-gaussian,25.115,64.977,100.0,500.0,1232.859,1,r2-s2,2,6.87
+155,19,38,profile_005,Small business usage,multi-gaussian,18.622,60.938,100.0,500.0,1195.608,1,r2-s2,2,6.87
+160,19,38,profile_005,Small business usage,multi-gaussian,17.658,59.868,100.0,500.0,1152.192,1,r2-s2,2,6.87
+165,19,38,profile_005,Small business usage,multi-gaussian,15.676,56.824,100.0,500.0,1067.611,1,r2-s2,2,6.87
+170,19,38,profile_005,Small business usage,multi-gaussian,13.729,53.73,100.0,500.0,1001.485,1,r2-s2,2,6.87
+175,19,38,profile_005,Small business usage,multi-gaussian,10.953,47.082,100.0,500.0,925.316,1,r2-s2,2,6.87
+0,20,39,profile_028,Work-from-home setup,multi-gaussian,4.875,9.831,100.0,500.0,794.84,1,r2-s2,3,5.548
+5,20,39,profile_028,Work-from-home setup,multi-gaussian,6.91,12.109,100.0,500.0,826.66,1,r2-s2,3,5.548
+10,20,39,profile_028,Work-from-home setup,multi-gaussian,7.387,12.703,100.0,500.0,876.584,1,r2-s2,3,5.548
+15,20,39,profile_028,Work-from-home setup,multi-gaussian,7.134,17.369,100.0,500.0,937.115,1,r2-s2,3,5.548
+20,20,39,profile_028,Work-from-home setup,multi-gaussian,9.826,20.443,100.0,500.0,1002.901,1,r2-s2,3,5.548
+25,20,39,profile_028,Work-from-home setup,multi-gaussian,12.868,25.319,100.0,500.0,1038.799,1,r2-s2,3,5.548
+30,20,39,profile_028,Work-from-home setup,multi-gaussian,17.636,32.078,100.0,500.0,1055.833,1,r2-s2,3,5.548
+35,20,39,profile_028,Work-from-home setup,multi-gaussian,25.769,43.437,100.0,500.0,1122.408,1,r2-s2,3,5.548
+40,20,39,profile_028,Work-from-home setup,multi-gaussian,31.314,53.908,100.0,500.0,1141.752,1,r2-s2,3,5.548
+45,20,39,profile_028,Work-from-home setup,multi-gaussian,36.208,64.582,100.0,500.0,1171.352,1,r2-s2,3,5.548
+50,20,39,profile_028,Work-from-home setup,multi-gaussian,39.979,71.194,100.0,500.0,1194.185,1,r2-s2,3,5.548
+55,20,39,profile_028,Work-from-home setup,multi-gaussian,41.036,77.922,100.0,500.0,1172.116,1,r2-s2,3,5.548
+60,20,39,profile_028,Work-from-home setup,multi-gaussian,35.975,75.207,100.0,500.0,1173.288,1,r2-s2,3,5.548
+65,20,39,profile_028,Work-from-home setup,multi-gaussian,31.722,72.327,100.0,500.0,1183.252,1,r2-s2,3,5.548
+70,20,39,profile_028,Work-from-home setup,multi-gaussian,30.2,70.36,100.0,500.0,1194.712,1,r2-s2,3,5.548
+75,20,39,profile_028,Work-from-home setup,multi-gaussian,26.605,65.262,100.0,500.0,1242.642,1,r2-s2,3,5.548
+80,20,39,profile_028,Work-from-home setup,multi-gaussian,28.127,65.653,100.0,500.0,1232.383,1,r2-s2,3,5.548
+85,20,39,profile_028,Work-from-home setup,multi-gaussian,29.467,64.759,100.0,500.0,1248.602,1,r2-s2,3,5.548
+90,20,39,profile_028,Work-from-home setup,multi-gaussian,28.769,62.707,100.0,500.0,1263.428,1,r2-s2,3,5.548
+95,20,39,profile_028,Work-from-home setup,multi-gaussian,31.767,67.12,100.0,500.0,1299.831,1,r2-s2,3,5.548
+100,20,39,profile_028,Work-from-home setup,multi-gaussian,29.825,60.826,100.0,500.0,1287.387,1,r2-s2,3,5.548
+105,20,39,profile_028,Work-from-home setup,multi-gaussian,25.916,57.894,100.0,500.0,1297.986,1,r2-s2,3,5.548
+110,20,39,profile_028,Work-from-home setup,multi-gaussian,26.285,59.369,100.0,500.0,1302.145,1,r2-s2,3,5.548
+115,20,39,profile_028,Work-from-home setup,multi-gaussian,21.775,54.403,100.0,500.0,1315.265,1,r2-s2,3,5.548
+120,20,39,profile_028,Work-from-home setup,multi-gaussian,23.778,57.603,100.0,500.0,1311.022,1,r2-s2,3,5.548
+125,20,39,profile_028,Work-from-home setup,multi-gaussian,23.554,55.923,100.0,500.0,1315.55,1,r2-s2,3,5.548
+130,20,39,profile_028,Work-from-home setup,multi-gaussian,27.375,58.129,100.0,500.0,1298.354,1,r2-s2,3,5.548
+135,20,39,profile_028,Work-from-home setup,multi-gaussian,29.122,57.833,100.0,500.0,1298.493,1,r2-s2,3,5.548
+140,20,39,profile_028,Work-from-home setup,multi-gaussian,29.471,54.903,100.0,500.0,1272.627,1,r2-s2,3,5.548
+145,20,39,profile_028,Work-from-home setup,multi-gaussian,34.068,59.499,100.0,500.0,1270.558,1,r2-s2,3,5.548
+150,20,39,profile_028,Work-from-home setup,multi-gaussian,32.766,51.768,100.0,500.0,1232.859,1,r2-s2,3,5.548
+155,20,39,profile_028,Work-from-home setup,multi-gaussian,33.918,51.1,100.0,500.0,1195.608,1,r2-s2,3,5.548
+160,20,39,profile_028,Work-from-home setup,multi-gaussian,32.405,49.712,100.0,500.0,1152.192,1,r2-s2,3,5.548
+165,20,39,profile_028,Work-from-home setup,multi-gaussian,28.1,41.646,100.0,500.0,1067.611,1,r2-s2,3,5.548
+170,20,39,profile_028,Work-from-home setup,multi-gaussian,26.399,35.404,100.0,500.0,1001.485,1,r2-s2,3,5.548
+175,20,39,profile_028,Work-from-home setup,multi-gaussian,22.417,33.764,100.0,500.0,925.316,1,r2-s2,3,5.548
+0,20,40,profile_028,Home security + streaming,multi-gaussian,4.956,9.831,100.0,500.0,794.84,1,r2-s2,2,5.738
+5,20,40,profile_028,Home security + streaming,multi-gaussian,5.199,12.109,100.0,500.0,826.66,1,r2-s2,2,5.738
+10,20,40,profile_028,Home security + streaming,multi-gaussian,5.316,12.703,100.0,500.0,876.584,1,r2-s2,2,5.738
+15,20,40,profile_028,Home security + streaming,multi-gaussian,10.235,17.369,100.0,500.0,937.115,1,r2-s2,2,5.738
+20,20,40,profile_028,Home security + streaming,multi-gaussian,10.618,20.443,100.0,500.0,1002.901,1,r2-s2,2,5.738
+25,20,40,profile_028,Home security + streaming,multi-gaussian,12.451,25.319,100.0,500.0,1038.799,1,r2-s2,2,5.738
+30,20,40,profile_028,Home security + streaming,multi-gaussian,14.441,32.078,100.0,500.0,1055.833,1,r2-s2,2,5.738
+35,20,40,profile_028,Home security + streaming,multi-gaussian,17.668,43.437,100.0,500.0,1122.408,1,r2-s2,2,5.738
+40,20,40,profile_028,Home security + streaming,multi-gaussian,22.594,53.908,100.0,500.0,1141.752,1,r2-s2,2,5.738
+45,20,40,profile_028,Home security + streaming,multi-gaussian,28.373,64.582,100.0,500.0,1171.352,1,r2-s2,2,5.738
+50,20,40,profile_028,Home security + streaming,multi-gaussian,31.214,71.194,100.0,500.0,1194.185,1,r2-s2,2,5.738
+55,20,40,profile_028,Home security + streaming,multi-gaussian,36.886,77.922,100.0,500.0,1172.116,1,r2-s2,2,5.738
+60,20,40,profile_028,Home security + streaming,multi-gaussian,39.232,75.207,100.0,500.0,1173.288,1,r2-s2,2,5.738
+65,20,40,profile_028,Home security + streaming,multi-gaussian,40.605,72.327,100.0,500.0,1183.252,1,r2-s2,2,5.738
+70,20,40,profile_028,Home security + streaming,multi-gaussian,40.16,70.36,100.0,500.0,1194.712,1,r2-s2,2,5.738
+75,20,40,profile_028,Home security + streaming,multi-gaussian,38.657,65.262,100.0,500.0,1242.642,1,r2-s2,2,5.738
+80,20,40,profile_028,Home security + streaming,multi-gaussian,37.526,65.653,100.0,500.0,1232.383,1,r2-s2,2,5.738
+85,20,40,profile_028,Home security + streaming,multi-gaussian,35.292,64.759,100.0,500.0,1248.602,1,r2-s2,2,5.738
+90,20,40,profile_028,Home security + streaming,multi-gaussian,33.937,62.707,100.0,500.0,1263.428,1,r2-s2,2,5.738
+95,20,40,profile_028,Home security + streaming,multi-gaussian,35.353,67.12,100.0,500.0,1299.831,1,r2-s2,2,5.738
+100,20,40,profile_028,Home security + streaming,multi-gaussian,31.001,60.826,100.0,500.0,1287.387,1,r2-s2,2,5.738
+105,20,40,profile_028,Home security + streaming,multi-gaussian,31.978,57.894,100.0,500.0,1297.986,1,r2-s2,2,5.738
+110,20,40,profile_028,Home security + streaming,multi-gaussian,33.083,59.369,100.0,500.0,1302.145,1,r2-s2,2,5.738
+115,20,40,profile_028,Home security + streaming,multi-gaussian,32.627,54.403,100.0,500.0,1315.265,1,r2-s2,2,5.738
+120,20,40,profile_028,Home security + streaming,multi-gaussian,33.825,57.603,100.0,500.0,1311.022,1,r2-s2,2,5.738
+125,20,40,profile_028,Home security + streaming,multi-gaussian,32.369,55.923,100.0,500.0,1315.55,1,r2-s2,2,5.738
+130,20,40,profile_028,Home security + streaming,multi-gaussian,30.754,58.129,100.0,500.0,1298.354,1,r2-s2,2,5.738
+135,20,40,profile_028,Home security + streaming,multi-gaussian,28.71,57.833,100.0,500.0,1298.493,1,r2-s2,2,5.738
+140,20,40,profile_028,Home security + streaming,multi-gaussian,25.432,54.903,100.0,500.0,1272.627,1,r2-s2,2,5.738
+145,20,40,profile_028,Home security + streaming,multi-gaussian,25.43,59.499,100.0,500.0,1270.558,1,r2-s2,2,5.738
+150,20,40,profile_028,Home security + streaming,multi-gaussian,19.002,51.768,100.0,500.0,1232.859,1,r2-s2,2,5.738
+155,20,40,profile_028,Home security + streaming,multi-gaussian,17.181,51.1,100.0,500.0,1195.608,1,r2-s2,2,5.738
+160,20,40,profile_028,Home security + streaming,multi-gaussian,17.307,49.712,100.0,500.0,1152.192,1,r2-s2,2,5.738
+165,20,40,profile_028,Home security + streaming,multi-gaussian,13.546,41.646,100.0,500.0,1067.611,1,r2-s2,2,5.738
+170,20,40,profile_028,Home security + streaming,multi-gaussian,9.005,35.404,100.0,500.0,1001.485,1,r2-s2,2,5.738
+175,20,40,profile_028,Home security + streaming,multi-gaussian,11.347,33.764,100.0,500.0,925.316,1,r2-s2,2,5.738
