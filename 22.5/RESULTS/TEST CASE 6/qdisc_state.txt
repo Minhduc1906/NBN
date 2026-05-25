@@ -1,0 +1,422 @@
+## pre-experiment
+### s2:s2-hr1
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 280 bytes 4 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr1:hr1-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr2
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 140 bytes 2 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr2:hr2-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr3
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 210 bytes 3 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr3:hr3-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr4
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 210 bytes 3 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr4:hr4-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr5
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 140 bytes 2 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr5:hr5-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr6
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 140 bytes 2 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr6:hr6-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr7
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 140 bytes 2 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr7:hr7-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr8
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 140 bytes 2 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr8:hr8-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr9
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 70 bytes 1 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr9:hr9-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 70 bytes 1 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr10
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 140 bytes 2 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr10:hr10-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr11
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 70 bytes 1 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr11:hr11-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 70 bytes 1 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr12
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 140 bytes 2 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr12:hr12-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr13
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 140 bytes 2 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr13:hr13-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr14
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 140 bytes 2 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr14:hr14-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr15
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 140 bytes 2 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr15:hr15-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr16
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 140 bytes 2 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr16:hr16-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr17
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 140 bytes 2 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr17:hr17-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr18
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr18:hr18-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr19
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr19:hr19-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr20
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr20:hr20-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### r2:r2-s2
+qdisc tbf 1: root refcnt 5 rate 1Gbit burst 6250000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-r2
+qdisc tbf 1: root refcnt 5 rate 400Mbit burst 2500000b lat 50ms 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+## post-experiment
+### s2:s2-hr1
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 873433101 bytes 582170 pkt (dropped 1907, overlimits 65145 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr1:hr1-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 4739303 bytes 66016 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr2
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 1307211486 bytes 869850 pkt (dropped 11173, overlimits 245841 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr2:hr2-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 7721271 bytes 106347 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr3
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 1675093602 bytes 1112916 pkt (dropped 11850, overlimits 407846 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr3:hr3-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 12070729 bytes 166777 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr4
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 976015530 bytes 650673 pkt (dropped 1623, overlimits 60419 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr4:hr4-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 3539829 bytes 49522 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr5
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 1106072245 bytes 736688 pkt (dropped 11893, overlimits 149752 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr5:hr5-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 6058570 bytes 84462 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr6
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 971499148 bytes 646872 pkt (dropped 1058, overlimits 89532 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr6:hr6-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 6100871 bytes 84740 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr7
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 1288984516 bytes 857346 pkt (dropped 3124, overlimits 138811 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr7:hr7-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 7266002 bytes 101037 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr8
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 1524404708 bytes 1013075 pkt (dropped 9182, overlimits 368386 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr8:hr8-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 12148146 bytes 168807 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr9
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 1410306350 bytes 938164 pkt (dropped 7271, overlimits 186102 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr9:hr9-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 6440799 bytes 89863 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr10
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 1627183182 bytes 1081068 pkt (dropped 13663, overlimits 333600 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr10:hr10-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 10072656 bytes 139344 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr11
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 994730410 bytes 663049 pkt (dropped 3616, overlimits 69515 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr11:hr11-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 4559521 bytes 63319 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr12
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 1636531875 bytes 1087725 pkt (dropped 10729, overlimits 337479 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr12:hr12-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 11759137 bytes 163079 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr13
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 1467460041 bytes 974818 pkt (dropped 8008, overlimits 251641 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr13:hr13-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 10758110 bytes 149195 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr14
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 1335135636 bytes 888032 pkt (dropped 7994, overlimits 229941 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr14:hr14-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 10168123 bytes 140921 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr15
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 1202121966 bytes 799978 pkt (dropped 7990, overlimits 161476 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr15:hr15-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 5459572 bytes 75740 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr16
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 1191447695 bytes 793212 pkt (dropped 3917, overlimits 127748 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr16:hr16-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 6229318 bytes 86440 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr17
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 1749102517 bytes 1160842 pkt (dropped 16639, overlimits 475809 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr17:hr17-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 13866945 bytes 192291 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr18
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 1160039846 bytes 772697 pkt (dropped 4455, overlimits 120319 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr18:hr18-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 6022814 bytes 83280 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr19
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 1768041301 bytes 1173790 pkt (dropped 12804, overlimits 372570 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr19:hr19-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 12389443 bytes 171062 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-hr20
+qdisc tbf 1: root refcnt 5 rate 100Mbit burst 625000b lat 50ms 
+ Sent 1332544868 bytes 886424 pkt (dropped 5525, overlimits 159775 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### hr20:hr20-s2
+qdisc tbf 1: root refcnt 5 rate 40Mbit burst 250000b lat 50ms 
+ Sent 5885553 bytes 81436 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### r2:r2-s2
+qdisc tbf 1: root refcnt 5 rate 1Gbit burst 6250000b lat 50ms 
+ Sent 27169630461 bytes 18067133 pkt (dropped 234061, overlimits 9160116 requeues 0) 
+ backlog 0b 0p requeues 0
+
+### s2:s2-r2
+qdisc tbf 1: root refcnt 5 rate 400Mbit burst 2500000b lat 50ms 
+ Sent 163257202 bytes 2263685 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+
